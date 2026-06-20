@@ -413,18 +413,14 @@ $('btnQuickQuiz').addEventListener('click', () => {
 
 // 功能网格
 $('featToday').addEventListener('click', () => { alert(`今日已练习 ${getTodayCount()} 次`) })
-$('featBookmark').addEventListener('click', () => { alert('生词本功能开发中') })
 $('featStats').addEventListener('click', () => { showStats() })
 $('featWords').addEventListener('click', startWords)
-$('featWrong').addEventListener('click', () => { alert('错题集功能开发中') })
-$('featMastered').addEventListener('click', () => { alert('已掌握功能开发中') })
 $('featLevels').addEventListener('click', () => {
   // 循环切换级别
   const idx = LEVELS.indexOf(currentLevel)
   currentLevel = LEVELS[(idx + 1) % LEVELS.length]
   updateHero()
 })
-$('featExport').addEventListener('click', () => { alert('导出功能开发中') })
 $('featSettings').addEventListener('click', () => { toggleTheme() })
 
 // 主题切换
