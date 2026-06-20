@@ -414,12 +414,6 @@ $('btnQuickQuiz').addEventListener('click', () => {
 // 功能网格
 $('featStats').addEventListener('click', () => { showStats() })
 $('featWords').addEventListener('click', startWords)
-$('featLevels').addEventListener('click', () => {
-  // 循环切换级别
-  const idx = LEVELS.indexOf(currentLevel)
-  currentLevel = LEVELS[(idx + 1) % LEVELS.length]
-  updateHero()
-})
 $('featSettings').addEventListener('click', () => { toggleTheme() })
 
 // 主题切换
