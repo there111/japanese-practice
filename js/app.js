@@ -104,7 +104,8 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e =
 
 // ====== 今日统计 ======
 function getTodayKey() {
-  return new Date().toISOString().split('T')[0] // YYYY-MM-DD
+  const d = new Date()
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`
 }
 
 function getTodayCount() {
@@ -411,7 +412,7 @@ $('btnQuickQuiz').addEventListener('click', () => {
 })
 
 // 功能网格
-$('featToday').addEventListener('click', () => { showStats() })
+$('featToday').addEventListener('click', () => { alert(`今日已练习 ${getTodayCount()} 次`) })
 $('featBookmark').addEventListener('click', () => { alert('生词本功能开发中') })
 $('featStats').addEventListener('click', () => { showStats() })
 $('featWords').addEventListener('click', startWords)
