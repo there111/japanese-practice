@@ -412,7 +412,6 @@ $('btnQuickQuiz').addEventListener('click', () => {
 })
 
 // 功能网格
-$('featToday').addEventListener('click', () => { alert(`今日已练习 ${getTodayCount()} 次`) })
 $('featStats').addEventListener('click', () => { showStats() })
 $('featWords').addEventListener('click', startWords)
 $('featLevels').addEventListener('click', () => {
