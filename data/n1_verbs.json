@@ -1,0 +1,4270 @@
+[
+  {
+    "word": "こだわる",
+    "kana": "こだわる",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 拘泥",
+    "gloss_en": "to fuss over, to be particular about"
+  },
+  {
+    "word": "ごまかす",
+    "kana": "ごまかす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "欺骗；掩盖，敷衍；弄虚作假",
+    "gloss_en": "to deceive, to falsify, to misrepresent"
+  },
+  {
+    "word": "しくじる",
+    "kana": "しくじる",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "失败；被解雇",
+    "gloss_en": "to fail, to fall through, to blunder"
+  },
+  {
+    "word": "しょっちゅう",
+    "kana": "しょっちゅう",
+    "pitch": 1,
+    "pos": "副",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "经常，总是",
+    "gloss_en": "always, constantly"
+  },
+  {
+    "word": "ずるずる",
+    "kana": "ずるずる",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "拖延，拖拉",
+    "gloss_en": "dragging on, sound of sniffling"
+  },
+  {
+    "word": "だぶだぶ",
+    "kana": "だぶだぶ",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "肥大",
+    "gloss_en": "loose, baggy"
+  },
+  {
+    "word": "ちょくちょく",
+    "kana": "ちょくちょく",
+    "pitch": 1,
+    "pos": "副",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "时常，往往",
+    "gloss_en": "often, frequently, now and then, occasionally"
+  },
+  {
+    "word": "とりあえず",
+    "kana": "とりあえず",
+    "pitch": 3,
+    "pos": "副",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "暂且，姑且；急忙，匆忙",
+    "gloss_en": "at once, first of all, for the time being"
+  },
+  {
+    "word": "とろける",
+    "kana": "とろける",
+    "pitch": 3,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "溶化；陶醉，心旷神怡",
+    "gloss_en": "melt; to be enchanted with"
+  },
+  {
+    "word": "ばてる",
+    "kana": "ばてる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "精疲力竭，累得要命",
+    "gloss_en": "to be exhausted, to be worn out"
+  },
+  {
+    "word": "ばらまく",
+    "kana": "ばらまく",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "散播，散发；散财，到处花钱",
+    "gloss_en": "to disseminate, to scatter"
+  },
+  {
+    "word": "ぼやく",
+    "kana": "ぼやく",
+    "pitch": 2,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "嘟囔，发牢骚",
+    "gloss_en": "to grumble, to complain"
+  },
+  {
+    "word": "ぼやける",
+    "kana": "ぼやける",
+    "pitch": 3,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "模糊，不清楚",
+    "gloss_en": "to become dim, to become blurred"
+  },
+  {
+    "word": "まごつく",
+    "kana": "まごつく",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "惊慌失措；徘徊，彷徨",
+    "gloss_en": "to be confused, to be flustered"
+  },
+  {
+    "word": "もがく",
+    "kana": "もがく",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "挣扎；着急",
+    "gloss_en": "to struggle, to wriggle, to be impatient"
+  },
+  {
+    "word": "もたらす",
+    "kana": "もたらす",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 造成，招致，带来，带去",
+    "gloss_en": "to bring, to take, to bring about"
+  },
+  {
+    "word": "もてなす",
+    "kana": "もてなす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "接待；招待，款待",
+    "gloss_en": "to entertain, to make welcome"
+  },
+  {
+    "word": "サボる",
+    "kana": "サボる",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "旷工，旷课",
+    "gloss_en": "to cut (skip) classes; to loaf on the job; to idle away one's time"
+  },
+  {
+    "word": "上回る",
+    "kana": "うわまわる",
+    "pitch": 4,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 超过，超出",
+    "gloss_en": "to exceed"
+  },
+  {
+    "word": "丸める",
+    "kana": "まるめる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "弄圆，揉成团；笼络，拉拢（他人）",
+    "gloss_en": "to make round, to round off, to roll up"
+  },
+  {
+    "word": "乗っ取る",
+    "kana": "のっとる",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "攻占，夺取",
+    "gloss_en": "to capture, to occupy, to take over"
+  },
+  {
+    "word": "乗り込む",
+    "kana": "のりこむ",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "乘上，坐上（车、船等）；（一起）乘坐；进入，闯入",
+    "gloss_en": "to board, to get into (a car); to march into, to enter"
+  },
+  {
+    "word": "乱す",
+    "kana": "みだす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "弄乱，扰乱",
+    "gloss_en": "to throw out of order, to disarrange, to disturb"
+  },
+  {
+    "word": "乱れる",
+    "kana": "みだれる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 乱，不平静",
+    "gloss_en": "to get confused, to be disordered, to be disturbed"
+  },
+  {
+    "word": "交える",
+    "kana": "まじえる",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "夹杂，掺杂；交叉，互相",
+    "gloss_en": "to mix, to converse with, to cross (swords)"
+  },
+  {
+    "word": "交わる",
+    "kana": "まじわる",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（数学）相交；交往，交际",
+    "gloss_en": "to cross, to intersect, to mingle with,"
+  },
+  {
+    "word": "仕える",
+    "kana": "つかえる",
+    "pitch": 3,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "伺候，服侍；做官",
+    "gloss_en": "to serve, to work for"
+  },
+  {
+    "word": "仕上げる",
+    "kana": "しあげる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 完成，做成",
+    "gloss_en": "to finish up, to complete"
+  },
+  {
+    "word": "仕切る",
+    "kana": "しきる",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "隔开，间隔；掌管，全权处理",
+    "gloss_en": "to partition, to divide, to mark off"
+  },
+  {
+    "word": "仕掛ける",
+    "kana": "しかける",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "开始做；做到中途；挑衅；布置，设置",
+    "gloss_en": "to lay, to set, to wage"
+  },
+  {
+    "word": "仕立てる",
+    "kana": "したてる",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "缝制衣服；培养；准备；乔装，扮作",
+    "gloss_en": "to tailor, to make, to prepare"
+  },
+  {
+    "word": "付け加える",
+    "kana": "つけくわえる",
+    "pitch": 5,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "补充，添加",
+    "gloss_en": "to add one thing to another"
+  },
+  {
+    "word": "仰ぐ",
+    "kana": "あおぐ",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "仰起；尊为，推为；仰仗；请求",
+    "gloss_en": "to look up (to), to respect; to ask for"
+  },
+  {
+    "word": "任す",
+    "kana": "まかす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "委托，托付；听任",
+    "gloss_en": "to entrust, to leave to a person"
+  },
+  {
+    "word": "休める",
+    "kana": "やすめる",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "使休息；使平静；使安心",
+    "gloss_en": "to rest, to suspend, to give relief"
+  },
+  {
+    "word": "伴う",
+    "kana": "ともなう",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 随着，伴随；跟随；符合",
+    "gloss_en": "to accompany, to bring with"
+  },
+  {
+    "word": "似通う",
+    "kana": "にかよう",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "相似，类似",
+    "gloss_en": "to resemble closely"
+  },
+  {
+    "word": "侵す",
+    "kana": "おかす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "侵犯，侵害；侵占",
+    "gloss_en": "to invade, to raid, to trespass"
+  },
+  {
+    "word": "促す",
+    "kana": "うながす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "催促；促进，促使",
+    "gloss_en": "to urge, to suggest, to demand"
+  },
+  {
+    "word": "値する",
+    "kana": "あたいする",
+    "pitch": 0,
+    "pos": "自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "值得，有⋯⋯价值",
+    "gloss_en": "to be worth, to deserve"
+  },
+  {
+    "word": "備え付ける",
+    "kana": "そなえつける",
+    "pitch": 5,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "设置，安置",
+    "gloss_en": "to provide, to equip, to install"
+  },
+  {
+    "word": "備わる",
+    "kana": "そなわる",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "设有；具有，具备（素质等）",
+    "gloss_en": "to be furnished with"
+  },
+  {
+    "word": "催す",
+    "kana": "もよおす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "举行，举办；感觉（要⋯⋯）",
+    "gloss_en": "to hold (a meeting), to give (a dinner)"
+  },
+  {
+    "word": "傷付く",
+    "kana": "きずつく",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "受伤；遭受损坏",
+    "gloss_en": "to be hurt, to be wounded, to get injured"
+  },
+  {
+    "word": "傷付ける",
+    "kana": "きずつける",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "伤，弄伤；伤害；败坏",
+    "gloss_en": "to wound, to hurt someone's feelings"
+  },
+  {
+    "word": "傾ける",
+    "kana": "かたむける",
+    "pitch": 4,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 倾，倾斜；倾注",
+    "gloss_en": "to incline, to tilt, to bend"
+  },
+  {
+    "word": "免れる",
+    "kana": "まぬがれる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "避免，摆脱",
+    "gloss_en": "to escape from, to be exempted"
+  },
+  {
+    "word": "冴える",
+    "kana": "さえる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（光、声音等）鲜明，清晰；清醒；纯熟，精湛",
+    "gloss_en": "to be clear, to be bright, to be skillful"
+  },
+  {
+    "word": "冷やかす",
+    "kana": "ひやかす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "戏弄，嘲弄；只逛不买",
+    "gloss_en": "to banter, to make fun of, to jeer at, to cool, to refrigerate"
+  },
+  {
+    "word": "凌ぐ",
+    "kana": "しのぐ",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "忍耐，忍受；应付；凌驾，超过",
+    "gloss_en": "to outdo, to surpass; to endure"
+  },
+  {
+    "word": "凝らす",
+    "kana": "こらす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "凝（视），集中（精神）",
+    "gloss_en": "to concentrate, to devote, to peer into"
+  },
+  {
+    "word": "凝る",
+    "kana": "こる",
+    "pitch": 1,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "肌肉酸痛；热衷；讲究",
+    "gloss_en": "to stiffen, to harden"
+  },
+  {
+    "word": "出くわす",
+    "kana": "でくわす",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "偶遇，碰到",
+    "gloss_en": "to happen to meet, to come across"
+  },
+  {
+    "word": "制する",
+    "kana": "せいする",
+    "pitch": 3,
+    "pos": "他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "压制，控制；制定（法律）；限制（饮食）",
+    "gloss_en": "to control, to command"
+  },
+  {
+    "word": "剥ぐ",
+    "kana": "はぐ",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "剥下，揭下；（强行）扒下；剥夺（官职等）",
+    "gloss_en": "to tear off, to peel off, to rip off"
+  },
+  {
+    "word": "剥げる",
+    "kana": "はげる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "剥落；褪色",
+    "gloss_en": "to come off, to be worn off, to fade, to discolor"
+  },
+  {
+    "word": "励ます",
+    "kana": "はげます",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 鼓劲，鼓励，激励",
+    "gloss_en": "to encourage, to cheer, to raise (the voice)"
+  },
+  {
+    "word": "励む",
+    "kana": "はげむ",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "努力，刻苦",
+    "gloss_en": "to be zealous, to make an effort"
+  },
+  {
+    "word": "勝る",
+    "kana": "まさる",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "胜过，强过",
+    "gloss_en": "to excel, to surpass, to out-rival"
+  },
+  {
+    "word": "募る",
+    "kana": "つのる",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 募集，征募，招募",
+    "gloss_en": "to invite, to solicit help, participation, etc"
+  },
+  {
+    "word": "化ける",
+    "kana": "ばける",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "化为；乔装；完全变样",
+    "gloss_en": "to disguise, to take the form of"
+  },
+  {
+    "word": "危ぶむ",
+    "kana": "あやぶむ",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "担心，担忧；怀疑，不相信",
+    "gloss_en": "to fear, to have misgivings, to be doubtful"
+  },
+  {
+    "word": "即する",
+    "kana": "そくする",
+    "pitch": 3,
+    "pos": "自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "就，结合（情况）",
+    "gloss_en": "to conform to, to agree with, to be adapted to,"
+  },
+  {
+    "word": "及ぶ",
+    "kana": "およぶ",
+    "pitch": 0,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 达，及",
+    "gloss_en": "to reach, to extend"
+  },
+  {
+    "word": "反する",
+    "kana": "はんする",
+    "pitch": null,
+    "pos": "サ変動詞",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动3 相反；违反",
+    "gloss_en": "to be inconsistent with, to oppose, to contradict"
+  },
+  {
+    "word": "収まる",
+    "kana": "おさまる",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "收纳，容纳；恢复",
+    "gloss_en": "to settle into; to be obtained"
+  },
+  {
+    "word": "取り付ける",
+    "kana": "とりつける",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "安装（设备）",
+    "gloss_en": "to furnish, to install; to get someone's agreement"
+  },
+  {
+    "word": "取り寄せる",
+    "kana": "とりよせる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "让人寄来，订购",
+    "gloss_en": "to order, to send away for"
+  },
+  {
+    "word": "取り巻く",
+    "kana": "とりまく",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "围住，围绕",
+    "gloss_en": "to surround, to circle, to enclose"
+  },
+  {
+    "word": "取り戻す",
+    "kana": "とりもどす",
+    "pitch": 4,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "取回，拿回，收回；挽回，恢复",
+    "gloss_en": "to take back, to regain"
+  },
+  {
+    "word": "取り扱う",
+    "kana": "とりあつかう",
+    "pitch": 5,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "对待（人）；操作（机器）；处理（事务）",
+    "gloss_en": "to treat, to handle, to deal in"
+  },
+  {
+    "word": "取り次ぐ",
+    "kana": "とりつぐ",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "传达，转达；经销，代销",
+    "gloss_en": "to act as an agent for, to announce (someone), to convey (a message)"
+  },
+  {
+    "word": "取り混ぜる",
+    "kana": "とりまぜる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "掺杂，混合",
+    "gloss_en": "to mix, to put together"
+  },
+  {
+    "word": "取り立てる",
+    "kana": "とりたてる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "索取，催收；提拔；特别提及",
+    "gloss_en": "to collect, to extort"
+  },
+  {
+    "word": "取り組む",
+    "kana": "とりくむ",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 致力于，埋头于",
+    "gloss_en": "to tackle, to engage in a bout, to come to grips with"
+  },
+  {
+    "word": "取り締まる",
+    "kana": "とりしまる",
+    "pitch": 4,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "监督，管理，取缔",
+    "gloss_en": "to crack down, to control, to supervise"
+  },
+  {
+    "word": "取り調べる",
+    "kana": "とりしらべる",
+    "pitch": 5,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "调查；审讯，审问",
+    "gloss_en": "to investigate, to examine"
+  },
+  {
+    "word": "取り除く",
+    "kana": "とりのぞく",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 去除，除去",
+    "gloss_en": "to remove, to take away, to set apart"
+  },
+  {
+    "word": "受かる",
+    "kana": "うかる",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 考上，考中，及格",
+    "gloss_en": "to pass (examination)"
+  },
+  {
+    "word": "受け付ける",
+    "kana": "うけつける",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "接受，受理（申请等）",
+    "gloss_en": "to be accepted, to receive (an application)"
+  },
+  {
+    "word": "受け入れる",
+    "kana": "うけいれる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 接受，采纳",
+    "gloss_en": "to accept, to receive"
+  },
+  {
+    "word": "受け止める",
+    "kana": "うけとめる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "接住；阻击；理解，接受",
+    "gloss_en": "to catch, to react to, to take"
+  },
+  {
+    "word": "受け継ぐ",
+    "kana": "うけつぐ",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "继承，传承",
+    "gloss_en": "to inherit, to succeed"
+  },
+  {
+    "word": "叶う",
+    "kana": "かなう",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "能实现，能如愿以偿",
+    "gloss_en": "to come true"
+  },
+  {
+    "word": "合わす",
+    "kana": "あわす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "合在一起；配合；核对",
+    "gloss_en": "to join together, to face, to unite"
+  },
+  {
+    "word": "名付ける",
+    "kana": "なづける",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "命名，起名",
+    "gloss_en": "to name"
+  },
+  {
+    "word": "告げる",
+    "kana": "つげる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "告知，通知；宣告",
+    "gloss_en": "to inform"
+  },
+  {
+    "word": "呼び止める",
+    "kana": "よびとめる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "叫住，叫停",
+    "gloss_en": "to flag down"
+  },
+  {
+    "word": "和らげる",
+    "kana": "やわらげる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 使柔和，使缓和",
+    "gloss_en": "to soften, to moderate, to relieve"
+  },
+  {
+    "word": "唱える",
+    "kana": "となえる",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "诵（诗），念；提倡；提出",
+    "gloss_en": "to recite, to chant, to call upon"
+  },
+  {
+    "word": "問い合わせる",
+    "kana": "といあわせる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 询问，问，打听",
+    "gloss_en": "to inquire, to seek information"
+  },
+  {
+    "word": "問う",
+    "kana": "とう",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动1 问，打听",
+    "gloss_en": "to ask, to question"
+  },
+  {
+    "word": "営む",
+    "kana": "いとなむ",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "从事；经营",
+    "gloss_en": "to carry on (e.g., in ceremony), to run a business"
+  },
+  {
+    "word": "嘆く",
+    "kana": "なげく",
+    "pitch": 2,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "叹息，叹气；哀叹，悲叹",
+    "gloss_en": "to sigh, to lament, to grieve"
+  },
+  {
+    "word": "嘲笑う",
+    "kana": "あざわらう",
+    "pitch": 4,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "嘲笑",
+    "gloss_en": "to sneer at, to ridicule"
+  },
+  {
+    "word": "噛み切る",
+    "kana": "かみきる",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "咬断，咬破",
+    "gloss_en": "to bite off, to gnaw through"
+  },
+  {
+    "word": "図る",
+    "kana": "はかる",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "图谋，策划",
+    "gloss_en": "to plot, to attempt, to devise, to design, to refer A to B"
+  },
+  {
+    "word": "固める",
+    "kana": "かためる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "使凝固；坚定，巩固",
+    "gloss_en": "to harden, to freeze, to fortify"
+  },
+  {
+    "word": "垂れる",
+    "kana": "たれる",
+    "pitch": 2,
+    "pos": "自他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "下垂，耷拉；使下垂",
+    "gloss_en": "to hang, to droop; to drip"
+  },
+  {
+    "word": "埋まる",
+    "kana": "うまる",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动1 埋上，埋藏",
+    "gloss_en": "to be buried, to be filled"
+  },
+  {
+    "word": "埋め込む",
+    "kana": "うめこむ",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "埋进，埋入",
+    "gloss_en": "to embed, implant"
+  },
+  {
+    "word": "報じる",
+    "kana": "ほうじる",
+    "pitch": 0,
+    "pos": "自他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "报答；报告，通知",
+    "gloss_en": "to inform, to report"
+  },
+  {
+    "word": "売り出す",
+    "kana": "うりだす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "开始出售；大甩卖；出名",
+    "gloss_en": "to put on sale, to market"
+  },
+  {
+    "word": "奉る",
+    "kana": "たてまつる",
+    "pitch": 4,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "献上，奉上；奉承，恭维",
+    "gloss_en": "to offer, to do respectfully"
+  },
+  {
+    "word": "妬む",
+    "kana": "ねたむ",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "嫉妒，眼红；嫉恨",
+    "gloss_en": "to be jealous, to be envious"
+  },
+  {
+    "word": "定まる",
+    "kana": "さだまる",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "决定，确定；安定，稳定",
+    "gloss_en": "to become settled, to be fixed"
+  },
+  {
+    "word": "定める",
+    "kana": "さだめる",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "决定；制定；平定（内乱）；奠定",
+    "gloss_en": "to decide, to determine"
+  },
+  {
+    "word": "宛てる",
+    "kana": "あてる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "寄给，发给",
+    "gloss_en": "to address, to put"
+  },
+  {
+    "word": "害する",
+    "kana": "がいする",
+    "pitch": 3,
+    "pos": "他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "伤害；损害；妨碍；危害",
+    "gloss_en": "to harm, to offend"
+  },
+  {
+    "word": "寄り掛かる",
+    "kana": "よりかかる",
+    "pitch": 4,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "依靠，依赖",
+    "gloss_en": "to lean against, to recline on, to lean on, to rely on"
+  },
+  {
+    "word": "富む",
+    "kana": "とむ",
+    "pitch": 1,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（金钱）富有；丰富",
+    "gloss_en": "to be rich, to become rich"
+  },
+  {
+    "word": "尊ぶ",
+    "kana": "とうとぶ/たっとぶ",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "尊重，尊敬；重视，珍视",
+    "gloss_en": "to value, to prize, to esteem"
+  },
+  {
+    "word": "導く",
+    "kana": "みちびく",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "引导，指引；导致",
+    "gloss_en": "to be guided, to be shown"
+  },
+  {
+    "word": "尽きる",
+    "kana": "つきる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "用光，穷尽；完了，结束",
+    "gloss_en": "to be used up, to be run out"
+  },
+  {
+    "word": "尽くす",
+    "kana": "つくす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "尽力；效力；达到极点",
+    "gloss_en": "to exhaust, to run out; to devote, to serve"
+  },
+  {
+    "word": "差し出す",
+    "kana": "さしだす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "提交；寄出；伸出",
+    "gloss_en": "to present, to submit, to hold out"
+  },
+  {
+    "word": "差し掛かる",
+    "kana": "さしかかる",
+    "pitch": 4,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "靠近，路过；逼近，临近；垂悬",
+    "gloss_en": "to come near to, to approach"
+  },
+  {
+    "word": "差し支える",
+    "kana": "さしつかえる",
+    "pitch": 5,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "妨碍，有影响；不方便",
+    "gloss_en": "to interfere, to hinder"
+  },
+  {
+    "word": "帯びる",
+    "kana": "おびる",
+    "pitch": 2,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "佩带；担负，承担；带有",
+    "gloss_en": "to bear, to carry, to be entrusted"
+  },
+  {
+    "word": "広まる",
+    "kana": "ひろまる",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动1 扩大；传播，遍及",
+    "gloss_en": "to spread, to be propagated"
+  },
+  {
+    "word": "庇う",
+    "kana": "かばう",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "保护，庇护，包庇",
+    "gloss_en": "to protect someone, to&nbsp;&nbsp;cover up for someone"
+  },
+  {
+    "word": "引きずる",
+    "kana": "ひきずる",
+    "pitch": 0,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "拖拽；拖延；硬拽",
+    "gloss_en": "to drag along, to pull, to prolong"
+  },
+  {
+    "word": "引き上げる",
+    "kana": "ひきあげる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "提升；抬高",
+    "gloss_en": "to withdraw, to leave, to pull out"
+  },
+  {
+    "word": "引き起こす",
+    "kana": "ひきおこす",
+    "pitch": 4,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "引起（问题）；拉起，拽起",
+    "gloss_en": "to cause"
+  },
+  {
+    "word": "引っ掻く",
+    "kana": "ひっかく",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "搔，挠",
+    "gloss_en": "to scratch"
+  },
+  {
+    "word": "弛む",
+    "kana": "たゆむ",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "松弛，松懈",
+    "gloss_en": "to slacken, to loosen, to relax"
+  },
+  {
+    "word": "弱まる",
+    "kana": "よわまる",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动1 变弱，衰弱",
+    "gloss_en": "to weaken, to be emaciated, to be dejected"
+  },
+  {
+    "word": "弱める",
+    "kana": "よわめる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动2 弱化，减弱",
+    "gloss_en": "to weaken"
+  },
+  {
+    "word": "強いる",
+    "kana": "しいる",
+    "pitch": 2,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "强迫，迫使",
+    "gloss_en": "to force, to compel, to coerce"
+  },
+  {
+    "word": "強まる",
+    "kana": "つよまる",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动1 强烈起来，强硬起来",
+    "gloss_en": "to get strong, to gain strength"
+  },
+  {
+    "word": "強める",
+    "kana": "つよめる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动2 加强，增强",
+    "gloss_en": "to strengthen, to emphasize"
+  },
+  {
+    "word": "弾む",
+    "kana": "はずむ",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "反弹；起劲儿，（情绪）高涨；（呼吸）急促",
+    "gloss_en": "to bounce, to be encouraged, to splurge on"
+  },
+  {
+    "word": "待ち望む",
+    "kana": "まちのぞむ",
+    "pitch": 4,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "盼望，殷切希望",
+    "gloss_en": "to look anxiously for, to wait eagerly for"
+  },
+  {
+    "word": "徹する",
+    "kana": "てっする",
+    "pitch": 0,
+    "pos": "自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "透彻，贯彻；彻夜；彻底",
+    "gloss_en": "to devote oneself, to believe in"
+  },
+  {
+    "word": "心掛ける",
+    "kana": "こころがける",
+    "pitch": 5,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "留心，注意，记在心里",
+    "gloss_en": "to bear in mind, to aim to do"
+  },
+  {
+    "word": "志す",
+    "kana": "こころざす",
+    "pitch": 4,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "立志，志向",
+    "gloss_en": "to plan, to intend, to aspire to"
+  },
+  {
+    "word": "急かす",
+    "kana": "せかす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "催促",
+    "gloss_en": "to hurry, to urge on"
+  },
+  {
+    "word": "怯える",
+    "kana": "おびえる",
+    "pitch": 0,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "害怕，胆怯",
+    "gloss_en": "to become frightened"
+  },
+  {
+    "word": "恐れ入る",
+    "kana": "おそれいる",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "不好意思；非常感激；佩服",
+    "gloss_en": "to be filled with awe, to feel small"
+  },
+  {
+    "word": "恥じる",
+    "kana": "はじる",
+    "pitch": 2,
+    "pos": "自他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "羞愧，惭愧；败坏名誉",
+    "gloss_en": "to feel ashamed"
+  },
+  {
+    "word": "恵む",
+    "kana": "めぐむ",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "怜恤，施恩惠，救济",
+    "gloss_en": "to bless, to show mercy to"
+  },
+  {
+    "word": "悟る",
+    "kana": "さとる",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "知晓，领悟；察觉，发觉",
+    "gloss_en": "to attain enlightenment, to understand"
+  },
+  {
+    "word": "悩ます",
+    "kana": "なやます",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "使苦恼，使为难",
+    "gloss_en": "to bother, to harass, to molest"
+  },
+  {
+    "word": "悪しからず",
+    "kana": "あしからず",
+    "pitch": 3,
+    "pos": "副",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "不要见怪，原谅",
+    "gloss_en": "don't take me wrong, but..., I'm sorry"
+  },
+  {
+    "word": "惜しむ",
+    "kana": "おしむ",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "吝惜，舍不得；惋惜；爱惜，珍惜",
+    "gloss_en": "to be frugal, to value, to regret"
+  },
+  {
+    "word": "意気込む",
+    "kana": "いきごむ",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "振奋，鼓起干劲儿",
+    "gloss_en": "to be enthusiastic about"
+  },
+  {
+    "word": "慕う",
+    "kana": "したう",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "爱慕，思慕；敬仰；追随",
+    "gloss_en": "to yearn to adore"
+  },
+  {
+    "word": "慣らす",
+    "kana": "ならす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "使习惯，使适应",
+    "gloss_en": "to accustom"
+  },
+  {
+    "word": "懐く",
+    "kana": "なつく",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "亲近，喜欢",
+    "gloss_en": "to become emotionally attached"
+  },
+  {
+    "word": "懲りる",
+    "kana": "こりる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "因尝过苦头而不敢再尝试",
+    "gloss_en": "to learn by experience, to be disgusted with"
+  },
+  {
+    "word": "打ち切る",
+    "kana": "うちきる",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "停止，中止；结束",
+    "gloss_en": "to stop, to abort, to discontinue, to close"
+  },
+  {
+    "word": "打ち明ける",
+    "kana": "うちあける",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "坦率说出，开诚布公",
+    "gloss_en": "to confess, to be open"
+  },
+  {
+    "word": "打ち込む",
+    "kana": "うちこむ",
+    "pitch": 0,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "热衷，专心致志；打进，砸进",
+    "gloss_en": "to devote oneself to, to shoot into"
+  },
+  {
+    "word": "投げ出す",
+    "kana": "なげだす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "扔出去；放弃，抛弃；豁出去",
+    "gloss_en": "to abandon, to throw out"
+  },
+  {
+    "word": "折り返す",
+    "kana": "おりかえす",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 折回，返回",
+    "gloss_en": "to turn up, to fold back"
+  },
+  {
+    "word": "抜かす",
+    "kana": "ぬかす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "遗漏，漏掉；跳过",
+    "gloss_en": "to omit, to leave out"
+  },
+  {
+    "word": "抜け出す",
+    "kana": "ぬけだす",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "悄悄溜走；开始脱落",
+    "gloss_en": "to slip out, to sneak away, to excel"
+  },
+  {
+    "word": "押し切る",
+    "kana": "おしきる",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "切断；（排除困难）坚持到底",
+    "gloss_en": "to have one's own way"
+  },
+  {
+    "word": "押し寄せる",
+    "kana": "おしよせる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 涌过来，蜂拥而至",
+    "gloss_en": "to push aside, to advance on"
+  },
+  {
+    "word": "押し込む",
+    "kana": "おしこむ",
+    "pitch": 3,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "闯进，硬挤进去；抢劫；硬塞，塞入",
+    "gloss_en": "to push into, to crowd into"
+  },
+  {
+    "word": "担う",
+    "kana": "になう",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "担，挑；承担，担负",
+    "gloss_en": "to carry on shoulder, to bear (burden), to shoulder (gun)"
+  },
+  {
+    "word": "指差す",
+    "kana": "ゆびさす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "用手指；受人指责",
+    "gloss_en": "to point at"
+  },
+  {
+    "word": "挑む",
+    "kana": "いどむ",
+    "pitch": 2,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "挑衅，挑战；征服",
+    "gloss_en": "to challenge"
+  },
+  {
+    "word": "振り返る",
+    "kana": "ふりかえる",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "回头看；回顾（往事）",
+    "gloss_en": "to turn head, to turn around, to look back"
+  },
+  {
+    "word": "捗る",
+    "kana": "はかどる",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（工作、工程等的）进展",
+    "gloss_en": "to make progress, to move right ahead (with the work), to advance"
+  },
+  {
+    "word": "捧げる",
+    "kana": "ささげる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 奉献，贡献",
+    "gloss_en": "to lift up, to give, to offer"
+  },
+  {
+    "word": "捩れる",
+    "kana": "ねじれる",
+    "pitch": 3,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "歪，弯曲；（性情）乖僻",
+    "gloss_en": "twist, strain"
+  },
+  {
+    "word": "据える",
+    "kana": "すえる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "放置；让⋯⋯坐在⋯⋯位置；让⋯⋯就⋯⋯职位；沉着",
+    "gloss_en": "to set, to lay, to place"
+  },
+  {
+    "word": "据え付ける",
+    "kana": "すえつける",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "安装；配备；固定",
+    "gloss_en": "to install, to equip, to mount"
+  },
+  {
+    "word": "捲る",
+    "kana": "めくる",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "翻起；揭开；撕下",
+    "gloss_en": "to turn over, to turn pages of a book"
+  },
+  {
+    "word": "授ける",
+    "kana": "さずける",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "授予，赋予；教授，传授",
+    "gloss_en": "to grant, to award, to teach"
+  },
+  {
+    "word": "控える",
+    "kana": "ひかえる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 抑制，控制，节制",
+    "gloss_en": "to hold back; to make notes"
+  },
+  {
+    "word": "掲げる",
+    "kana": "かかげる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "高举，悬挂；刊登，登载；提出",
+    "gloss_en": "to hoist, to fly (a sail), to float (a flag)"
+  },
+  {
+    "word": "掻き回す",
+    "kana": "かきまわす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "搅拌；乱翻，乱弄；搅乱",
+    "gloss_en": "to stir up, to churn, to disturb"
+  },
+  {
+    "word": "揺さぶる",
+    "kana": "ゆさぶる",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "摇动，晃动；震撼，震惊",
+    "gloss_en": "to shake, to jolt, to rock, to swing"
+  },
+  {
+    "word": "揺らぐ",
+    "kana": "ゆらぐ",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "摇晃；摇摇欲坠",
+    "gloss_en": "to swing, to sway, to shake"
+  },
+  {
+    "word": "携わる",
+    "kana": "たずさわる",
+    "pitch": 4,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "参与，从事",
+    "gloss_en": "to engage, to involve"
+  },
+  {
+    "word": "摘む",
+    "kana": "つむ",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "摘，采，掐",
+    "gloss_en": "to pluck, to pick, to trim"
+  },
+  {
+    "word": "操る",
+    "kana": "あやつる",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "驾驶，操作；暗中控制，操纵；掌握",
+    "gloss_en": "to manipulate, to operate, to pull strings"
+  },
+  {
+    "word": "擦る",
+    "kana": "こする",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "擦，揉，搓",
+    "gloss_en": "to rub, to chafe"
+  },
+  {
+    "word": "擦れる",
+    "kana": "すれる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "摩擦；磨损；久经世故，变得圆滑",
+    "gloss_en": "to rub, to chafe"
+  },
+  {
+    "word": "改まる",
+    "kana": "あらたまる",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 郑重其事，庄重",
+    "gloss_en": "to be renewed; to be formal"
+  },
+  {
+    "word": "放り出す",
+    "kana": "ほうりだす",
+    "pitch": 4,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "扔出去，抛出去；中途放弃；开除",
+    "gloss_en": "to throw out, to give up, to abandon"
+  },
+  {
+    "word": "放り込む",
+    "kana": "ほうりこむ",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 扔进，投入",
+    "gloss_en": "to throw into"
+  },
+  {
+    "word": "整える",
+    "kana": "ととのえる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 完善，完备",
+    "gloss_en": "to put in order, to arrange, to adjust; to get ready, to prepare; to raise money"
+  },
+  {
+    "word": "施す",
+    "kana": "ほどこす",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 施加，施",
+    "gloss_en": "to give, to conduct, to perform"
+  },
+  {
+    "word": "早める",
+    "kana": "はやめる",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "提前",
+    "gloss_en": "to hasten, to quicken, to accelerate"
+  },
+  {
+    "word": "明かす",
+    "kana": "あかす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "说出；揭露，揭晓；过夜",
+    "gloss_en": "to reveal; to stay up"
+  },
+  {
+    "word": "映える",
+    "kana": "はえる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "映照；显得好看，显眼",
+    "gloss_en": "to shine, to look attractive, to look pretty"
+  },
+  {
+    "word": "書き取る",
+    "kana": "かきとる",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "记录；抄录；听写",
+    "gloss_en": "to write down, to take dictation"
+  },
+  {
+    "word": "有する",
+    "kana": "ゆうする",
+    "pitch": 3,
+    "pos": "他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "有，拥有",
+    "gloss_en": "to own, to be endowed with"
+  },
+  {
+    "word": "朽ちる",
+    "kana": "くちる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "腐朽，腐烂；衰败，衰亡",
+    "gloss_en": "to rot"
+  },
+  {
+    "word": "束ねる",
+    "kana": "たばねる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 扎，束，捆；整顿",
+    "gloss_en": "to tie up in a bundle, to control"
+  },
+  {
+    "word": "果たす",
+    "kana": "はたす",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 完成，实现，实行",
+    "gloss_en": "to accomplish, to fulfill, to carry out, to achieve"
+  },
+  {
+    "word": "果てる",
+    "kana": "はてる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "完毕，结束；死亡",
+    "gloss_en": "to end, to be finished, to be exhausted"
+  },
+  {
+    "word": "染まる",
+    "kana": "そまる",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "染上；沾染，受（坏）影响",
+    "gloss_en": "to be dyed"
+  },
+  {
+    "word": "染みる",
+    "kana": "しみる",
+    "pitch": 0,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "染上，沾染；刺，刺痛；浸透",
+    "gloss_en": "to soak; pierce"
+  },
+  {
+    "word": "染める",
+    "kana": "そめる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "染色；脸发红",
+    "gloss_en": "to dye, to color"
+  },
+  {
+    "word": "栄える",
+    "kana": "さかえる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 昌盛繁荣，繁荣兴盛，兴旺",
+    "gloss_en": "to flourish, to prosper, to thrive"
+  },
+  {
+    "word": "植わる",
+    "kana": "うわる",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "种植",
+    "gloss_en": "to be planted"
+  },
+  {
+    "word": "構える",
+    "kana": "かまえる",
+    "pitch": 3,
+    "pos": "自他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "修建；自立门户；摆出姿势；准备好；假托",
+    "gloss_en": "to set up"
+  },
+  {
+    "word": "欠く",
+    "kana": "かく",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "缺乏，缺少；弄坏；缺欠，怠慢",
+    "gloss_en": "to lack, to crack"
+  },
+  {
+    "word": "欺く",
+    "kana": "あざむく",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "欺骗；胜过，赛过",
+    "gloss_en": "to deceive"
+  },
+  {
+    "word": "歩む",
+    "kana": "あゆむ",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "走；发展，前进",
+    "gloss_en": "to walk"
+  },
+  {
+    "word": "歪む",
+    "kana": "ひずむ",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "变形，走样",
+    "gloss_en": "to warp, to be distorted"
+  },
+  {
+    "word": "沈める",
+    "kana": "しずめる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "使下沉；使降落",
+    "gloss_en": "to sink, to submerge"
+  },
+  {
+    "word": "沿う",
+    "kana": "そう",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动1 沿，顺",
+    "gloss_en": "to run along, to follow"
+  },
+  {
+    "word": "洒落る",
+    "kana": "しゃれる",
+    "pitch": 0,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "打扮得漂亮；说俏皮话；别致",
+    "gloss_en": "to joke, to play on words; stylish"
+  },
+  {
+    "word": "浸す",
+    "kana": "ひたす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "浸，泡",
+    "gloss_en": "to soak, to dip, to drench"
+  },
+  {
+    "word": "深める",
+    "kana": "ふかめる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动2 加深，深化",
+    "gloss_en": "to deepen, to heighten, to intensify"
+  },
+  {
+    "word": "添える",
+    "kana": "そえる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "附上，附加；伴随，陪同",
+    "gloss_en": "to add to, to attach, to accompany"
+  },
+  {
+    "word": "済ます",
+    "kana": "すます",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "做完，办完；凑合，将就",
+    "gloss_en": "to finish; to settle; to do without"
+  },
+  {
+    "word": "湿気る",
+    "kana": "しける",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "受潮，潮湿",
+    "gloss_en": "to be damp, to be moist"
+  },
+  {
+    "word": "満たす",
+    "kana": "みたす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "充满，填满；满足",
+    "gloss_en": "to satisfy, to ingratiate, to fill, to fulfill"
+  },
+  {
+    "word": "準じる",
+    "kana": "じゅんじる",
+    "pitch": 0,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "以⋯⋯为标准；按照⋯⋯看待",
+    "gloss_en": "to follow, to conform, to apply to"
+  },
+  {
+    "word": "滅びる",
+    "kana": "ほろびる",
+    "pitch": 3,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "灭亡，灭绝",
+    "gloss_en": "to be ruined, to perish, to be destroyed"
+  },
+  {
+    "word": "滅ぼす",
+    "kana": "ほろぼす",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 毁灭，使灭亡",
+    "gloss_en": "to destroy, to overthrow, to ruin"
+  },
+  {
+    "word": "滞る",
+    "kana": "とどこおる",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "堵塞；拖延，延误；拖欠",
+    "gloss_en": "to stagnate, to be delayed"
+  },
+  {
+    "word": "滲む",
+    "kana": "にじむ",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（颜色、墨等）洇，渗；渗出，浸出",
+    "gloss_en": "to run, to blur, to spread"
+  },
+  {
+    "word": "漂う",
+    "kana": "ただよう",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "漂浮；洋溢，充满",
+    "gloss_en": "to drift about, to float, to hang in air"
+  },
+  {
+    "word": "漏らす",
+    "kana": "もらす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "漏；泄露；遗漏；流露",
+    "gloss_en": "to let leak, to reveal"
+  },
+  {
+    "word": "漏る",
+    "kana": "もる",
+    "pitch": 1,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "漏，漏出，透出",
+    "gloss_en": "to leak, to run out"
+  },
+  {
+    "word": "漏れる",
+    "kana": "もれる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "漏；泄露；遗漏；吐露",
+    "gloss_en": "to leak out, to escape, to filter out"
+  },
+  {
+    "word": "演じる",
+    "kana": "えんじる",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "扮演；造成",
+    "gloss_en": "to perform, to play (a part), to act"
+  },
+  {
+    "word": "潤う",
+    "kana": "うるおう",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "湿润，弄湿",
+    "gloss_en": "to be moist; to profit by"
+  },
+  {
+    "word": "濯ぐ",
+    "kana": "すすぐ",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "洗，涮；漱口；洗掉，雪除",
+    "gloss_en": "to rinse, to wash out"
+  },
+  {
+    "word": "炒める",
+    "kana": "いためる",
+    "pitch": 3,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动2 炒",
+    "gloss_en": "to stir-fry"
+  },
+  {
+    "word": "焦る",
+    "kana": "あせる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 焦急，急躁，着急",
+    "gloss_en": "to be in a hurry, to be impatient"
+  },
+  {
+    "word": "煙る",
+    "kana": "けむる",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "冒烟；（烟雾）朦胧",
+    "gloss_en": "to smoke (e.g., fire)"
+  },
+  {
+    "word": "照り返す",
+    "kana": "てりかえす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "反射，反照",
+    "gloss_en": "to reflect, to throw back light"
+  },
+  {
+    "word": "犯す",
+    "kana": "おかす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "违反（法律）；冒犯",
+    "gloss_en": "to perpetrate, to violate"
+  },
+  {
+    "word": "率いる",
+    "kana": "ひきいる",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "率领，统率",
+    "gloss_en": "to lead, to spearhead (a group), to command (troops)"
+  },
+  {
+    "word": "甘える",
+    "kana": "あまえる",
+    "pitch": 0,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "撒娇；趁⋯⋯机会，承蒙",
+    "gloss_en": "to behave like a spoiled child, to fawn on"
+  },
+  {
+    "word": "生かす",
+    "kana": "いかす",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 发挥，有效利用",
+    "gloss_en": "to keep something alive; to make use of"
+  },
+  {
+    "word": "申し入れる",
+    "kana": "もうしいれる",
+    "pitch": 5,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "提议，要求",
+    "gloss_en": "to propose, to suggest"
+  },
+  {
+    "word": "申し出る",
+    "kana": "もうしでる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "提议，提出；报名",
+    "gloss_en": "to report to, to tell, to suggest"
+  },
+  {
+    "word": "病む",
+    "kana": "やむ",
+    "pitch": 1,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "生病；烦恼，忧心",
+    "gloss_en": "to fall ill, to be ill"
+  },
+  {
+    "word": "盛り上がる",
+    "kana": "もりあがる",
+    "pitch": 4,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "凸起；涌起；（气氛）热烈，高涨",
+    "gloss_en": "to rouse, to swell, to rise"
+  },
+  {
+    "word": "目覚める",
+    "kana": "めざめる",
+    "pitch": 3,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "睡醒，醒来；醒悟",
+    "gloss_en": "to wake up"
+  },
+  {
+    "word": "省みる",
+    "kana": "かえりみる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "反省，反躬自问",
+    "gloss_en": "to reflect"
+  },
+  {
+    "word": "着飾る",
+    "kana": "きかざる",
+    "pitch": 3,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "盛装；打扮",
+    "gloss_en": "to dress up"
+  },
+  {
+    "word": "研ぐ",
+    "kana": "とぐ",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 磨快；磨光亮；淘",
+    "gloss_en": "to sharpen, to grind, to polish"
+  },
+  {
+    "word": "禁じる",
+    "kana": "きんじる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "禁止，不允许",
+    "gloss_en": "to prohibit"
+  },
+  {
+    "word": "称する",
+    "kana": "しょうする",
+    "pitch": 3,
+    "pos": "他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "名字叫……；假称，冒充；称赞",
+    "gloss_en": "to take the name of, to call oneself"
+  },
+  {
+    "word": "突っ張る",
+    "kana": "つっぱる",
+    "pitch": 3,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "抽筋；支撑；坚持己见",
+    "gloss_en": "to support, to become stiff; to thrust (ones opponent), to stick to (ones opinion), to insist on"
+  },
+  {
+    "word": "立ち寄る",
+    "kana": "たちよる",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 顺路到，顺便到；走近",
+    "gloss_en": "to stop by, to drop in for a short visit"
+  },
+  {
+    "word": "立て替える",
+    "kana": "たてかえる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "垫付，代付",
+    "gloss_en": "to pay in advance, to pay for another"
+  },
+  {
+    "word": "築く",
+    "kana": "きずく",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动1 建立；积累",
+    "gloss_en": "to build, to establish"
+  },
+  {
+    "word": "籠もる",
+    "kana": "こもる",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "闭门不出；充满；包含",
+    "gloss_en": "to seclude oneself, to be confined in"
+  },
+  {
+    "word": "粘る",
+    "kana": "ねばる",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "发黏；坚持不懈；赖着不走",
+    "gloss_en": "to be sticky, to be adhesive, to persist, to stick to"
+  },
+  {
+    "word": "紛れる",
+    "kana": "まぎれる",
+    "pitch": 3,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "混淆；混杂，混进；（因忙碌）忘怀",
+    "gloss_en": "to be diverted, to slip into"
+  },
+  {
+    "word": "組み合わせる",
+    "kana": "くみあわせる",
+    "pitch": 5,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 组合，编到一起",
+    "gloss_en": "to join together, to combine, to join up"
+  },
+  {
+    "word": "組み込む",
+    "kana": "くみこむ",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "编入；入伙",
+    "gloss_en": "to insert, to include, to cut in (printing)"
+  },
+  {
+    "word": "結び付く",
+    "kana": "むすびつく",
+    "pitch": 4,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "有关联，有联系；结合在一起",
+    "gloss_en": "to be connected or related, to join together"
+  },
+  {
+    "word": "結び付ける",
+    "kana": "むすびつける",
+    "pitch": 5,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "系上，拴上；结合起来",
+    "gloss_en": "to combine, to join, to tie on, to attach with a knot"
+  },
+  {
+    "word": "絡む",
+    "kana": "からむ",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "缠住；胡搅蛮缠，无理取闹；密切相关",
+    "gloss_en": "to entangle, to entwine"
+  },
+  {
+    "word": "絶える",
+    "kana": "たえる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "断绝，终了；停止，消失",
+    "gloss_en": "to die out, to become extinct"
+  },
+  {
+    "word": "継ぐ",
+    "kana": "つぐ",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "连接，接上；继承",
+    "gloss_en": "to succeed (someone in a business or inheritance"
+  },
+  {
+    "word": "綴じる",
+    "kana": "とじる",
+    "pitch": 2,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "订上；缝在一起",
+    "gloss_en": "to bind, to file"
+  },
+  {
+    "word": "綻びる",
+    "kana": "ほころびる",
+    "pitch": 4,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（衣服）开绽；稍微张开",
+    "gloss_en": "to come apart at the seams, to smile broadly"
+  },
+  {
+    "word": "緩む",
+    "kana": "ゆるむ",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "松弛；松懈；缓和，放宽",
+    "gloss_en": "to become loose, to slacken"
+  },
+  {
+    "word": "練る",
+    "kana": "ねる",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "推敲，斟酌；锻炼；搅拌",
+    "gloss_en": "to knead, to work over, to polish up"
+  },
+  {
+    "word": "縮まる",
+    "kana": "ちぢまる",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "收缩，缩小；畏缩，恐惧",
+    "gloss_en": "to be shortened, to be contracted, to shrink"
+  },
+  {
+    "word": "織る",
+    "kana": "おる",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "织，编织",
+    "gloss_en": "to weave"
+  },
+  {
+    "word": "繕う",
+    "kana": "つくろう",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "修补，修缮；整理，修饰；敷衍",
+    "gloss_en": "to mend, to repair"
+  },
+  {
+    "word": "罵る",
+    "kana": "ののしる",
+    "pitch": 3,
+    "pos": "自他动1",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "骂，斥责",
+    "gloss_en": "to speak ill of, to abuse"
+  },
+  {
+    "word": "群がる",
+    "kana": "むらがる",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "聚，聚集",
+    "gloss_en": "to swarm, to gather"
+  },
+  {
+    "word": "老いる",
+    "kana": "おいる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "上年纪；衰老",
+    "gloss_en": "to age, to grow old"
+  },
+  {
+    "word": "老ける",
+    "kana": "ふける",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "上年纪，衰老",
+    "gloss_en": "to age"
+  },
+  {
+    "word": "耐える",
+    "kana": "たえる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 承受，忍受，忍耐",
+    "gloss_en": "to endure, to put up with"
+  },
+  {
+    "word": "耽る",
+    "kana": "ふける",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "沉溺，入迷；埋头，专心致志",
+    "gloss_en": "to indulge in, to give oneself up to, to be absorbed in"
+  },
+  {
+    "word": "聳える",
+    "kana": "そびえる",
+    "pitch": 3,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "耸立，矗立",
+    "gloss_en": "to rise, to tower, to soar"
+  },
+  {
+    "word": "背く",
+    "kana": "そむく",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "背向；违背，违抗；背叛",
+    "gloss_en": "to run counter to, to go against"
+  },
+  {
+    "word": "脅す",
+    "kana": "おどす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "威胁，恐吓",
+    "gloss_en": "to threaten, to menace"
+  },
+  {
+    "word": "脱する",
+    "kana": "だっする",
+    "pitch": 0,
+    "pos": "自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "逃脱；脱离；去除，去掉",
+    "gloss_en": "to escape from, to get out"
+  },
+  {
+    "word": "腫れる",
+    "kana": "はれる",
+    "pitch": 0,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "肿，肿胀",
+    "gloss_en": "to swell (from inflammation, to become swollen)"
+  },
+  {
+    "word": "膨れる",
+    "kana": "ふくれる",
+    "pitch": 0,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "膨胀，鼓出；噘嘴",
+    "gloss_en": "to swell (out), to be inflated, to bulge"
+  },
+  {
+    "word": "臨む",
+    "kana": "のぞむ",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动1 面临，面对",
+    "gloss_en": "to look out on, to face, to attend (function)"
+  },
+  {
+    "word": "興じる",
+    "kana": "きょうじる",
+    "pitch": 0,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "有兴趣，感兴趣",
+    "gloss_en": "to amuse oneself, to make merry"
+  },
+  {
+    "word": "荒らす",
+    "kana": "あらす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "使荒芜，糟蹋；扰乱；偷窃",
+    "gloss_en": "to damage; to invade"
+  },
+  {
+    "word": "落ち込む",
+    "kana": "おちこむ",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 掉进，掉入",
+    "gloss_en": "to get depressed"
+  },
+  {
+    "word": "葬る",
+    "kana": "ほうむる",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "埋葬；遮掩，掩埋",
+    "gloss_en": "to bury, to entomb"
+  },
+  {
+    "word": "衰える",
+    "kana": "おとろえる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 衰弱",
+    "gloss_en": "to become weak, to decline"
+  },
+  {
+    "word": "裁く",
+    "kana": "さばく",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "审判；从中调停",
+    "gloss_en": "to judge"
+  },
+  {
+    "word": "裂ける",
+    "kana": "さける",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "裂开；破裂",
+    "gloss_en": "to split, to tear, to burst"
+  },
+  {
+    "word": "襲う",
+    "kana": "おそう",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "袭击，侵袭；继承",
+    "gloss_en": "to attack"
+  },
+  {
+    "word": "要する",
+    "kana": "ようする",
+    "pitch": 3,
+    "pos": "他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "需要；归纳，摘要",
+    "gloss_en": "to demand, to require, to take"
+  },
+  {
+    "word": "覆す",
+    "kana": "くつがえす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "打翻；推翻(政权、学说)",
+    "gloss_en": "to overturn, to upset, to overthrow"
+  },
+  {
+    "word": "見せびらかす",
+    "kana": "みせびらかす",
+    "pitch": 5,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "炫耀，卖弄",
+    "gloss_en": "to show off, to flaunt"
+  },
+  {
+    "word": "見なす",
+    "kana": "みなす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "看作，认为；当作",
+    "gloss_en": "to consider as, to regard"
+  },
+  {
+    "word": "見合わせる",
+    "kana": "みあわせる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "互相看；比较，考量；暂缓，推迟",
+    "gloss_en": "to exchange glances; to postpone"
+  },
+  {
+    "word": "見掛ける",
+    "kana": "みかける",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "偶然看到；刚开始看",
+    "gloss_en": "to (happen to see), to notice, to catch sight of"
+  },
+  {
+    "word": "見渡す",
+    "kana": "みわたす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "放眼望去，远望",
+    "gloss_en": "to look out over, to survey (scene), to take an extensive view of"
+  },
+  {
+    "word": "見習う",
+    "kana": "みならう",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "学习；以⋯⋯为榜样",
+    "gloss_en": "to follow another's example"
+  },
+  {
+    "word": "見落とす",
+    "kana": "みおとす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "看漏，没看出来，忽略",
+    "gloss_en": "to overlook, to fail to notice"
+  },
+  {
+    "word": "見計らう",
+    "kana": "みはからう",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "斟酌；估计",
+    "gloss_en": "to choose at one's own discretion"
+  },
+  {
+    "word": "見逃す",
+    "kana": "みのがす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "看漏；宽恕，饶恕；放过，错过",
+    "gloss_en": "to miss, to overlook, to leave at large"
+  },
+  {
+    "word": "親しむ",
+    "kana": "したしむ",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "亲切，亲密；爱好，喜好",
+    "gloss_en": "to be intimate with, to befriend"
+  },
+  {
+    "word": "訪れる",
+    "kana": "おとずれる",
+    "pitch": 4,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 到来．来临．访问",
+    "gloss_en": "to visit"
+  },
+  {
+    "word": "設ける",
+    "kana": "もうける",
+    "pitch": 0,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 制定，设置，设立",
+    "gloss_en": "to create, to establish"
+  },
+  {
+    "word": "試みる",
+    "kana": "こころみる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动2 尝试，试验",
+    "gloss_en": "to try, to test"
+  },
+  {
+    "word": "詰る",
+    "kana": "なじる",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "责问，责备，责难",
+    "gloss_en": "to rebuke, to scold, to tell off"
+  },
+  {
+    "word": "誇る",
+    "kana": "ほこる",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "夸耀；自豪，骄傲",
+    "gloss_en": "to boast of, to be proud of"
+  },
+  {
+    "word": "誤る",
+    "kana": "あやまる",
+    "pitch": 3,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "错，弄错；贻害，贻误",
+    "gloss_en": "to make a mistake"
+  },
+  {
+    "word": "説く",
+    "kana": "とく",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "解释，说明；劝说；提倡",
+    "gloss_en": "to explain, to advocate"
+  },
+  {
+    "word": "読み上げる",
+    "kana": "よみあげる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "高声朗读；读完，念完",
+    "gloss_en": "to read out loud (and clearly), to call a roll"
+  },
+  {
+    "word": "諮る",
+    "kana": "はかる",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "磋商，咨询",
+    "gloss_en": "to consult with, to confer"
+  },
+  {
+    "word": "負かす",
+    "kana": "まかす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "打败，战胜；讲价",
+    "gloss_en": "to defeat"
+  },
+  {
+    "word": "貫く",
+    "kana": "つらぬく",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 穿过，贯彻",
+    "gloss_en": "to go through"
+  },
+  {
+    "word": "費やす",
+    "kana": "ついやす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "花费，耗费；浪费",
+    "gloss_en": "to spend, to devote, to waste"
+  },
+  {
+    "word": "賄う",
+    "kana": "まかなう",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "供给伙食；勉强维持",
+    "gloss_en": "to give board to, to provide meals, to pay"
+  },
+  {
+    "word": "賑わう",
+    "kana": "にぎわう",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "热闹，拥挤；繁荣，兴盛",
+    "gloss_en": "to prosper, to flourish, to be crowded with people"
+  },
+  {
+    "word": "賭ける",
+    "kana": "かける",
+    "pitch": 2,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "赌钱，赌输赢；拼（命），不惜",
+    "gloss_en": "to bet, to risk, to gamble"
+  },
+  {
+    "word": "赤らむ",
+    "kana": "あからむ",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "变红，发红",
+    "gloss_en": "to become red, to blush"
+  },
+  {
+    "word": "赴く",
+    "kana": "おもむく",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "前往，奔赴；趋向，倾向",
+    "gloss_en": "to go, to proceed"
+  },
+  {
+    "word": "踏まえる",
+    "kana": "ふまえる",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "踩，踏；根据，立足于",
+    "gloss_en": "to be based on, to have origin in"
+  },
+  {
+    "word": "踏み込む",
+    "kana": "ふみこむ",
+    "pitch": 3,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "陷入，踩进；闯入，擅自进入；用力踩",
+    "gloss_en": "to step into (someone else's territory, to break into, to raid"
+  },
+  {
+    "word": "蹴飛ばす",
+    "kana": "けとばす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "踢开，踢倒；拒绝",
+    "gloss_en": "to kick away, to kick (someone)"
+  },
+  {
+    "word": "転じる",
+    "kana": "てんじる",
+    "pitch": 0,
+    "pos": "自他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "改变，转换；迁居",
+    "gloss_en": "to turn, to shift"
+  },
+  {
+    "word": "込める",
+    "kana": "こめる",
+    "pitch": 2,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "包括在内；集中（精神）",
+    "gloss_en": "to include, to put into"
+  },
+  {
+    "word": "辿り着く",
+    "kana": "たどりつく",
+    "pitch": 4,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "好不容易走到",
+    "gloss_en": "to reach, to make it somehow"
+  },
+  {
+    "word": "辿る",
+    "kana": "たどる",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "沿路前进；追寻，追溯",
+    "gloss_en": "to follow (road, to pursue (course), to follow up"
+  },
+  {
+    "word": "追い出す",
+    "kana": "おいだす",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "赶出，驱赶；解雇",
+    "gloss_en": "to expel, to drive out"
+  },
+  {
+    "word": "追い込む",
+    "kana": "おいこむ",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "赶进，撵进去；逼入，使陷入",
+    "gloss_en": "to herd, to corner, to drive"
+  },
+  {
+    "word": "逃げ出す",
+    "kana": "にげだす",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "逃走，逃跑，溜掉",
+    "gloss_en": "to run away, to escape from"
+  },
+  {
+    "word": "逃す",
+    "kana": "のがす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "错过；放过",
+    "gloss_en": "to let loose, to set free, to let escape"
+  },
+  {
+    "word": "逃れる",
+    "kana": "のがれる",
+    "pitch": 3,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "逃跑，逃脱；逃避",
+    "gloss_en": "to escape"
+  },
+  {
+    "word": "途絶える",
+    "kana": "とだえる",
+    "pitch": 3,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "断绝，中断",
+    "gloss_en": "to stop, to cease, to come to an end"
+  },
+  {
+    "word": "連なる",
+    "kana": "つらなる",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "绵延，相连；列席，参加；关系到，关联",
+    "gloss_en": "to extend, to stretch out, to stand in a row"
+  },
+  {
+    "word": "連ねる",
+    "kana": "つらねる",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "排列成行；罗列；连同",
+    "gloss_en": "to link, to join, to put together"
+  },
+  {
+    "word": "遂げる",
+    "kana": "とげる",
+    "pitch": 2,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "完成（任务），实现（愿望）",
+    "gloss_en": "to accomplish, to achieve, to carry out"
+  },
+  {
+    "word": "遅らす",
+    "kana": "おくらす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "延缓，推迟",
+    "gloss_en": "to retard, to delay"
+  },
+  {
+    "word": "違える",
+    "kana": "ちがえる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "使不一样；弄错，搞错",
+    "gloss_en": "to change"
+  },
+  {
+    "word": "遠ざかる",
+    "kana": "とおざかる",
+    "pitch": 4,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "远离，疏远",
+    "gloss_en": "to go far off"
+  },
+  {
+    "word": "遠回り",
+    "kana": "とおまわりする",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动3 绕道，绕远",
+    "gloss_en": "detour, roundabout way"
+  },
+  {
+    "word": "遮る",
+    "kana": "さえぎる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 阻挡，遮挡，遮住，挡住",
+    "gloss_en": "to interrupt, to intercept, to obstruct"
+  },
+  {
+    "word": "重んじる",
+    "kana": "おもんじる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "重视；尊重，器重",
+    "gloss_en": "to respect, to honor, to esteem, to prize"
+  },
+  {
+    "word": "鈍る",
+    "kana": "にぶる",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "变钝；变得迟钝；变弱",
+    "gloss_en": "to become less capable, to grow dull, to become blunt, to weaken"
+  },
+  {
+    "word": "鍛える",
+    "kana": "きたえる",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "锤炼；锻炼",
+    "gloss_en": "to forge, to train, to discipline"
+  },
+  {
+    "word": "阻む",
+    "kana": "はばむ",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "阻止，阻碍，阻挡",
+    "gloss_en": "to keep someone from doing, to stop, to oppose"
+  },
+  {
+    "word": "隔たる",
+    "kana": "へだたる",
+    "pitch": 3,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "(时间、空间)相隔；有差别；疏远，产生隔阂",
+    "gloss_en": "to be distant"
+  },
+  {
+    "word": "障る",
+    "kana": "さわる",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "妨碍，阻碍；不利，有坏影响",
+    "gloss_en": "to hinder, to interfere with, to affect"
+  },
+  {
+    "word": "震わせる",
+    "kana": "ふるわせる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "使发抖；使震动",
+    "gloss_en": "to be shaking, to be trembling"
+  },
+  {
+    "word": "霞む",
+    "kana": "かすむ",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "云雾朦胧；眼睛模糊，看不清楚；暗淡，不醒目",
+    "gloss_en": "to grow hazy, to be misty"
+  },
+  {
+    "word": "面する",
+    "kana": "めんする",
+    "pitch": null,
+    "pos": "サ変動詞",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动3 面向，面对",
+    "gloss_en": "to face on, to look out on to"
+  },
+  {
+    "word": "題する",
+    "kana": "だいする",
+    "pitch": 3,
+    "pos": "他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "题名，标题；题字，题词",
+    "gloss_en": "to title"
+  },
+  {
+    "word": "顧みる",
+    "kana": "かえりみる",
+    "pitch": 4,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "往后看；回顾；顾及",
+    "gloss_en": "to look back, to turn around, to review"
+  },
+  {
+    "word": "食い違う",
+    "kana": "くいちがう",
+    "pitch": 4,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "有分歧，不一致；错位",
+    "gloss_en": "to cross each other, to differ"
+  },
+  {
+    "word": "飲み込む",
+    "kana": "のみこむ",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "咽下；理解，领会",
+    "gloss_en": "to gulp down, to swallow deeply, to understand"
+  },
+  {
+    "word": "養う",
+    "kana": "やしなう",
+    "pitch": 3,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "养育；培养；疗养",
+    "gloss_en": "to rear, to maintain, to cultivate"
+  },
+  {
+    "word": "馴らす",
+    "kana": "ならす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "驯服，驯养",
+    "gloss_en": "to domesticate, to tame"
+  },
+  {
+    "word": "駆ける",
+    "kana": "かける",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "奔跑；策马奔腾",
+    "gloss_en": "to run"
+  },
+  {
+    "word": "高まる",
+    "kana": "たかまる",
+    "pitch": null,
+    "pos": "五段動詞",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "动1 高涨，提高",
+    "gloss_en": "to rise; to grow; to mount (v.i.)"
+  }
+]

@@ -1,0 +1,1042 @@
+[
+  {
+    "word": "上げる",
+    "kana": "あげる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "动2 提高，抬高",
+    "gloss_en": "to raise, to lift"
+  },
+  {
+    "word": "並ぶ",
+    "kana": "ならぶ",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "排列，排队",
+    "gloss_en": "to line up, to stand in a line (v.i.)"
+  },
+  {
+    "word": "乗る",
+    "kana": "のる",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "乘坐",
+    "gloss_en": "to get on, to ride in, to board"
+  },
+  {
+    "word": "休む",
+    "kana": "やすむ",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "休息；请假",
+    "gloss_en": "to rest, to have a break, to get time off"
+  },
+  {
+    "word": "会う",
+    "kana": "あう",
+    "pitch": 1,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "见面；遇上",
+    "gloss_en": "to meet, to see"
+  },
+  {
+    "word": "住む",
+    "kana": "すむ",
+    "pitch": 1,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "住，居住",
+    "gloss_en": "to reside, to live in"
+  },
+  {
+    "word": "作る",
+    "kana": "つくる",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "做，制作；创作",
+    "gloss_en": "to make, to create"
+  },
+  {
+    "word": "使う",
+    "kana": "つかう",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "使用",
+    "gloss_en": "to use"
+  },
+  {
+    "word": "借りる",
+    "kana": "かりる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "借入；借助",
+    "gloss_en": "to borrow, to owe"
+  },
+  {
+    "word": "働く",
+    "kana": "はたらく",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "工作；起作用",
+    "gloss_en": "to work"
+  },
+  {
+    "word": "入る",
+    "kana": "はいる",
+    "pitch": 1,
+    "pos": "自动1",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "进入",
+    "gloss_en": "to enter, to contain, to hold"
+  },
+  {
+    "word": "入れる",
+    "kana": "いれる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "装进，放入；收进",
+    "gloss_en": "to put in"
+  },
+  {
+    "word": "出かける",
+    "kana": "でかける",
+    "pitch": 0,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "出发，出门",
+    "gloss_en": "to go out; to depart"
+  },
+  {
+    "word": "出す",
+    "kana": "だす",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "拿出；伸出；提出",
+    "gloss_en": "to take (something) out; to hand in (something)"
+  },
+  {
+    "word": "出る",
+    "kana": "でる",
+    "pitch": 1,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "出去，出来；显现",
+    "gloss_en": "to appear, to leave"
+  },
+  {
+    "word": "分かる",
+    "kana": "わかる",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "明白，懂得",
+    "gloss_en": "to understand"
+  },
+  {
+    "word": "切る",
+    "kana": "きる",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "切，切开；断绝",
+    "gloss_en": "to cut; to hang up (a phone)"
+  },
+  {
+    "word": "勤める",
+    "kana": "つとめる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "动2 工作，做事",
+    "gloss_en": "to work (for)"
+  },
+  {
+    "word": "取る",
+    "kana": "とる",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "拿；取得",
+    "gloss_en": "to take (a class); to get (a grade)"
+  },
+  {
+    "word": "吸う",
+    "kana": "すう",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "吸，吸入",
+    "gloss_en": "to breathe in, to suck"
+  },
+  {
+    "word": "吹く",
+    "kana": "ふく",
+    "pitch": 1,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "吹；吹奏",
+    "gloss_en": "to blow (wind, etc.)"
+  },
+  {
+    "word": "呼ぶ",
+    "kana": "よぶ",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "叫；呼唤",
+    "gloss_en": "to call (one's name); to invite"
+  },
+  {
+    "word": "咲く",
+    "kana": "さく",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "开（花）",
+    "gloss_en": "to bloom"
+  },
+  {
+    "word": "困る",
+    "kana": "こまる",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "为难；难受；不行",
+    "gloss_en": "to be bothered, to have difficulty"
+  },
+  {
+    "word": "売る",
+    "kana": "うる",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "卖，售卖",
+    "gloss_en": "to sell (v.t.)"
+  },
+  {
+    "word": "始まる",
+    "kana": "はじまる",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "开始",
+    "gloss_en": "(something) begins"
+  },
+  {
+    "word": "差す",
+    "kana": "さす",
+    "pitch": 1,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "照射；撑着，打着",
+    "gloss_en": "to raise (stretch out) hands, to raise (e.g., umbrella)"
+  },
+  {
+    "word": "帰る",
+    "kana": "かえる",
+    "pitch": 1,
+    "pos": "自动1",
+    "conj_type": "ichidan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "回来,回去",
+    "gloss_en": "to go back, to go home, to return"
+  },
+  {
+    "word": "座る",
+    "kana": "すわる",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "坐",
+    "gloss_en": "to sit"
+  },
+  {
+    "word": "引く",
+    "kana": "ひく",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      2,
+      3,
+      5
+    ],
+    "gloss_cn": "拉，拽；引起；吸引",
+    "gloss_en": "to pull, to draw; subtract"
+  },
+  {
+    "word": "弾く",
+    "kana": "ひく",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "弹奏（乐器等）",
+    "gloss_en": "to play (a string instrument or piano)"
+  },
+  {
+    "word": "忘れる",
+    "kana": "わすれる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "忘记，遗忘",
+    "gloss_en": "to forget"
+  },
+  {
+    "word": "押す",
+    "kana": "おす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "压，按；推",
+    "gloss_en": "to push, to press, to stamp (e.g., a passport)"
+  },
+  {
+    "word": "掛ける",
+    "kana": "かける",
+    "pitch": 2,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      3,
+      4,
+      5
+    ],
+    "gloss_cn": "悬挂；戴上；浇（水）；花费；开动（机器）",
+    "gloss_en": "to put on (e.g., glasses); to hang (e.g., on a wall)"
+  },
+  {
+    "word": "撮る",
+    "kana": "とる",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "拍照，摄像",
+    "gloss_en": "to take (a photo), to make (a film)"
+  },
+  {
+    "word": "教える",
+    "kana": "おしえる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "教，教导；告诉",
+    "gloss_en": "to teach, to inform, to instruct"
+  },
+  {
+    "word": "晴れる",
+    "kana": "はれる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "（天气）放晴；（疑惑）消散",
+    "gloss_en": "to be sunny"
+  },
+  {
+    "word": "曇る",
+    "kana": "くもる",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "阴天",
+    "gloss_en": "to become cloudy, to become dim"
+  },
+  {
+    "word": "書く",
+    "kana": "かく",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "写",
+    "gloss_en": "to write"
+  },
+  {
+    "word": "来る",
+    "kana": "くる",
+    "pitch": 1,
+    "pos": "自动3",
+    "conj_type": "kahen",
+    "level": [
+      5
+    ],
+    "gloss_cn": "来，到来",
+    "gloss_en": "to come"
+  },
+  {
+    "word": "歌う",
+    "kana": "うたう",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "唱",
+    "gloss_en": "to sing"
+  },
+  {
+    "word": "止まる",
+    "kana": "とまる",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "停止，停下来",
+    "gloss_en": "to come to a halt"
+  },
+  {
+    "word": "歩く",
+    "kana": "あるく",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "走路，步行",
+    "gloss_en": "to walk"
+  },
+  {
+    "word": "死ぬ",
+    "kana": "しぬ",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "死亡",
+    "gloss_en": "to die"
+  },
+  {
+    "word": "泳ぐ",
+    "kana": "およぐ",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "游泳",
+    "gloss_en": "to swim"
+  },
+  {
+    "word": "洗う",
+    "kana": "あらう",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "洗，清洗",
+    "gloss_en": "to wash"
+  },
+  {
+    "word": "浴びる",
+    "kana": "あびる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "淋；沐浴",
+    "gloss_en": "to bathe, to shower"
+  },
+  {
+    "word": "消える",
+    "kana": "きえる",
+    "pitch": 0,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "消失；熄灭",
+    "gloss_en": "to vanish, to disappear"
+  },
+  {
+    "word": "消す",
+    "kana": "けす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "消除；关（电源、灯等）",
+    "gloss_en": "to erase, to delete, to turn off power"
+  },
+  {
+    "word": "渡す",
+    "kana": "わたす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "交给，转交",
+    "gloss_en": "to hand (something) over (v.t.); to get across"
+  },
+  {
+    "word": "渡る",
+    "kana": "わたる",
+    "pitch": 2,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "渡，过",
+    "gloss_en": "to cross over, to go across"
+  },
+  {
+    "word": "無くす",
+    "kana": "なくす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "丢失，丢掉；消灭，去掉",
+    "gloss_en": "to lose something"
+  },
+  {
+    "word": "生まれる",
+    "kana": "うまれる",
+    "pitch": 0,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "出生，诞生；产生",
+    "gloss_en": "to be born"
+  },
+  {
+    "word": "疲れる",
+    "kana": "つかれる",
+    "pitch": 3,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "疲倦，累",
+    "gloss_en": "to get (become) tired; to become fatigued"
+  },
+  {
+    "word": "着く",
+    "kana": "つく",
+    "pitch": 1,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "到达，抵达",
+    "gloss_en": "to arrive at, to reach"
+  },
+  {
+    "word": "着る",
+    "kana": "きる",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "穿（衣服等）",
+    "gloss_en": "to put on (clothes above your waist); to wear"
+  },
+  {
+    "word": "知る",
+    "kana": "しる",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "知道，懂得；认识",
+    "gloss_en": "to know, to understand"
+  },
+  {
+    "word": "磨く",
+    "kana": "みがく",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "磨；刷",
+    "gloss_en": "to brush (teeth); to polish"
+  },
+  {
+    "word": "答える",
+    "kana": "こたえる",
+    "pitch": 3,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "回答，应答；解答",
+    "gloss_en": "to answer, to reply"
+  },
+  {
+    "word": "締める",
+    "kana": "しめる",
+    "pitch": null,
+    "pos": "一段動詞",
+    "conj_type": "ichidan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "动2 系，束，系紧；结算",
+    "gloss_en": "to tie, to fasten, to tighten"
+  },
+  {
+    "word": "置く",
+    "kana": "おく",
+    "pitch": 0,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "放置，放；留下",
+    "gloss_en": "to put; to lay; to place"
+  },
+  {
+    "word": "習う",
+    "kana": "ならう",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "学习，练习（某种技能）",
+    "gloss_en": "to learn"
+  },
+  {
+    "word": "脱ぐ",
+    "kana": "ぬぐ",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "脱掉，摘掉",
+    "gloss_en": "to take off (clothes)"
+  },
+  {
+    "word": "行く",
+    "kana": "いく",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "去，到",
+    "gloss_en": "to go"
+  },
+  {
+    "word": "要る",
+    "kana": "いる",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "需要",
+    "gloss_en": "to need"
+  },
+  {
+    "word": "見せる",
+    "kana": "みせる",
+    "pitch": 2,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "让（别人）看，展示",
+    "gloss_en": "to show, to display"
+  },
+  {
+    "word": "見る",
+    "kana": "みる",
+    "pitch": 1,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "看，观看",
+    "gloss_en": "to see, to look"
+  },
+  {
+    "word": "覚える",
+    "kana": "おぼえる",
+    "pitch": 3,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "记住；学会，掌握",
+    "gloss_en": "to learn, to commit to memory, to remember, to memorize"
+  },
+  {
+    "word": "言う",
+    "kana": "いう",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "说话；告诉；叫作",
+    "gloss_en": "to say"
+  },
+  {
+    "word": "話す",
+    "kana": "はなす",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "说话，谈论",
+    "gloss_en": "to speak"
+  },
+  {
+    "word": "買う",
+    "kana": "かう",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "买，购买",
+    "gloss_en": "to buy"
+  },
+  {
+    "word": "貸す",
+    "kana": "かす",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "借出，借给",
+    "gloss_en": "to lend"
+  },
+  {
+    "word": "貼る",
+    "kana": "はる",
+    "pitch": 0,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "粘，贴",
+    "gloss_en": "to post; to paste; to attach"
+  },
+  {
+    "word": "起きる",
+    "kana": "おきる",
+    "pitch": 2,
+    "pos": "自动2",
+    "conj_type": "ichidan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "起床，起身",
+    "gloss_en": "to get up (e.g., from sleeping); to happen"
+  },
+  {
+    "word": "返す",
+    "kana": "かえす",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "归还；送回",
+    "gloss_en": "to return something"
+  },
+  {
+    "word": "遊ぶ",
+    "kana": "あそぶ",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "玩耍",
+    "gloss_en": "to play; to spend time pleasantly; to hang out"
+  },
+  {
+    "word": "違う",
+    "kana": "ちがう",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "不一致；错误",
+    "gloss_en": "to be different; to differ; wrong"
+  },
+  {
+    "word": "開く",
+    "kana": "ひらく",
+    "pitch": 2,
+    "pos": "自他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "开；打开；开张；召开",
+    "gloss_en": "to open, to become open"
+  },
+  {
+    "word": "開ける",
+    "kana": "あける",
+    "pitch": 0,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "打开，拉开",
+    "gloss_en": "to open (v.t.)"
+  },
+  {
+    "word": "降る",
+    "kana": "ふる",
+    "pitch": 1,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "下（雨、雪等）",
+    "gloss_en": "to precipitate, to fall (e.g., rain, snow, etc.)"
+  },
+  {
+    "word": "頼む",
+    "kana": "たのむ",
+    "pitch": 2,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "请求，拜托；委托",
+    "gloss_en": "to request, to ask (a favor)"
+  },
+  {
+    "word": "飛ぶ",
+    "kana": "とぶ",
+    "pitch": 0,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "飞；吹走，刮跑",
+    "gloss_en": "to fly, to hop"
+  },
+  {
+    "word": "食べる",
+    "kana": "たべる",
+    "pitch": 2,
+    "pos": "他动2",
+    "conj_type": "ichidan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "吃",
+    "gloss_en": "to eat"
+  },
+  {
+    "word": "飲む",
+    "kana": "のむ",
+    "pitch": 1,
+    "pos": "他动１",
+    "conj_type": "godan",
+    "level": [
+      5
+    ],
+    "gloss_cn": "喝",
+    "gloss_en": "to drink"
+  }
+]

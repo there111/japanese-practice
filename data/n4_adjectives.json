@@ -1,0 +1,290 @@
+[
+  {
+    "word": "うまい",
+    "kana": "うまい",
+    "pitch": 2,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "好吃的；高明的；擅长的",
+    "gloss_en": "delicious; skillful; fortunate"
+  },
+  {
+    "word": "おかしい",
+    "kana": "おかしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "可笑的；反常的，奇怪的",
+    "gloss_en": "strange; odd; funny"
+  },
+  {
+    "word": "ひどい",
+    "kana": "ひどい",
+    "pitch": 2,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "残酷的，无情的；激烈的",
+    "gloss_en": "terrible, awful, unfair, cruel"
+  },
+  {
+    "word": "よろしい",
+    "kana": "よろしい",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "可以，行，好",
+    "gloss_en": "(hon.) good, OK, all right"
+  },
+  {
+    "word": "優しい",
+    "kana": "やさしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "温柔的；柔和的",
+    "gloss_en": "kind (person), gentle (person), easy (problem)"
+  },
+  {
+    "word": "厳しい",
+    "kana": "きびしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "严格的，严厉的；严峻的",
+    "gloss_en": "hard; rigorous; strict"
+  },
+  {
+    "word": "変",
+    "kana": "へん",
+    "pitch": 1,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      4
+    ],
+    "gloss_cn": "奇怪的，反常的",
+    "gloss_en": "strange, odd"
+  },
+  {
+    "word": "寂しい",
+    "kana": "さびしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "寂寞的，孤单的",
+    "gloss_en": "lonely, lonesome"
+  },
+  {
+    "word": "怖い",
+    "kana": "こわい",
+    "pitch": 2,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "可怕的，令人害怕的",
+    "gloss_en": "scary, frightening"
+  },
+  {
+    "word": "恥ずかしい",
+    "kana": "はずかしい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "惭愧的；害羞的",
+    "gloss_en": "ashamed, embarrassed"
+  },
+  {
+    "word": "悲しい",
+    "kana": "かなしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "悲伤的",
+    "gloss_en": "sad, sorrowful"
+  },
+  {
+    "word": "柔らかい",
+    "kana": "やわらかい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "柔和的，柔软的",
+    "gloss_en": "soft (in reference to texture), tender"
+  },
+  {
+    "word": "正しい",
+    "kana": "ただしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "正确的，正当的",
+    "gloss_en": "correct"
+  },
+  {
+    "word": "残念",
+    "kana": "ざんねん",
+    "pitch": 3,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      4
+    ],
+    "gloss_cn": "遗憾的，可惜的；懊悔的",
+    "gloss_en": "regret; regrettable"
+  },
+  {
+    "word": "浅い",
+    "kana": "あさい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "浅的；（颜色、程度等）浅的，淡的",
+    "gloss_en": "shallow, superficial"
+  },
+  {
+    "word": "深い",
+    "kana": "ふかい",
+    "pitch": 2,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "深的；（颜色、程度等）深的，浓的",
+    "gloss_en": "deep, profound"
+  },
+  {
+    "word": "熱心",
+    "kana": "ねっしん",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      4
+    ],
+    "gloss_cn": "热情，热心",
+    "gloss_en": "enthusiasm"
+  },
+  {
+    "word": "珍しい",
+    "kana": "めずらしい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "新奇的，新颖的；罕见的",
+    "gloss_en": "unusual, rare"
+  },
+  {
+    "word": "盛ん",
+    "kana": "さかん",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      4
+    ],
+    "gloss_cn": "兴盛，旺盛，热烈",
+    "gloss_en": "prosperous, active, thriving"
+  },
+  {
+    "word": "眠い",
+    "kana": "ねむい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "困的，发困的",
+    "gloss_en": "sleepy, drowsy"
+  },
+  {
+    "word": "素晴らしい",
+    "kana": "すばらしい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "极好的，绝佳的",
+    "gloss_en": "wonderful; terrific"
+  },
+  {
+    "word": "細かい",
+    "kana": "こまかい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "细小，细致，琐碎",
+    "gloss_en": "small; fine, minute"
+  },
+  {
+    "word": "美しい",
+    "kana": "うつくしい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "美丽的，漂亮的；美好的",
+    "gloss_en": "beautiful, lovely"
+  },
+  {
+    "word": "苦い",
+    "kana": "にがい",
+    "pitch": 2,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      4
+    ],
+    "gloss_cn": "（味道）苦的；痛苦的",
+    "gloss_en": "bitter"
+  }
+]

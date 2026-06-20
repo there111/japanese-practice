@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>日语动词变形练习</title>
+  <meta name="description" content="JLPT N5〜N1 日语动词变形练习工具">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/style.css?v=5">
+</head>
+<body>
+  <div id="debugBanner" style="background:#e74c3c;color:#fff;text-align:center;padding:4px;font-size:12px;font-weight:700">🔴 新版 v4 已加载 — 2026-06-20 聚焦变形模式</div>
+
+  <!-- ===== 首页 ===== -->
+  <section id="page-home" class="page active">
+    <div class="home-header">
+      <h1 class="home-title">日语动词变形</h1>
+      <button class="theme-toggle" id="btnTheme" title="切换主题">🌙</button>
+    </div>
+
+    <!-- 核心学习大卡片 -->
+    <div class="level-hero">
+      <div class="level-hero-top">
+        <span class="level-badge" id="heroBadge">N5</span>
+        <span class="hero-mode-label" id="heroModeLabel">动词</span>
+        <div class="level-nav">
+          <button class="level-nav-btn" id="btnPrevLevel">◀</button>
+          <button class="level-nav-btn" id="btnNextLevel">▶</button>
+        </div>
+      </div>
+
+      <div class="progress-wrap">
+        <div class="progress-info">
+          <span>学习进度</span>
+          <span id="heroProgressText">0 / 0</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-fill" id="heroProgressFill" style="width:0%"></div>
+        </div>
+      </div>
+
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <span class="num review" id="heroReview">0</span>
+          <span class="lbl">待复习</span>
+        </div>
+        <div class="hero-stat">
+          <span class="num today" id="heroToday">0</span>
+          <span class="lbl">今日学习</span>
+        </div>
+      </div>
+
+      <button class="btn-hero" id="btnHeroLearn">开始学习</button>
+    </div>
+
+    <!-- 快捷入口 -->
+    <div class="quick-actions">
+      <button class="quick-btn" id="btnQuickPractice">
+        <span class="emoji">✏️</span>快速拼写
+      </button>
+      <button class="quick-btn" id="btnQuickQuiz">
+        <span class="emoji">📝</span>变形测验
+      </button>
+      <button class="quick-btn" id="btnToggleMode">
+        <span class="emoji">🔀</span>切换形容词
+      </button>
+    </div>
+
+    <!-- 常用功能 -->
+    <p class="section-label">常用功能</p>
+    <div class="feature-grid">
+      <div class="feature-item" id="featToday">
+        <span class="feature-icon">📅</span>今日学习
+      </div>
+      <div class="feature-item" id="featBookmark">
+        <span class="feature-icon">❤️</span>生词本
+      </div>
+      <div class="feature-item" id="featStats">
+        <span class="feature-icon">📊</span>学习统计
+      </div>
+    </div>
+
+    <!-- 其他功能 -->
+    <p class="section-label">其他功能</p>
+    <div class="feature-grid">
+      <div class="feature-item" id="featWords">
+        <span class="feature-icon">📖</span>词库浏览
+      </div>
+      <div class="feature-item" id="featWrong">
+        <span class="feature-icon">📝</span>错题集
+      </div>
+      <div class="feature-item" id="featMastered">
+        <span class="feature-icon">✅</span>已掌握
+      </div>
+      <div class="feature-item" id="featLevels">
+        <span class="feature-icon">🔄</span>级别切换
+      </div>
+      <div class="feature-item" id="featExport">
+        <span class="feature-icon">📤</span>导出
+      </div>
+      <div class="feature-item" id="featSettings">
+        <span class="feature-icon">⚙️</span>设置
+      </div>
+    </div>
+  </section>
+
+  <!-- 统计弹窗 -->
+  <div class="modal-overlay" id="modalStats" style="display:none">
+    <div class="modal-box">
+      <h3>📊 学习统计</h3>
+      <div class="stat-row"><span>累计练习</span><span class="val" id="mTotal">0</span></div>
+      <div class="stat-row"><span>今日练习</span><span class="val" id="mToday">0</span></div>
+      <div class="stat-row"><span>错题本</span><span class="val" id="mWrong">0</span></div>
+      <div class="stat-row"><span>已掌握</span><span class="val" id="mMastered">0</span></div>
+      <button class="modal-close" id="btnModalClose">关闭</button>
+    </div>
+  </div>
+
+  <!-- ===== 练习页 ===== -->
+  <section id="page-practice" class="page">
+    <div class="top-bar">
+      <button class="btn-back" id="btnBackPractice">← 返回</button>
+      <span class="score">第 <span id="roundNum">1</span> 题</span>
+      <span class="correct">✅ <span id="correctNum">0</span></span>
+    </div>
+
+    <div class="card">
+      <div class="word-main">
+        <span class="word-text" id="quizWord"></span>
+        <span class="word-kana" id="quizKana"></span>
+      </div>
+      <p class="word-meaning" id="quizMeaning"></p>
+
+      <div class="form-target">
+        <span class="form-label">变形目标：</span>
+        <span class="form-name" id="quizFormName"></span>
+      </div>
+
+      <div class="hint" id="hintArea" style="display:none">
+        💡 答案：<span id="hintAnswer"></span>
+      </div>
+    </div>
+
+    <div class="input-row">
+      <input type="text" class="answer-input" id="answerInput"
+             placeholder="输入变形后的假名" autocomplete="off" autocapitalize="none">
+      <button class="btn btn-submit" id="btnSubmit">确定</button>
+    </div>
+
+    <!-- 结果弹窗 -->
+    <div class="overlay" id="resultOverlay" style="display:none">
+      <div class="result-card" id="resultCard">
+        <span class="result-icon" id="resultIcon"></span>
+        <p class="result-msg" id="resultMsg"></p>
+        <p class="result-word" id="resultWord"></p>
+        <div class="result-answer">
+          <span class="label">正确变形：</span>
+          <span class="value" id="resultAnswer"></span>
+        </div>
+        <p class="result-tap">点击继续 →</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== 学习页 v4-聚焦 ===== -->
+  <section id="page-learn" class="page">
+    <div class="top-bar">
+      <button class="btn-back" id="btnBackLearn">← 返回</button>
+      <span class="score" style="color:#e74c3c;font-weight:700">v4 · 词<span id="verbIdx">1</span>/<span id="verbTotal">0</span> · 形<span id="formIdx">1</span>/<span id="formTotal">9</span></span>
+    </div>
+
+    <!-- 学习阶段 -->
+    <div id="formLearnPhase">
+      <div class="card">
+        <div class="word-main">
+          <span class="word-text" id="learnWord"></span>
+          <span class="word-kana" id="learnKana"></span>
+        </div>
+        <p class="word-meaning" id="learnMeaning"></p>
+        <span class="word-type-tag" id="learnType" style="display:none"></span>
+        <button class="btn-audio" id="btnAudio" title="发音">🔊</button>
+      </div>
+
+      <!-- 变形卡片列表 -->
+      <div id="formCardsWrap"></div>
+
+      <button class="btn btn-primary" id="btnToQuiz">进入测验 →</button>
+    </div>
+
+    <!-- 测验阶段 -->
+    <div id="formQuizPhase" style="display:none">
+      <div class="card">
+        <div class="word-main">
+          <span class="word-text" id="quizVerbWord"></span>
+        </div>
+        <div class="form-target">
+          <span class="form-label">请拼写：</span>
+          <span class="form-name" id="quizFormLabel"></span>
+        </div>
+      </div>
+
+      <div class="quiz-input-row">
+        <input type="text" class="quiz-input" id="quizInput"
+               placeholder="输入变形后的假名" autocomplete="off" autocapitalize="none">
+        <button class="btn btn-submit" id="quizSubmitBtn">确定</button>
+      </div>
+
+      <div class="quiz-feedback" id="quizFeedback" style="display:none"></div>
+
+      <button class="btn btn-primary" id="quizNextBtn" style="display:none">继续 →</button>
+    </div>
+  </section>
+
+  <!-- ===== 词库浏览页 ===== -->
+  <section id="page-words" class="page">
+    <div class="top-bar">
+      <button class="btn-back" id="btnBackWords">← 返回</button>
+      <span class="score">词库浏览</span>
+      <span></span>
+    </div>
+
+    <div class="search-bar">
+      <input type="search" class="search-input" id="searchInput"
+             placeholder="搜索单词或假名" autocomplete="off">
+    </div>
+
+    <div class="word-list" id="wordList"></div>
+
+    <div class="empty-msg" id="emptyMsg" style="display:none">暂无匹配词条</div>
+
+    <div class="footer-bar">
+      共 <span id="totalWords">0</span> 个<span id="footerLabel">动词</span>
+    </div>
+  </section>
+
+  <script>
+    // SW disabled for dev
+    // if ('serviceWorker' in navigator) {
+    //   navigator.serviceWorker.register('sw.js')
+    // }
+  </script>
+  <script type="module" src="js/app.js?v=5"></script>
+</body>
+</html>

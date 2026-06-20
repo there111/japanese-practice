@@ -1,0 +1,18 @@
+{
+  "name": "日语动词变形练习",
+  "short_name": "动词变形",
+  "description": "JLPT N5〜N1 日语动词变形练习工具",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#4A90D9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%234A90D9'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white' font-family='sans-serif'>日</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

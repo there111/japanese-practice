@@ -1,0 +1,1673 @@
+[
+  {
+    "word": "おおざっぱ",
+    "kana": "おおざっぱ",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "粗枝大叶，粗心大意，草率；大概，概略",
+    "gloss_en": "rough (not precise), broad, sketchy"
+  },
+  {
+    "word": "おめでたい",
+    "kana": "おめでたい",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "可喜可贺，值得庆贺",
+    "gloss_en": "happy event, matter for congratulation"
+  },
+  {
+    "word": "かゆい",
+    "kana": "かゆい",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "痒",
+    "gloss_en": "itchy, itching"
+  },
+  {
+    "word": "きつい",
+    "kana": "きつい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "紧的；严厉的；刺激性的",
+    "gloss_en": "tight, close, intense"
+  },
+  {
+    "word": "ぎっしり",
+    "kana": "ぎっしり",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "满满的，紧紧的",
+    "gloss_en": "tightly, fully"
+  },
+  {
+    "word": "くどい",
+    "kana": "くどい",
+    "pitch": 2,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "冗长的，啰嗦的；油腻的",
+    "gloss_en": "verbose, importunate, heavy (taste)"
+  },
+  {
+    "word": "しつこい",
+    "kana": "しつこい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "（气味）浓厚的，腻人的；执拗的，纠缠不休的",
+    "gloss_en": "insistent, obstinate"
+  },
+  {
+    "word": "すっぱい",
+    "kana": "すっぱい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "酸的",
+    "gloss_en": "sour, acid"
+  },
+  {
+    "word": "そそっかしい",
+    "kana": "そそっかしい",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "粗心大意，马大哈，马虎",
+    "gloss_en": "careless, thoughtless"
+  },
+  {
+    "word": "たっぷり",
+    "kana": "たっぷり",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "满……，充分，足够",
+    "gloss_en": "full, in plenty, ample"
+  },
+  {
+    "word": "だらしない",
+    "kana": "だらしない",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "散漫的；没出息的，不争气的",
+    "gloss_en": "slovenly, loose, a slut"
+  },
+  {
+    "word": "とんでもない",
+    "kana": "とんでもない",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "没有的事儿，哪里的话",
+    "gloss_en": "outrageous, No way!"
+  },
+  {
+    "word": "みっともない",
+    "kana": "みっともない",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "不像样，不体面，不成体统",
+    "gloss_en": "shameful, indecent"
+  },
+  {
+    "word": "めでたい",
+    "kana": "めでたい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "值得祝贺的；顺利的",
+    "gloss_en": "happy, propitious, joyous"
+  },
+  {
+    "word": "やかましい",
+    "kana": "やかましい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "吵闹的，嘈杂的；（手续）麻烦的",
+    "gloss_en": "to be fussy, to be overly critical"
+  },
+  {
+    "word": "わがまま",
+    "kana": "わがまま",
+    "pitch": 3,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "任性，恣意",
+    "gloss_en": "selfishness, egoism, willfulness"
+  },
+  {
+    "word": "スマート",
+    "kana": "スマート",
+    "pitch": 2,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "苗条；漂亮；洒脱",
+    "gloss_en": "smart, stylish, slim"
+  },
+  {
+    "word": "ハンサム",
+    "kana": "handsome",
+    "pitch": 1,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "英俊的，潇洒的",
+    "gloss_en": "handsome"
+  },
+  {
+    "word": "モダン",
+    "kana": "modern",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "现代的；流行的",
+    "gloss_en": "modern"
+  },
+  {
+    "word": "下品",
+    "kana": "げひん",
+    "pitch": 2,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "卑鄙的，下流的，粗俗的",
+    "gloss_en": "vulgar, indecent, coarse"
+  },
+  {
+    "word": "不思議",
+    "kana": "ふしぎ",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "不可思议，奇怪",
+    "gloss_en": "mystery, curiosity"
+  },
+  {
+    "word": "主要",
+    "kana": "しゅよう",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "主要",
+    "gloss_en": "chief, main"
+  },
+  {
+    "word": "偉い",
+    "kana": "えらい",
+    "pitch": 2,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "伟大的；厉害的",
+    "gloss_en": "great, celebrated, remarkable,"
+  },
+  {
+    "word": "偉大",
+    "kana": "いだい",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "伟大",
+    "gloss_en": "greatness"
+  },
+  {
+    "word": "利口",
+    "kana": "りこう",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "聪明的，伶俐的",
+    "gloss_en": "clever, shrewd, bright"
+  },
+  {
+    "word": "力強い",
+    "kana": "ちからづよい",
+    "pitch": 5,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "强有力的；有信心的",
+    "gloss_en": "powerful, strong, vigorous"
+  },
+  {
+    "word": "勇ましい",
+    "kana": "いさましい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "勇敢的；活泼的，生机勃勃的",
+    "gloss_en": "brave, valiant"
+  },
+  {
+    "word": "危うい",
+    "kana": "あやうい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "危险的",
+    "gloss_en": "dangerous, critical"
+  },
+  {
+    "word": "厚かましい",
+    "kana": "あつかましい",
+    "pitch": 5,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "厚脸皮的，无耻的",
+    "gloss_en": "impudent, shameless,"
+  },
+  {
+    "word": "可愛らしい",
+    "kana": "かわいらしい",
+    "pitch": 5,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "可爱的；小巧玲珑的",
+    "gloss_en": "lovely, sweet"
+  },
+  {
+    "word": "困難",
+    "kana": "こんなん",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "困难",
+    "gloss_en": "difficulty, distress"
+  },
+  {
+    "word": "図々しい",
+    "kana": "ずうずうしい",
+    "pitch": 5,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "厚脸皮的，无耻的",
+    "gloss_en": "impudent, shameless"
+  },
+  {
+    "word": "堅い",
+    "kana": "かたい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "坚硬的",
+    "gloss_en": "hard, firm, solid"
+  },
+  {
+    "word": "塩辛い",
+    "kana": "しおからい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "咸的",
+    "gloss_en": "salty (taste)"
+  },
+  {
+    "word": "大人しい",
+    "kana": "おとなしい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "老实的，温顺的；雅致的",
+    "gloss_en": "obedient, docile, quiet"
+  },
+  {
+    "word": "奇妙",
+    "kana": "きみょう",
+    "pitch": 1,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "奇妙的，不可思议的",
+    "gloss_en": "strange, queer, curious"
+  },
+  {
+    "word": "好む",
+    "kana": "このむ",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "喜欢，爱好",
+    "gloss_en": "to like, to prefer"
+  },
+  {
+    "word": "安易",
+    "kana": "あんい",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "不经意的，不经心的；容易；安闲",
+    "gloss_en": "easy-going"
+  },
+  {
+    "word": "容易",
+    "kana": "ようい",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "容易的，简单的",
+    "gloss_en": "easy, simple, plain"
+  },
+  {
+    "word": "巨大",
+    "kana": "きょだい",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "巨大",
+    "gloss_en": "huge, gigantic, enormous"
+  },
+  {
+    "word": "平ら",
+    "kana": "たいら",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "扁平，平，平坦",
+    "gloss_en": "flatness, level, smooth"
+  },
+  {
+    "word": "平凡",
+    "kana": "へいぼん",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "平凡，普通，平常",
+    "gloss_en": "common, ordinary"
+  },
+  {
+    "word": "平和",
+    "kana": "へいわ",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "和平",
+    "gloss_en": "peace"
+  },
+  {
+    "word": "幸い",
+    "kana": "さいわい",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "幸运，荣幸；幸好",
+    "gloss_en": "fortunately; luckily"
+  },
+  {
+    "word": "幸せ",
+    "kana": "しあわせ",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "幸福，幸运；侥幸",
+    "gloss_en": "happiness, blessing"
+  },
+  {
+    "word": "幼い",
+    "kana": "おさない",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "幼小，年幼；幼稚",
+    "gloss_en": "very young, childish"
+  },
+  {
+    "word": "強引",
+    "kana": "ごういん",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "强行的；强制的；蛮干的",
+    "gloss_en": "forcible, assertive, pushy"
+  },
+  {
+    "word": "当たり前",
+    "kana": "あたりまえ",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "当然，理所当然",
+    "gloss_en": "usual, common, obvious"
+  },
+  {
+    "word": "微妙",
+    "kana": "びみょう",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "微妙的",
+    "gloss_en": "delicate, subtle"
+  },
+  {
+    "word": "快適",
+    "kana": "かいてき",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "舒服，舒适，愉快",
+    "gloss_en": "pleasant, agreeable"
+  },
+  {
+    "word": "急激",
+    "kana": "きゅうげき",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "急剧，急速",
+    "gloss_en": "sudden, precipitous, radical"
+  },
+  {
+    "word": "怪しい",
+    "kana": "あやしい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "可疑的，奇怪的；靠不住的",
+    "gloss_en": "suspicious, dubious, doubtful"
+  },
+  {
+    "word": "恋しい",
+    "kana": "こいしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "爱慕的；怀念的，眷恋的",
+    "gloss_en": "dear, beloved; to miss"
+  },
+  {
+    "word": "恐ろしい",
+    "kana": "おそろしい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "可怕的；惊人的，厉害的",
+    "gloss_en": "terrible, dreadful"
+  },
+  {
+    "word": "悔しい",
+    "kana": "くやしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "遗憾的，懊悔的",
+    "gloss_en": "regrettable, mortifying, vexing"
+  },
+  {
+    "word": "惜しい",
+    "kana": "おしい",
+    "pitch": 2,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "可惜的，遗憾的",
+    "gloss_en": "regrettable, disappointing"
+  },
+  {
+    "word": "愉快",
+    "kana": "ゆかい",
+    "pitch": 1,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "愉快的，高兴的",
+    "gloss_en": "pleasant, happy"
+  },
+  {
+    "word": "意地悪",
+    "kana": "いじわる",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "捉弄，使坏，恶作剧",
+    "gloss_en": "malicious, mean, unkind"
+  },
+  {
+    "word": "意外",
+    "kana": "いがい",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "出乎意料，意外",
+    "gloss_en": "unexpected, surprising"
+  },
+  {
+    "word": "慌ただしい",
+    "kana": "あわただしい",
+    "pitch": 5,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "慌张的，匆忙的",
+    "gloss_en": "busy, hurried"
+  },
+  {
+    "word": "憎い",
+    "kana": "にくい",
+    "pitch": 2,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "可憎的，可恶的；令人佩服的",
+    "gloss_en": "hateful, abominable, detestable"
+  },
+  {
+    "word": "憎らしい",
+    "kana": "にくらしい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "可憎的，可恶的",
+    "gloss_en": "odious, hateful"
+  },
+  {
+    "word": "懐かしい",
+    "kana": "なつかしい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "怀念，留恋",
+    "gloss_en": "dear, desired, missed"
+  },
+  {
+    "word": "新た",
+    "kana": "あらた",
+    "pitch": 1,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "新的；重新",
+    "gloss_en": "new, fresh"
+  },
+  {
+    "word": "明らか",
+    "kana": "あきらか",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "明显",
+    "gloss_en": "obvious, clear"
+  },
+  {
+    "word": "明確",
+    "kana": "めいかく",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "明确",
+    "gloss_en": "clear, definite"
+  },
+  {
+    "word": "有利",
+    "kana": "ゆうり",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "有利",
+    "gloss_en": "advantageous, better"
+  },
+  {
+    "word": "有効",
+    "kana": "ゆうこう",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "有效",
+    "gloss_en": "valid, effectual"
+  },
+  {
+    "word": "有能",
+    "kana": "ゆうのう",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "有能干，能干，有才干",
+    "gloss_en": "able, capable, efficient"
+  },
+  {
+    "word": "有難い",
+    "kana": "ありがたい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "难得的；值得感激的",
+    "gloss_en": "grateful, thankful, appreciated"
+  },
+  {
+    "word": "朗らか",
+    "kana": "ほがらか",
+    "pitch": 2,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "开朗的，爽快的",
+    "gloss_en": "bright, cheerful, melodious"
+  },
+  {
+    "word": "正式",
+    "kana": "せいしき",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "正规，正式",
+    "gloss_en": "official, formal"
+  },
+  {
+    "word": "正直",
+    "kana": "しょうじき",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "老实，诚实",
+    "gloss_en": "honesty, integrity, frankness"
+  },
+  {
+    "word": "正確",
+    "kana": "せいかく",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "正确",
+    "gloss_en": "accurate, punctuality, exact"
+  },
+  {
+    "word": "気の毒",
+    "kana": "きのどく",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "可怜，悲惨",
+    "gloss_en": "pitiful, a pity"
+  },
+  {
+    "word": "消極的",
+    "kana": "しょうきょくてき",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "消极，负面",
+    "gloss_en": "passive"
+  },
+  {
+    "word": "深刻",
+    "kana": "しんこく",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "严肃，严重；深刻",
+    "gloss_en": "serious"
+  },
+  {
+    "word": "清い",
+    "kana": "きよい",
+    "pitch": 2,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "清澈的；纯洁的",
+    "gloss_en": "clear, pure, noble"
+  },
+  {
+    "word": "温暖",
+    "kana": "おんだん",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "温暖",
+    "gloss_en": "warmth"
+  },
+  {
+    "word": "激しい",
+    "kana": "はげしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "激烈，剧烈，厉害",
+    "gloss_en": "violent, vehement, intense"
+  },
+  {
+    "word": "濃い",
+    "kana": "こい",
+    "pitch": 1,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "（颜色）浓的；（味道）重的",
+    "gloss_en": "thick (as of color, liquid), dense, strong"
+  },
+  {
+    "word": "無駄",
+    "kana": "むだ",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "徒劳，无用；浪费，白费",
+    "gloss_en": "futility, uselessness"
+  },
+  {
+    "word": "煙い",
+    "kana": "けむい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "呛人的，熏人的",
+    "gloss_en": "smoky"
+  },
+  {
+    "word": "物凄い",
+    "kana": "ものすごい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "可怕的；惊人的，不得了的",
+    "gloss_en": "earth-shattering, staggering, to a very great extent"
+  },
+  {
+    "word": "甚だしい",
+    "kana": "はなはだしい",
+    "pitch": 5,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "很，甚，非常",
+    "gloss_en": "extreme, excessive, terrible"
+  },
+  {
+    "word": "申し訳ない",
+    "kana": "もうしわけない",
+    "pitch": 6,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "对不起",
+    "gloss_en": "inexcusable, I am sorry"
+  },
+  {
+    "word": "異常",
+    "kana": "いじょう",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "异常",
+    "gloss_en": "strangeness, abnormality, disorder"
+  },
+  {
+    "word": "的確",
+    "kana": "てきかく",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "正确的，准确的",
+    "gloss_en": "precise, accurate"
+  },
+  {
+    "word": "真っ暗",
+    "kana": "まっくら",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "漆黑，黑暗；暗淡",
+    "gloss_en": "total darkness"
+  },
+  {
+    "word": "真剣",
+    "kana": "しんけん",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "认真，正经，严肃",
+    "gloss_en": "seriousness, earnestness"
+  },
+  {
+    "word": "硬い",
+    "kana": "かたい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "坚硬的；死板的",
+    "gloss_en": "hard, firm, solid"
+  },
+  {
+    "word": "確実",
+    "kana": "かくじつ",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "确实；准确",
+    "gloss_en": "certainty, reliability, soundness"
+  },
+  {
+    "word": "稀",
+    "kana": "まれ",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "稀罕的，稀奇的，稀少的",
+    "gloss_en": "rare, seldom"
+  },
+  {
+    "word": "積極的",
+    "kana": "せっきょくてき",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "积极．正面",
+    "gloss_en": "positive, active, proactive"
+  },
+  {
+    "word": "穏やか",
+    "kana": "おだやか",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "温和；平稳，平静",
+    "gloss_en": "calm, gentle, quiet"
+  },
+  {
+    "word": "等しい",
+    "kana": "ひとしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "相等的，相同的，一样的",
+    "gloss_en": "equal"
+  },
+  {
+    "word": "粗い",
+    "kana": "あらい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "粗大的；粗糙的；粗枝大叶的",
+    "gloss_en": "coarse, rough"
+  },
+  {
+    "word": "素直",
+    "kana": "すなお",
+    "pitch": 1,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "坦率的，纯朴的",
+    "gloss_en": "obedient, meek, docile"
+  },
+  {
+    "word": "緩い",
+    "kana": "ゆるい",
+    "pitch": 2,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "宽松的；缓慢的；不严格的",
+    "gloss_en": "loose, lenient, slow"
+  },
+  {
+    "word": "臭い",
+    "kana": "くさい",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "有～气味，有～味道；臭",
+    "gloss_en": "stinky, smelly, bad-smelling"
+  },
+  {
+    "word": "若々しい",
+    "kana": "わかわかしい",
+    "pitch": 5,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "年轻的，朝气蓬勃的",
+    "gloss_en": "youthful, young"
+  },
+  {
+    "word": "苦しい",
+    "kana": "くるしい",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "痛苦，苦",
+    "gloss_en": "tough; physically strenuous"
+  },
+  {
+    "word": "茶色い",
+    "kana": "ちゃいろい",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "茶色",
+    "gloss_en": "brown"
+  },
+  {
+    "word": "荒い",
+    "kana": "あらい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "剧烈的；粗暴的；乱来的",
+    "gloss_en": "rough, rude, wild"
+  },
+  {
+    "word": "莫大",
+    "kana": "ばくだい",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "大量，莫大",
+    "gloss_en": "enormous, vast"
+  },
+  {
+    "word": "蒸し暑い",
+    "kana": "むしあつい",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "闷热",
+    "gloss_en": "humid, sultry"
+  },
+  {
+    "word": "薄暗い",
+    "kana": "うすぐらい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "微暗的，昏暗的",
+    "gloss_en": "dim, gloomy"
+  },
+  {
+    "word": "表す",
+    "kana": "あらわす",
+    "pitch": 3,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "表示，表现，表达",
+    "gloss_en": "to express, to show"
+  },
+  {
+    "word": "見事",
+    "kana": "みごと",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "精彩，出色",
+    "gloss_en": "splendid, magnificent"
+  },
+  {
+    "word": "親しい",
+    "kana": "したしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "亲密的，亲切的；熟悉的",
+    "gloss_en": "intimate, close (e.g., friend)"
+  },
+  {
+    "word": "詳しい",
+    "kana": "くわしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "详细的；精通的",
+    "gloss_en": "detailed; full; accurate"
+  },
+  {
+    "word": "謙虚",
+    "kana": "けんきょ",
+    "pitch": 1,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "谦虚的，谦和的",
+    "gloss_en": "modesty, humble"
+  },
+  {
+    "word": "豊か",
+    "kana": "ゆたか",
+    "pitch": 1,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "丰富的；富裕的",
+    "gloss_en": "abundant, wealthy, plentiful, rich"
+  },
+  {
+    "word": "豊富",
+    "kana": "ほうふ",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "丰富",
+    "gloss_en": "abundance, plenty"
+  },
+  {
+    "word": "貧しい",
+    "kana": "まずしい",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "贫穷，穷苦",
+    "gloss_en": "poor, needy"
+  },
+  {
+    "word": "貴重",
+    "kana": "きちょう",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "贵重的，宝贵的",
+    "gloss_en": "precious, valuable"
+  },
+  {
+    "word": "賢い",
+    "kana": "かしこい",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "聪明，伶俐",
+    "gloss_en": "wise, clever, smart"
+  },
+  {
+    "word": "透明",
+    "kana": "とうめい",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2
+    ],
+    "gloss_cn": "透明",
+    "gloss_en": "transparency, cleanness"
+  },
+  {
+    "word": "適切",
+    "kana": "てきせつ",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "恰当，适当，适合",
+    "gloss_en": "appropriate, adequate, relevance"
+  },
+  {
+    "word": "醜い",
+    "kana": "みにくい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "丑陋的；丑恶的",
+    "gloss_en": "ugly"
+  },
+  {
+    "word": "重たい",
+    "kana": "おもたい",
+    "pitch": 0,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "（物品）重的；（心情、感觉等）沉重的",
+    "gloss_en": "heavy, massive, serious"
+  },
+  {
+    "word": "重大",
+    "kana": "じゅうだい",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "重大的，重要的；严重的",
+    "gloss_en": "serious, important"
+  },
+  {
+    "word": "鈍い",
+    "kana": "にぶい",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "迟钝；暗淡，沉闷",
+    "gloss_en": "dull (e.g., a knife), slow (opposite of fast), stupid"
+  },
+  {
+    "word": "鋭い",
+    "kana": "するどい",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "尖锐，锋利",
+    "gloss_en": "pointed, sharp"
+  },
+  {
+    "word": "長い",
+    "kana": "ながい",
+    "pitch": 2,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2,
+      5
+    ],
+    "gloss_cn": "长的；久远的",
+    "gloss_en": "long, lengthy"
+  },
+  {
+    "word": "険しい",
+    "kana": "けわしい",
+    "pitch": 3,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "陡峭的；（情况）艰险的",
+    "gloss_en": "steep, rugged; severe"
+  },
+  {
+    "word": "陽気",
+    "kana": "ようき",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "快乐的，愉快的；开朗的，爽朗的；热闹的，活跃的",
+    "gloss_en": "season, weather, cheerfulness"
+  },
+  {
+    "word": "青白い",
+    "kana": "あおじろい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "青白色的；苍白的",
+    "gloss_en": "pale"
+  },
+  {
+    "word": "順調",
+    "kana": "じゅんちょう",
+    "pitch": 0,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "顺利，良好",
+    "gloss_en": "doing well"
+  },
+  {
+    "word": "頼もしい",
+    "kana": "たのもしい",
+    "pitch": null,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "靠得住，有出息，有望",
+    "gloss_en": "reliable, promising"
+  },
+  {
+    "word": "騒々しい",
+    "kana": "そうぞうしい",
+    "pitch": 5,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "吵闹的；（社会）不安宁的",
+    "gloss_en": "noisy, boisterous"
+  },
+  {
+    "word": "騒がしい",
+    "kana": "さわがしい",
+    "pitch": 4,
+    "pos": "イ形容詞",
+    "adj_type": "i",
+    "level": [
+      2
+    ],
+    "gloss_cn": "吵闹的；议论纷纷的",
+    "gloss_en": "noisy"
+  },
+  {
+    "word": "高価",
+    "kana": "こうか",
+    "pitch": null,
+    "pos": "ナ形容詞",
+    "adj_type": "na",
+    "level": [
+      2,
+      3
+    ],
+    "gloss_cn": "高价，价高",
+    "gloss_en": "high price"
+  }
+]
