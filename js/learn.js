@@ -13,6 +13,14 @@ let currentFormKey = null
 let currentCorrect = null
 let _mode = 'verb'        // 'verb' | 'adj'
 
+// sahen动词显示时补上「する」
+function displayWord(item) {
+  if (item.conj_type === 'sahen' && !item.word.endsWith('する')) {
+    return item.word + 'する'
+  }
+  return item.word
+}
+
 // ====== 发音 ======
 function speak(text) {
   if (!window.speechSynthesis) return
@@ -95,7 +103,7 @@ function showFormLearn() {
   }
 
   // 基本信息
-  $('learnWord').textContent = currentItem.word
+  $('learnWord').textContent = displayWord(currentItem)
   $('learnKana').textContent = currentItem.kana || ''
   $('learnMeaning').textContent = currentItem.gloss_cn || ''
 
@@ -155,7 +163,7 @@ function showFormQuiz() {
   const forms = getForms(currentItem)
   currentCorrect = forms ? forms[currentFormKey] : null
 
-  $('quizVerbWord').textContent = currentItem.word
+  $('quizVerbWord').textContent = displayWord(currentItem)
   $('quizFormLabel').textContent = label
   $('quizInput').value = ''
   $('quizFeedback').style.display = 'none'
@@ -199,7 +207,7 @@ function onSubmitQuiz() {
   if (!isCorrect) {
     const book = JSON.parse(localStorage.getItem('jv_wrongBook') || '[]')
     book.push({
-      word: currentItem.word,
+      word: displayWord(currentItem),
       kana: currentItem.kana,
       formKey: currentFormKey,
       correctAnswer: currentCorrect,

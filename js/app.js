@@ -59,6 +59,14 @@ let correct = 0
 // 词库状态
 let currentVerbList = []
 
+// sahen动词显示时补上「する」
+function displayWord(word) {
+  if (word.conj_type === 'sahen' && !word.word.endsWith('する')) {
+    return word.word + 'する'
+  }
+  return word.word
+}
+
 // ====== 页面切换 ======
 function showPage(name) {
   pages.forEach(id => { const el = $(id); if (el) el.classList.remove('active') })
@@ -260,11 +268,11 @@ function genQuestion() {
     if (!forms || !forms[formKey]) return genQuestion()
 
     pagePractice.dataset.correctAnswer = forms[formKey]
-    pagePractice.dataset.verbWord = word.word
+    pagePractice.dataset.verbWord = displayWord(word)
     pagePractice.dataset.verbKana = word.kana
     pagePractice.dataset.formKey = formKey
 
-    quizWord.textContent = word.word
+    quizWord.textContent = displayWord(word)
     quizKana.textContent = word.kana || ''
     quizMeaning.textContent = word.gloss_cn || ''
     quizFormName.textContent = ADJ_FORM_LABELS[formKey] || formKey
@@ -275,11 +283,11 @@ function genQuestion() {
     if (!forms || !forms[formKey]) return genQuestion()
 
     pagePractice.dataset.correctAnswer = forms[formKey]
-    pagePractice.dataset.verbWord = word.word
+    pagePractice.dataset.verbWord = displayWord(word)
     pagePractice.dataset.verbKana = word.kana
     pagePractice.dataset.formKey = formKey
 
-    quizWord.textContent = word.word
+    quizWord.textContent = displayWord(word)
     quizKana.textContent = word.kana || ''
     quizMeaning.textContent = word.gloss_cn || ''
     quizFormName.textContent = FORM_LABELS[formKey] || formKey
@@ -372,7 +380,7 @@ function renderWordList(list) {
     return `
     <div class="word-item">
       <div class="word-main">
-        <span class="word-text">${v.word}</span>
+        <span class="word-text">${v.conj_type === 'sahen' && !v.word.endsWith('する') ? v.word + 'する' : v.word}</span>
         <span class="word-kana">${v.kana || ''}</span>
       </div>
       <div class="word-info">
