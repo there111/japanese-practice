@@ -36,6 +36,18 @@
     "gloss_en": "-- honorific expression for いく, くる, and いる --"
   },
   {
+    "word": "お礼",
+    "kana": "おれい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "感谢；回礼，酬谢",
+    "gloss_en": "expression of gratitude; thanking; gift of appreciation; bow"
+  },
+  {
     "word": "くれる",
     "kana": "くれる",
     "pitch": 0,
@@ -48,64 +60,40 @@
     "gloss_en": "to give, to do for"
   },
   {
-    "word": "しばらく",
-    "kana": "しばらく",
-    "pitch": 2,
-    "pos": "副",
+    "word": "こう",
+    "kana": "こう",
+    "pitch": null,
+    "pos": null,
     "conj_type": "godan",
     "level": [
       4
     ],
-    "gloss_cn": "暂时，暂且",
-    "gloss_en": "little while"
+    "gloss_cn": "专有词 红",
+    "gloss_en": "like this, this way"
   },
   {
-    "word": "とうとう",
-    "kana": "とうとう",
-    "pitch": 1,
-    "pos": "副",
-    "conj_type": "godan",
-    "level": [
-      4
-    ],
-    "gloss_cn": "终于，终究",
-    "gloss_en": "finally, at last"
-  },
-  {
-    "word": "なるべく",
-    "kana": "なるべく",
-    "pitch": 0,
-    "pos": "副",
-    "conj_type": "godan",
-    "level": [
-      4
-    ],
-    "gloss_cn": "尽量，尽可能",
-    "gloss_en": "if possible, as much as possible"
-  },
-  {
-    "word": "まず",
-    "kana": "まず",
-    "pitch": 1,
-    "pos": "副",
-    "conj_type": "godan",
-    "level": [
-      4
-    ],
-    "gloss_cn": "首先，最初",
-    "gloss_en": "first (of all), to start with"
-  },
-  {
-    "word": "もうすぐ",
-    "kana": "もうすぐ",
+    "word": "しっかり",
+    "kana": "しっかり",
     "pitch": 3,
-    "pos": "副",
+    "pos": "副·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "健壮，结实；可靠；扎实，充分",
+    "gloss_en": "firmly, steady"
+  },
+  {
+    "word": "そう",
+    "kana": "そう",
+    "pitch": null,
+    "pos": null,
     "conj_type": "godan",
     "level": [
       4
     ],
-    "gloss_cn": "马上就要，快要",
-    "gloss_en": "very soon; in a few moments; days"
+    "gloss_cn": "是的",
+    "gloss_en": "really, (is that) so; yes, right"
   },
   {
     "word": "もらう",
@@ -118,6 +106,30 @@
     ],
     "gloss_cn": "得到，接受",
     "gloss_en": "to receive"
+  },
+  {
+    "word": "アルバイト",
+    "kana": "アルバイト",
+    "pitch": 3,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "打工，兼职",
+    "gloss_en": "part-time job"
+  },
+  {
+    "word": "オーバー",
+    "kana": "over",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "超出，超过",
+    "gloss_en": "overcoat; over, exceeding, exaggeration"
   },
   {
     "word": "上がる",
@@ -147,13 +159,37 @@
     "word": "下る",
     "kana": "くだる",
     "pitch": 0,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       4
     ],
     "gloss_cn": "动1 下，下去：到地方去",
     "gloss_en": "to descend, to drop, to fall"
+  },
+  {
+    "word": "下宿",
+    "kana": "げしゅく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "公寓；寄宿",
+    "gloss_en": "lodging, boarding house"
+  },
+  {
+    "word": "世話",
+    "kana": "せわ",
+    "pitch": 2,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "帮助；照料",
+    "gloss_en": "looking after; to look after"
   },
   {
     "word": "乗り換える",
@@ -180,16 +216,64 @@
     "gloss_en": "to get dry"
   },
   {
+    "word": "予定",
+    "kana": "よてい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "预订，计划",
+    "gloss_en": "plans, arrangement, schedule"
+  },
+  {
+    "word": "予約",
+    "kana": "よやく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "预约，预订",
+    "gloss_en": "reservation"
+  },
+  {
+    "word": "予習",
+    "kana": "よしゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "预习",
+    "gloss_en": "preparation of lessons (for class)"
+  },
+  {
     "word": "亡くなる",
     "kana": "なくなる",
     "pitch": 0,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       4
     ],
     "gloss_cn": "动1 去世，死亡",
     "gloss_en": "to pass away"
+  },
+  {
+    "word": "会話",
+    "kana": "かいわ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "会话；交流",
+    "gloss_en": "conversation"
   },
   {
     "word": "伝える",
@@ -231,7 +315,7 @@
     "word": "倒れる",
     "kana": "たおれる",
     "pitch": 3,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       4
@@ -252,10 +336,34 @@
     "gloss_en": "to shine, to glitter"
   },
   {
+    "word": "入学",
+    "kana": "にゅうがく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "入学，上学",
+    "gloss_en": "entry to school or university"
+  },
+  {
+    "word": "入院",
+    "kana": "にゅういん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "住院",
+    "gloss_en": "hospitalization"
+  },
+  {
     "word": "写す",
     "kana": "うつす",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       4
@@ -276,16 +384,52 @@
     "gloss_en": "to grow cold, to cool down"
   },
   {
+    "word": "出席",
+    "kana": "しゅっせき",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "出席",
+    "gloss_en": "attendance"
+  },
+  {
+    "word": "出発",
+    "kana": "しゅっぱつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "出发；开始",
+    "gloss_en": "departure"
+  },
+  {
     "word": "別れる",
     "kana": "わかれる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       4
     ],
     "gloss_cn": "动2 分手，离别",
     "gloss_en": "to part from, to separate"
+  },
+  {
+    "word": "利用",
+    "kana": "りよう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "利用",
+    "gloss_en": "use, utilization"
   },
   {
     "word": "割れる",
@@ -312,6 +456,18 @@
     "gloss_en": "to move"
   },
   {
+    "word": "勝つ",
+    "kana": "かつ",
+    "pitch": 1,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      4
+    ],
+    "gloss_cn": "赢，胜利",
+    "gloss_en": "to win"
+  },
+  {
     "word": "包む",
     "kana": "つつむ",
     "pitch": 2,
@@ -324,16 +480,40 @@
     "gloss_en": "to wrap, to cover"
   },
   {
+    "word": "卒業",
+    "kana": "そつぎょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "毕业",
+    "gloss_en": "graduation"
+  },
+  {
     "word": "参る",
     "kana": "まいる",
     "pitch": 1,
     "pos": "自动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       4
     ],
     "gloss_cn": "（自谦语）去，来",
     "gloss_en": "humble expression for 行く and 来る"
+  },
+  {
+    "word": "反対",
+    "kana": "はんたい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "反对",
+    "gloss_en": "oppose, opposition, resistance"
   },
   {
     "word": "取り替える",
@@ -423,7 +603,7 @@
     "word": "塗る",
     "kana": "ぬる",
     "pitch": 0,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       4
@@ -471,7 +651,7 @@
     "word": "変える",
     "kana": "かえる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       4
@@ -504,6 +684,18 @@
     "gloss_en": "to gain weight"
   },
   {
+    "word": "失敗",
+    "kana": "しっぱい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "失败",
+    "gloss_en": "failure, mistake"
+  },
+  {
     "word": "始める",
     "kana": "はじめる",
     "pitch": 0,
@@ -516,6 +708,18 @@
     "gloss_en": "to start, to begin"
   },
   {
+    "word": "安心",
+    "kana": "あんしん",
+    "pitch": 0,
+    "pos": "名·ナ形·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "安心，放心",
+    "gloss_en": "peace of mind, relief"
+  },
+  {
     "word": "寄る",
     "kana": "よる",
     "pitch": 0,
@@ -526,6 +730,18 @@
     ],
     "gloss_cn": "靠近，挨近；集中；顺路去",
     "gloss_en": "to stop by"
+  },
+  {
+    "word": "寝坊",
+    "kana": "ねぼう",
+    "pitch": 0,
+    "pos": "名·ナ形·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "睡懒觉；爱睡懒觉的人",
+    "gloss_en": "sleeping in late"
   },
   {
     "word": "尋ねる",
@@ -576,16 +792,28 @@
     "gloss_en": "to move to a new place of residence"
   },
   {
-    "word": "必ず",
-    "kana": "かならず",
+    "word": "復習",
+    "kana": "ふくしゅう",
     "pitch": 0,
-    "pos": "副",
-    "conj_type": "godan",
+    "pos": "名·他动3",
+    "conj_type": "sahen",
     "level": [
       4
     ],
-    "gloss_cn": "一定，必定",
-    "gloss_en": "surely, certainly"
+    "gloss_cn": "复习",
+    "gloss_en": "review (of lessons), revision"
+  },
+  {
+    "word": "心配",
+    "kana": "しんぱい",
+    "pitch": 0,
+    "pos": "名·ナ形·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "担心，挂念",
+    "gloss_en": "worry, concern"
   },
   {
     "word": "怒る",
@@ -636,6 +864,30 @@
     "gloss_en": "to hurry, to be in a hurry, to rush"
   },
   {
+    "word": "急行",
+    "kana": "きゅうこう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "快车；急往，奔赴",
+    "gloss_en": "express train or bus"
+  },
+  {
+    "word": "意見",
+    "kana": "いけん",
+    "pitch": 1,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "意见；提建议，劝告",
+    "gloss_en": "opinion, view, idea"
+  },
+  {
     "word": "慣れる",
     "kana": "なれる",
     "pitch": 2,
@@ -672,6 +924,18 @@
     "gloss_en": "to help"
   },
   {
+    "word": "打つ",
+    "kana": "うつ",
+    "pitch": null,
+    "pos": null,
+    "conj_type": "godan",
+    "level": [
+      4
+    ],
+    "gloss_cn": "动1 敲，打",
+    "gloss_en": "to hit, to strike"
+  },
+  {
     "word": "払う",
     "kana": "はらう",
     "pitch": 2,
@@ -684,10 +948,22 @@
     "gloss_en": "to pay"
   },
   {
+    "word": "承知",
+    "kana": "しょうち",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "知道；同意，赞成",
+    "gloss_en": "consent, acceptance"
+  },
+  {
     "word": "投げる",
     "kana": "なげる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       4
@@ -720,6 +996,18 @@
     "gloss_en": "to break, to be folded, to give in; to turn (a corner)"
   },
   {
+    "word": "拝見",
+    "kana": "はいけん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "拜读",
+    "gloss_en": "(humble) (polite) seeing, look at"
+  },
+  {
     "word": "拾う",
     "kana": "ひろう",
     "pitch": 0,
@@ -735,7 +1023,7 @@
     "word": "捕まえる",
     "kana": "つかまえる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       4
@@ -794,6 +1082,18 @@
     "gloss_en": "to shake, to sway"
   },
   {
+    "word": "支度",
+    "kana": "したく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "准备；打扮，装束",
+    "gloss_en": "preparation"
+  },
+  {
     "word": "暮れる",
     "kana": "くれる",
     "pitch": 0,
@@ -806,10 +1106,22 @@
     "gloss_en": "to get dark, to come to an end"
   },
   {
+    "word": "案内",
+    "kana": "あんない",
+    "pitch": 3,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "指南；陪同游览，向导",
+    "gloss_en": "information, guidance"
+  },
+  {
     "word": "植える",
     "kana": "うえる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       4
@@ -845,13 +1157,25 @@
     "word": "比べる",
     "kana": "くらべる",
     "pitch": 0,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       4
     ],
     "gloss_cn": "动2  相比，比较，对比",
     "gloss_en": "to compare"
+  },
+  {
+    "word": "水泳",
+    "kana": "すいえい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "游泳",
+    "gloss_en": "swimming"
   },
   {
     "word": "汚れる",
@@ -893,7 +1217,7 @@
     "word": "沸かす",
     "kana": "わかす",
     "pitch": 0,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       4
@@ -905,7 +1229,7 @@
     "word": "沸く",
     "kana": "わく",
     "pitch": 0,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       4
@@ -938,6 +1262,30 @@
     "gloss_en": "to stay (over night) (v.i.)"
   },
   {
+    "word": "注射",
+    "kana": "ちゅうしゃ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "注射，打针",
+    "gloss_en": "injection"
+  },
+  {
+    "word": "注意",
+    "kana": "ちゅうい",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "注意，留神；提醒，警告",
+    "gloss_en": "caution, attention"
+  },
+  {
     "word": "済む",
     "kana": "すむ",
     "pitch": 1,
@@ -950,11 +1298,23 @@
     "gloss_en": "to finish, to end"
   },
   {
+    "word": "準備",
+    "kana": "じゅんび",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "准备",
+    "gloss_en": "prepare"
+  },
+  {
     "word": "滑る",
     "kana": "すべる",
     "pitch": 2,
     "pos": "自动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       4
     ],
@@ -965,7 +1325,7 @@
     "word": "漬ける",
     "kana": "つける",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       4
@@ -1034,6 +1394,54 @@
     "gloss_en": "to live"
   },
   {
+    "word": "生活",
+    "kana": "せいかつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "生活；生计，谋生",
+    "gloss_en": "living, life; to live"
+  },
+  {
+    "word": "生産",
+    "kana": "せいさん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "生产",
+    "gloss_en": "production; to produce"
+  },
+  {
+    "word": "留守",
+    "kana": "るす",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "看家，看门；不在家",
+    "gloss_en": "absence; not at home"
+  },
+  {
+    "word": "発音",
+    "kana": "はつおん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "发音",
+    "gloss_en": "pronunciation"
+  },
+  {
     "word": "盗む",
     "kana": "ぬすむ",
     "pitch": 2,
@@ -1070,6 +1478,18 @@
     "gloss_en": "to be fixed"
   },
   {
+    "word": "相談",
+    "kana": "そうだん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "商量，商议",
+    "gloss_en": "consultation"
+  },
+  {
     "word": "眠る",
     "kana": "ねむる",
     "pitch": 0,
@@ -1094,10 +1514,22 @@
     "gloss_en": "to notify"
   },
   {
+    "word": "研究",
+    "kana": "けんきゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "研究",
+    "gloss_en": "study, research, investigation"
+  },
+  {
     "word": "祈る",
     "kana": "いのる",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       4
@@ -1133,7 +1565,7 @@
     "word": "立てる",
     "kana": "たてる",
     "pitch": 2,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       4
@@ -1152,6 +1584,42 @@
     ],
     "gloss_cn": "笑；嘲笑",
     "gloss_en": "to laugh, to smile"
+  },
+  {
+    "word": "約束",
+    "kana": "やくそく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "约定，商定",
+    "gloss_en": "arrangement, appointment, promise"
+  },
+  {
+    "word": "紹介",
+    "kana": "しょうかい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "介绍",
+    "gloss_en": "an introduction"
+  },
+  {
+    "word": "経験",
+    "kana": "けいけん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "经验；体验",
+    "gloss_en": "experience"
   },
   {
     "word": "続く",
@@ -1205,7 +1673,7 @@
     "word": "育てる",
     "kana": "そだてる",
     "pitch": 3,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       4
@@ -1286,6 +1754,18 @@
     "gloss_en": "to touch, to feel"
   },
   {
+    "word": "計画",
+    "kana": "けいかく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "计划，规划",
+    "gloss_en": "plan, project, schedule"
+  },
+  {
     "word": "訪ねる",
     "kana": "たずねる",
     "pitch": 3,
@@ -1298,6 +1778,42 @@
     "gloss_en": "to visit"
   },
   {
+    "word": "試合",
+    "kana": "しあい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "比赛",
+    "gloss_en": "match, game, competition"
+  },
+  {
+    "word": "試験",
+    "kana": "しけん",
+    "pitch": 2,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "考试，测验",
+    "gloss_en": "an exam"
+  },
+  {
+    "word": "説明",
+    "kana": "せつめい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "说明，解释",
+    "gloss_en": "explanation"
+  },
+  {
     "word": "調べる",
     "kana": "しらべる",
     "pitch": 3,
@@ -1308,6 +1824,18 @@
     ],
     "gloss_cn": "查，调查",
     "gloss_en": "to check; to look up; to inquire; to search"
+  },
+  {
+    "word": "講義",
+    "kana": "こうぎ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "讲义；（大学里）授课",
+    "gloss_en": "a lecture"
   },
   {
     "word": "謝る",
@@ -1382,6 +1910,18 @@
     "gloss_en": "to step on, to tread on"
   },
   {
+    "word": "輸出",
+    "kana": "ゆしゅつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "出口，输出",
+    "gloss_en": "export"
+  },
+  {
     "word": "迎える",
     "kana": "むかえる",
     "pitch": 0,
@@ -1394,10 +1934,22 @@
     "gloss_en": "to welcome; to meet; to greet"
   },
   {
+    "word": "退院",
+    "kana": "たいいん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "出院",
+    "gloss_en": "leaving hospital"
+  },
+  {
     "word": "送る",
     "kana": "おくる",
     "pitch": 0,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       4
@@ -1454,6 +2006,18 @@
     "gloss_en": "to lead, to take (a person)"
   },
   {
+    "word": "連絡",
+    "kana": "れんらく",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "联络，联系",
+    "gloss_en": "communication, contact, connection"
+  },
+  {
     "word": "進む",
     "kana": "すすむ",
     "pitch": 0,
@@ -1490,6 +2054,30 @@
     "gloss_en": "to transport, to carry"
   },
   {
+    "word": "運動",
+    "kana": "うんどう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "运动",
+    "gloss_en": "exercise"
+  },
+  {
+    "word": "運転",
+    "kana": "うんてん",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "驾驶；操纵，操控",
+    "gloss_en": "driving"
+  },
+  {
     "word": "過ぎる",
     "kana": "すぎる",
     "pitch": 2,
@@ -1500,6 +2088,18 @@
     ],
     "gloss_cn": "经过；（时间）流逝；超过",
     "gloss_en": "to exceed, to go beyond"
+  },
+  {
+    "word": "遠慮",
+    "kana": "えんりょ",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "客气；谢绝",
+    "gloss_en": "restraint, reserve, hesitate"
   },
   {
     "word": "選ぶ",
@@ -1514,10 +2114,22 @@
     "gloss_en": "to choose; to select"
   },
   {
+    "word": "邪魔",
+    "kana": "じゃま",
+    "pitch": 0,
+    "pos": "名·ナ形·他动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "打扰；妨碍，阻碍",
+    "gloss_en": "hindrance, intrusion"
+  },
+  {
     "word": "釣る",
     "kana": "つる",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       4
@@ -1584,6 +2196,18 @@
     ],
     "gloss_cn": "加油，努力",
     "gloss_en": "to try one's best, to try hard, to persist"
+  },
+  {
+    "word": "食事",
+    "kana": "しょくじ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      4
+    ],
+    "gloss_cn": "吃饭，进餐",
+    "gloss_en": "meal"
   },
   {
     "word": "飾る",

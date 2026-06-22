@@ -1,9 +1,105 @@
 [
   {
+    "word": "うんざり",
+    "kana": "うんざり",
+    "pitch": 3,
+    "pos": "副·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "厌倦，厌烦，腻烦",
+    "gloss_en": "tedious, boring, being fed up with"
+  },
+  {
+    "word": "おどおど",
+    "kana": "おどおど",
+    "pitch": 1,
+    "pos": "副·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "提心吊胆，战战兢兢",
+    "gloss_en": "coweringly, hesitantly"
+  },
+  {
+    "word": "がっくり",
+    "kana": "がっくり",
+    "pitch": 3,
+    "pos": "副·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "突然无力地，颓丧",
+    "gloss_en": "heartbroken"
+  },
+  {
+    "word": "がっしり",
+    "kana": "がっしり",
+    "pitch": 3,
+    "pos": "副·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "结实；健壮；严密，紧密",
+    "gloss_en": "firmly, solidly, tough"
+  },
+  {
+    "word": "がっちり",
+    "kana": "がっちり",
+    "pitch": 3,
+    "pos": "副·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "结实，牢靠；精打细算",
+    "gloss_en": "solidly built, tightly"
+  },
+  {
+    "word": "きっぱり",
+    "kana": "きっぱり",
+    "pitch": 3,
+    "pos": "副·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "断然，干脆",
+    "gloss_en": "clearly, plainly, distinctly"
+  },
+  {
+    "word": "くっきり",
+    "kana": "くっきり",
+    "pitch": 3,
+    "pos": "副·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "特别鲜明，清楚",
+    "gloss_en": "distinctly, clearly, boldly"
+  },
+  {
+    "word": "げっそり",
+    "kana": "げっそり",
+    "pitch": 3,
+    "pos": "副·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "急剧消瘦；灰心，失望",
+    "gloss_en": "being disheartened, losing weight"
+  },
+  {
     "word": "こだわる",
     "kana": "こだわる",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
@@ -28,7 +124,7 @@
     "kana": "しくじる",
     "pitch": 3,
     "pos": "他动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       1
     ],
@@ -36,64 +132,28 @@
     "gloss_en": "to fail, to fall through, to blunder"
   },
   {
-    "word": "しょっちゅう",
-    "kana": "しょっちゅう",
-    "pitch": 1,
-    "pos": "副",
-    "conj_type": "godan",
-    "level": [
-      1
-    ],
-    "gloss_cn": "经常，总是",
-    "gloss_en": "always, constantly"
-  },
-  {
-    "word": "ずるずる",
-    "kana": "ずるずる",
-    "pitch": null,
-    "pos": "五段動詞",
-    "conj_type": "godan",
-    "level": [
-      1
-    ],
-    "gloss_cn": "拖延，拖拉",
-    "gloss_en": "dragging on, sound of sniffling"
-  },
-  {
-    "word": "だぶだぶ",
-    "kana": "だぶだぶ",
-    "pitch": null,
-    "pos": "五段動詞",
-    "conj_type": "godan",
-    "level": [
-      1
-    ],
-    "gloss_cn": "肥大",
-    "gloss_en": "loose, baggy"
-  },
-  {
-    "word": "ちょくちょく",
-    "kana": "ちょくちょく",
-    "pitch": 1,
-    "pos": "副",
-    "conj_type": "godan",
-    "level": [
-      1
-    ],
-    "gloss_cn": "时常，往往",
-    "gloss_en": "often, frequently, now and then, occasionally"
-  },
-  {
-    "word": "とりあえず",
-    "kana": "とりあえず",
+    "word": "すんなり",
+    "kana": "すんなり",
     "pitch": 3,
-    "pos": "副",
-    "conj_type": "godan",
+    "pos": "副·自动3",
+    "conj_type": "sahen",
     "level": [
       1
     ],
-    "gloss_cn": "暂且，姑且；急忙，匆忙",
-    "gloss_en": "at once, first of all, for the time being"
+    "gloss_cn": "苗条，纤细；容易，不费力",
+    "gloss_en": "pass with no objection, slim, slender"
+  },
+  {
+    "word": "ちやほや",
+    "kana": "ちやほや",
+    "pitch": 1,
+    "pos": "副·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "溺爱，娇生惯养；奉承",
+    "gloss_en": "pamper, make a fuss of, spoil"
   },
   {
     "word": "とろける",
@@ -106,6 +166,30 @@
     ],
     "gloss_cn": "溶化；陶醉，心旷神怡",
     "gloss_en": "melt; to be enchanted with"
+  },
+  {
+    "word": "どうにか",
+    "kana": "どうにか",
+    "pitch": 1,
+    "pos": "副·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "想办法；总算，勉强",
+    "gloss_en": "in some way or other, one way or another"
+  },
+  {
+    "word": "はらはら",
+    "kana": "はらはら",
+    "pitch": 1,
+    "pos": "副·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（树叶、水滴等）落下；担心，捏一把汗",
+    "gloss_en": "feel nervous"
   },
   {
     "word": "ばてる",
@@ -183,7 +267,7 @@
     "word": "もたらす",
     "kana": "もたらす",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
@@ -204,6 +288,103 @@
     "gloss_en": "to entertain, to make welcome"
   },
   {
+    "word": "アップ",
+    "kana": "up",
+    "pitch": 1,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "增高，提高",
+    "gloss_en": "up"
+  },
+  {
+    "word": "アプローチ",
+    "kana": "approach",
+    "pitch": 3,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "接近；研究",
+    "gloss_en": "approach (in golf)"
+  },
+  {
+    "word": "アンコール",
+    "kana": "アンコール",
+    "pitch": 3,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "要求重演，再来一个",
+    "gloss_en": "encore"
+  },
+  {
+    "word": "カット",
+    "kana": "cut",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "切，削，删去；剪发",
+    "gloss_en": "cut, cutting"
+  },
+  {
+    "word": "カムバック",
+    "kana": "come back",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "恢复（原位），东山再起",
+    "gloss_en": "comeback"
+  },
+  {
+    "word": "カンニング",
+    "kana": "cunning",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（考试）作弊",
+    "gloss_en": "cunning, cheat"
+  },
+  {
+    "word": "キャッチ",
+    "kana": "catch",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "捕捉，接收；接球",
+    "gloss_en": "catch"
+  },
+  {
+    "word": "コントロール",
+    "kana": "control",
+    "pitch": 4,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "控制，管理",
+    "gloss_en": "control"
+  },
+  {
     "word": "サボる",
     "kana": "サボる",
     "pitch": 2,
@@ -216,16 +397,307 @@
     "gloss_en": "to cut (skip) classes; to loaf on the job; to idle away one's time"
   },
   {
+    "word": "ストライキ",
+    "kana": "strike",
+    "pitch": 3,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "罢工；罢市；罢课",
+    "gloss_en": "strike"
+  },
+  {
+    "word": "ダウン",
+    "kana": "down",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "下降，落下；倒下",
+    "gloss_en": "down"
+  },
+  {
+    "word": "チェンジ",
+    "kana": "change",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "交换；兑换（货币）",
+    "gloss_en": "change"
+  },
+  {
+    "word": "デザイン",
+    "kana": "design",
+    "pitch": 2,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "设计",
+    "gloss_en": "design"
+  },
+  {
+    "word": "パンク",
+    "kana": "puncture",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "爆胎；胀破；拥挤不堪；破产",
+    "gloss_en": "puncture, bursting; punk"
+  },
+  {
+    "word": "ボイコット",
+    "kana": "boycott",
+    "pitch": 3,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "联合抵制",
+    "gloss_en": "boycott"
+  },
+  {
+    "word": "マーク",
+    "kana": "mark",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "标记；做标记",
+    "gloss_en": "mark"
+  },
+  {
+    "word": "モニター",
+    "kana": "monitor",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "评论员；监视器",
+    "gloss_en": "(computer) monitor"
+  },
+  {
+    "word": "リード",
+    "kana": "lead",
+    "pitch": 1,
+    "pos": "自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "领导，带领；领先",
+    "gloss_en": "lead; reed"
+  },
+  {
+    "word": "一変",
+    "kana": "いっぺん",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "完全改变，突然改变",
+    "gloss_en": "complete change"
+  },
+  {
+    "word": "一括",
+    "kana": "いっかつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "统一，总括",
+    "gloss_en": "all together, batch"
+  },
+  {
+    "word": "一見",
+    "kana": "いっけん",
+    "pitch": 0,
+    "pos": "名·他动3·副",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（值得）一看；看一眼；乍一看",
+    "gloss_en": "a look, a glimpse, glance; first meeting"
+  },
+  {
     "word": "上回る",
     "kana": "うわまわる",
     "pitch": 4,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "动1 超过，超出",
     "gloss_en": "to exceed"
+  },
+  {
+    "word": "上演",
+    "kana": "じょうえん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "上演，演出",
+    "gloss_en": "art performance"
+  },
+  {
+    "word": "上陸",
+    "kana": "じょうりく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "登陆，登岸",
+    "gloss_en": "landing, disembarkation"
+  },
+  {
+    "word": "下取り",
+    "kana": "したどり",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "以旧换新",
+    "gloss_en": "trade in, part exchange"
+  },
+  {
+    "word": "下痢",
+    "kana": "げり",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "腹泻，拉肚子",
+    "gloss_en": "diarrhea"
+  },
+  {
+    "word": "下調べ",
+    "kana": "したしらべ",
+    "pitch": 3,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "预先调查；预习",
+    "gloss_en": "preliminary investigation"
+  },
+  {
+    "word": "両立",
+    "kana": "りょうりつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "两立，并存",
+    "gloss_en": "compatibility, coexistence, standing together"
+  },
+  {
+    "word": "並列",
+    "kana": "へいれつ",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "并列，并排；并联",
+    "gloss_en": "arrangement, parallel, abreast"
+  },
+  {
+    "word": "並行",
+    "kana": "へいこう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      2
+    ],
+    "gloss_cn": "并行；同时进行",
+    "gloss_en": "(going) side by side, concurrent, at the same time"
+  },
+  {
+    "word": "中傷",
+    "kana": "ちゅうしょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "中伤，诽谤",
+    "gloss_en": "slander, libel, defamation"
+  },
+  {
+    "word": "中断",
+    "kana": "ちゅうだん",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "中断，断开,中止",
+    "gloss_en": "interruption, suspension, break"
+  },
+  {
+    "word": "中立",
+    "kana": "ちゅうりつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "中立（立场）",
+    "gloss_en": "neutrality"
+  },
+  {
+    "word": "中継",
+    "kana": "ちゅうけい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "中转；转播",
+    "gloss_en": "relay, hook-up"
   },
   {
     "word": "丸める",
@@ -238,6 +710,30 @@
     ],
     "gloss_cn": "弄圆，揉成团；笼络，拉拢（他人）",
     "gloss_en": "to make round, to round off, to roll up"
+  },
+  {
+    "word": "主催",
+    "kana": "しゅさい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "主办，举办",
+    "gloss_en": "organization, sponsorship, to host"
+  },
+  {
+    "word": "主導",
+    "kana": "しゅどう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "主导；主动",
+    "gloss_en": "main leadership"
   },
   {
     "word": "乗っ取る",
@@ -279,13 +775,49 @@
     "word": "乱れる",
     "kana": "みだれる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
     ],
     "gloss_cn": "动2 乱，不平静",
     "gloss_en": "to get confused, to be disordered, to be disturbed"
+  },
+  {
+    "word": "予感",
+    "kana": "よかん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "预感；预兆",
+    "gloss_en": "presentiment, premonition"
+  },
+  {
+    "word": "予言",
+    "kana": "よげん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "预言",
+    "gloss_en": "prediction, promise, prognostication"
+  },
+  {
+    "word": "云々",
+    "kana": "うんぬん",
+    "pitch": 3,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "说三道四，说长道短；云云，等等",
+    "gloss_en": "and so on, and so forth"
   },
   {
     "word": "交える",
@@ -312,6 +844,43 @@
     "gloss_en": "to cross, to intersect, to mingle with,"
   },
   {
+    "word": "交付",
+    "kana": "こうふ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "交付，交给，发给",
+    "gloss_en": "delivering, furnishing (with copies)"
+  },
+  {
+    "word": "享受",
+    "kana": "きょうじゅ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "享受",
+    "gloss_en": "enjoyment, being given"
+  },
+  {
+    "word": "介入",
+    "kana": "かいにゅう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "介入，插手，干涉",
+    "gloss_en": "intervention"
+  },
+  {
     "word": "仕える",
     "kana": "つかえる",
     "pitch": 3,
@@ -327,7 +896,7 @@
     "word": "仕上げる",
     "kana": "しあげる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -340,7 +909,7 @@
     "kana": "しきる",
     "pitch": 2,
     "pos": "他动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       1
     ],
@@ -384,6 +953,30 @@
     "gloss_en": "to add one thing to another"
   },
   {
+    "word": "代弁",
+    "kana": "だいべん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "替人偿还；代办；代为辩解，陈述",
+    "gloss_en": "speak for another"
+  },
+  {
+    "word": "代用",
+    "kana": "だいよう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "代替使用",
+    "gloss_en": "substitution"
+  },
+  {
     "word": "仰ぐ",
     "kana": "あおぐ",
     "pitch": 2,
@@ -408,6 +1001,30 @@
     "gloss_en": "to entrust, to leave to a person"
   },
   {
+    "word": "任命",
+    "kana": "にんめい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "任命",
+    "gloss_en": "appointment, nomination, ordination"
+  },
+  {
+    "word": "企画",
+    "kana": "きかく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "计划，策划",
+    "gloss_en": "planning, project"
+  },
+  {
     "word": "休める",
     "kana": "やすめる",
     "pitch": 3,
@@ -420,10 +1037,58 @@
     "gloss_en": "to rest, to suspend, to give relief"
   },
   {
+    "word": "会見",
+    "kana": "かいけん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "会见，接见",
+    "gloss_en": "interview, conference"
+  },
+  {
+    "word": "会談",
+    "kana": "かいだん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "会谈，面谈",
+    "gloss_en": "conversation, interview"
+  },
+  {
+    "word": "伝来",
+    "kana": "でんらい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（从国外）传来，传入；祖传",
+    "gloss_en": "ancestral, hereditary, imported"
+  },
+  {
+    "word": "伝達",
+    "kana": "でんたつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "传达，转达",
+    "gloss_en": "transmission (e.g., news, communication, delivery)"
+  },
+  {
     "word": "伴う",
     "kana": "ともなう",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
@@ -444,6 +1109,54 @@
     "gloss_en": "to resemble closely"
   },
   {
+    "word": "余所見",
+    "kana": "よそみ",
+    "pitch": 2,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "往旁边看；别人看着",
+    "gloss_en": "looking away, looking aside"
+  },
+  {
+    "word": "作用",
+    "kana": "さよう",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "作用；起作用",
+    "gloss_en": "operation, effect, function"
+  },
+  {
+    "word": "依存",
+    "kana": "いそん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "依存，依靠",
+    "gloss_en": "dependence, dependent, reliance"
+  },
+  {
+    "word": "侮辱",
+    "kana": "ぶじょく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "侮辱，凌辱",
+    "gloss_en": "insult, contempt, slight"
+  },
+  {
     "word": "侵す",
     "kana": "おかす",
     "pitch": 2,
@@ -454,6 +1167,18 @@
     ],
     "gloss_cn": "侵犯，侵害；侵占",
     "gloss_en": "to invade, to raid, to trespass"
+  },
+  {
+    "word": "侵略",
+    "kana": "しんりゃく",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "侵略",
+    "gloss_en": "aggression, invasion, raid"
   },
   {
     "word": "促す",
@@ -468,6 +1193,129 @@
     "gloss_en": "to urge, to suggest, to demand"
   },
   {
+    "word": "促進",
+    "kana": "そくしん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "促进",
+    "gloss_en": "promotion, acceleration, encouragement"
+  },
+  {
+    "word": "保つ",
+    "kana": "たもつ",
+    "pitch": 0,
+    "pos": null,
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 保持，维持；保，保住",
+    "gloss_en": "to keep, to preserve, to sustain"
+  },
+  {
+    "word": "保守",
+    "kana": "ほしゅ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（思想）保守；保养（机器）",
+    "gloss_en": "conservative, maintaining"
+  },
+  {
+    "word": "保温",
+    "kana": "ほおん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "保温",
+    "gloss_en": "retaining warmth, keeping heat in, heat insulation"
+  },
+  {
+    "word": "保育",
+    "kana": "ほいく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "保护养育（幼儿）",
+    "gloss_en": "nursing, nurturing, rearing"
+  },
+  {
+    "word": "保障",
+    "kana": "ほしょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "保障",
+    "gloss_en": "guarantee, security, warranty"
+  },
+  {
+    "word": "保養",
+    "kana": "ほよう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "休养，疗养；消遣",
+    "gloss_en": "health preservation, recuperation, recreation"
+  },
+  {
+    "word": "修行",
+    "kana": "しゅぎょう",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（佛教用语）修行；学习(学问、技艺)",
+    "gloss_en": "pursuit of knowledge, training, ascetic practice"
+  },
+  {
+    "word": "修飾",
+    "kana": "しゅうしょく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "修饰，装饰",
+    "gloss_en": "ornamentation; modification (gram)"
+  },
+  {
+    "word": "倒産",
+    "kana": "とうさん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "倒闭，破产",
+    "gloss_en": "(corporate) bankruptcy, insolvency"
+  },
+  {
     "word": "値する",
     "kana": "あたいする",
     "pitch": 0,
@@ -478,6 +1326,54 @@
     ],
     "gloss_cn": "值得，有⋯⋯价值",
     "gloss_en": "to be worth, to deserve"
+  },
+  {
+    "word": "値引き",
+    "kana": "ねびき",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "减价，降价",
+    "gloss_en": "price reduction, discount"
+  },
+  {
+    "word": "倹約",
+    "kana": "けんやく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "节俭，节省",
+    "gloss_en": "thrift, economy, frugality"
+  },
+  {
+    "word": "停滞",
+    "kana": "ていたい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "停滞，停顿",
+    "gloss_en": "stagnation, tie-up, congestion, retention"
+  },
+  {
+    "word": "偽造",
+    "kana": "ぎぞう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "伪造，假造",
+    "gloss_en": "forgery, fabrication, counterfeiting"
   },
   {
     "word": "備え付ける",
@@ -543,13 +1439,86 @@
     "word": "傾ける",
     "kana": "かたむける",
     "pitch": 4,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
     ],
     "gloss_cn": "动2 倾，倾斜；倾注",
     "gloss_en": "to incline, to tilt, to bend"
+  },
+  {
+    "word": "傾斜",
+    "kana": "けいしゃ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "倾斜，坡度；倾向",
+    "gloss_en": "inclination, slope, dip"
+  },
+  {
+    "word": "優先",
+    "kana": "ゆうせん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "优先",
+    "gloss_en": "preference, priority"
+  },
+  {
+    "word": "優越",
+    "kana": "ゆうえつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "优越",
+    "gloss_en": "supremacy, predominance, being superior to"
+  },
+  {
+    "word": "充実",
+    "kana": "じゅうじつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "充实，丰富",
+    "gloss_en": "fullness, perfection"
+  },
+  {
+    "word": "先着",
+    "kana": "せんちゃく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "先到，先抵达",
+    "gloss_en": "first arrival"
+  },
+  {
+    "word": "先行",
+    "kana": "せんこう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "先行，领先；优先实行",
+    "gloss_en": "preceding, going first"
   },
   {
     "word": "免れる",
@@ -562,6 +1531,138 @@
     ],
     "gloss_cn": "避免，摆脱",
     "gloss_en": "to escape from, to be exempted"
+  },
+  {
+    "word": "免除",
+    "kana": "めんじょ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "免除",
+    "gloss_en": "exemption, exoneration, discharge"
+  },
+  {
+    "word": "全快",
+    "kana": "ぜんかい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "痊愈",
+    "gloss_en": "complete recovery of health"
+  },
+  {
+    "word": "全滅",
+    "kana": "ぜんめつ",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "全歼，全军覆没",
+    "gloss_en": "annihilation"
+  },
+  {
+    "word": "公認",
+    "kana": "こうにん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "公认，正式承认",
+    "gloss_en": "official recognition, authorization"
+  },
+  {
+    "word": "共存",
+    "kana": "きょうそん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "共存，共处",
+    "gloss_en": "coexistence"
+  },
+  {
+    "word": "共感",
+    "kana": "きょうかん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "同感，共鸣",
+    "gloss_en": "sympathy, response"
+  },
+  {
+    "word": "共鳴",
+    "kana": "きょうめい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "共鸣，同感",
+    "gloss_en": "resonance, sympathy"
+  },
+  {
+    "word": "兼業",
+    "kana": "けんぎょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "副业，兼营",
+    "gloss_en": "holding two jobs at the same time"
+  },
+  {
+    "word": "再会",
+    "kana": "さいかい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "再会，重逢",
+    "gloss_en": "meeting again, reunion"
+  },
+  {
+    "word": "再建",
+    "kana": "さいけん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "重建",
+    "gloss_en": "(temple or shrine) rebuilding"
+  },
+  {
+    "word": "再現",
+    "kana": "さいげん",
+    "pitch": 3,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "再现，重新出现",
+    "gloss_en": "reproduction, return, revival"
   },
   {
     "word": "冴える",
@@ -624,6 +1725,30 @@
     "gloss_en": "to stiffen, to harden"
   },
   {
+    "word": "処置",
+    "kana": "しょち",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "处理，处置；治疗",
+    "gloss_en": "treatment"
+  },
+  {
+    "word": "処罰",
+    "kana": "しょばつ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "处罚，处分",
+    "gloss_en": "punishment"
+  },
+  {
     "word": "出くわす",
     "kana": "でくわす",
     "pitch": 0,
@@ -636,6 +1761,211 @@
     "gloss_en": "to happen to meet, to come across"
   },
   {
+    "word": "出動",
+    "kana": "しゅつどう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "出动",
+    "gloss_en": "mobilization, action"
+  },
+  {
+    "word": "出品",
+    "kana": "しゅっぴん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "展出，展销",
+    "gloss_en": "exhibit, display"
+  },
+  {
+    "word": "出演",
+    "kana": "しゅつえん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "演出，登台表演",
+    "gloss_en": "leading performer, stage appearance"
+  },
+  {
+    "word": "出現",
+    "kana": "しゅつげん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "出现",
+    "gloss_en": "appearance, arrival"
+  },
+  {
+    "word": "出直し",
+    "kana": "でなおし",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "重新开始",
+    "gloss_en": "adjustment, touch up"
+  },
+  {
+    "word": "出血",
+    "kana": "しゅっけつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "出血；亏本",
+    "gloss_en": "bleeding"
+  },
+  {
+    "word": "出費",
+    "kana": "しゅっぴ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "花费，开销",
+    "gloss_en": "expenses, disbursements"
+  },
+  {
+    "word": "出題",
+    "kana": "しゅつだい",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（考试、诗歌等）出题",
+    "gloss_en": "proposing a question"
+  },
+  {
+    "word": "分担",
+    "kana": "ぶんたん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "分担",
+    "gloss_en": "apportionment, sharing"
+  },
+  {
+    "word": "分散",
+    "kana": "ぶんさん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "分散，散开",
+    "gloss_en": "dispersion, decentralization, variance (statistics)"
+  },
+  {
+    "word": "分裂",
+    "kana": "ぶんれつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "分裂，裂开",
+    "gloss_en": "split, division, break up"
+  },
+  {
+    "word": "分配",
+    "kana": "ぶんぱい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "分配，分发",
+    "gloss_en": "division, sharing"
+  },
+  {
+    "word": "切開",
+    "kana": "せっかい",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（医学用语）切开，开刀",
+    "gloss_en": "opening up, cutting through"
+  },
+  {
+    "word": "刊行",
+    "kana": "かんこう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "出版；发行",
+    "gloss_en": "publication, issue"
+  },
+  {
+    "word": "判定",
+    "kana": "はんてい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "判定，判断",
+    "gloss_en": "judgment, decision, award, verdict"
+  },
+  {
+    "word": "判決",
+    "kana": "はんけつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "判决",
+    "gloss_en": "judicial decision, judgment, sentence, decree"
+  },
+  {
+    "word": "到達",
+    "kana": "とうたつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "到达，达到",
+    "gloss_en": "reaching, attaining, arrival"
+  },
+  {
     "word": "制する",
     "kana": "せいする",
     "pitch": 3,
@@ -646,6 +1976,54 @@
     ],
     "gloss_cn": "压制，控制；制定（法律）；限制（饮食）",
     "gloss_en": "to control, to command"
+  },
+  {
+    "word": "制約",
+    "kana": "せいやく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "制约，限制",
+    "gloss_en": "limitation, constraints"
+  },
+  {
+    "word": "制裁",
+    "kana": "せいさい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "制裁",
+    "gloss_en": "restraint, sanctions, punishment"
+  },
+  {
+    "word": "刺繍",
+    "kana": "ししゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "刺绣",
+    "gloss_en": "embroidery"
+  },
+  {
+    "word": "前置き",
+    "kana": "まえおき",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "开场白，引子",
+    "gloss_en": "preface, introduction"
   },
   {
     "word": "剥ぐ",
@@ -672,10 +2050,84 @@
     "gloss_en": "to come off, to be worn off, to fade, to discolor"
   },
   {
+    "word": "創刊",
+    "kana": "そうかん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "创刊",
+    "gloss_en": "launching (e.g., newspaper, first issue)"
+  },
+  {
+    "word": "創立",
+    "kana": "そうりつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "创立，创办",
+    "gloss_en": "establishment, founding"
+  },
+  {
+    "word": "創造",
+    "kana": "そうぞう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "创造",
+    "gloss_en": "creation"
+  },
+  {
+    "word": "加入",
+    "kana": "かにゅう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "加入，参加",
+    "gloss_en": "becoming a member, admission"
+  },
+  {
+    "word": "加味",
+    "kana": "かみ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "调味，加佐料；加入，掺入",
+    "gloss_en": "seasoning, flavoring"
+  },
+  {
+    "word": "助言",
+    "kana": "じょげん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "从旁教导，建议，出主意",
+    "gloss_en": "advice, suggestion"
+  },
+  {
     "word": "励ます",
     "kana": "はげます",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
@@ -696,6 +2148,43 @@
     "gloss_en": "to be zealous, to make an effort"
   },
   {
+    "word": "動員",
+    "kana": "どういん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动员；调动（积极性）",
+    "gloss_en": "mobilization"
+  },
+  {
+    "word": "動揺",
+    "kana": "どうよう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "颠簸，摆动；动摇，不安",
+    "gloss_en": "disturbance, flutter shock"
+  },
+  {
+    "word": "勘弁",
+    "kana": "かんべん",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "原谅，饶恕",
+    "gloss_en": "pardon, forgiveness, forbearance"
+  },
+  {
     "word": "勝る",
     "kana": "まさる",
     "pitch": 2,
@@ -711,13 +2200,49 @@
     "word": "募る",
     "kana": "つのる",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "动1 募集，征募，招募",
     "gloss_en": "to invite, to solicit help, participation, etc"
+  },
+  {
+    "word": "勤務",
+    "kana": "きんむ",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "工作，上班",
+    "gloss_en": "service, duty, work"
+  },
+  {
+    "word": "勧告",
+    "kana": "かんこく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "劝告",
+    "gloss_en": "advice, counsel"
+  },
+  {
+    "word": "勧誘",
+    "kana": "かんゆう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "劝诱，劝说",
+    "gloss_en": "invitation, canvassing, inducement"
   },
   {
     "word": "化ける",
@@ -730,6 +2255,80 @@
     ],
     "gloss_cn": "化为；乔装；完全变样",
     "gloss_en": "to disguise, to take the form of"
+  },
+  {
+    "word": "匹敵",
+    "kana": "ひってき",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "匹敌，比得上",
+    "gloss_en": "comparing with, rival, equal"
+  },
+  {
+    "word": "区画",
+    "kana": "くかく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "区划，划分",
+    "gloss_en": "division, section, area"
+  },
+  {
+    "word": "協定",
+    "kana": "きょうてい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "协定",
+    "gloss_en": "arrangement, pact, agreement"
+  },
+  {
+    "word": "協調",
+    "kana": "きょうちょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "协调，合作",
+    "gloss_en": "co-operation, conciliation, harmony"
+  },
+  {
+    "word": "協議",
+    "kana": "きょうぎ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "协议，协商，磋商",
+    "gloss_en": "conference, discussion, negotiation"
+  },
+  {
+    "word": "占領",
+    "kana": "せんりょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "占领；占据",
+    "gloss_en": "occupation, possession, have a room to oneself"
   },
   {
     "word": "危ぶむ",
@@ -756,10 +2355,34 @@
     "gloss_en": "to conform to, to agree with, to be adapted to,"
   },
   {
+    "word": "参上",
+    "kana": "さんじょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "拜访，造访",
+    "gloss_en": "calling on, visiting"
+  },
+  {
+    "word": "参照",
+    "kana": "さんしょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "参照，参阅",
+    "gloss_en": "reference, consultation, consultation"
+  },
+  {
     "word": "及ぶ",
     "kana": "およぶ",
     "pitch": 0,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
@@ -771,13 +2394,61 @@
     "word": "反する",
     "kana": "はんする",
     "pitch": null,
-    "pos": "サ変動詞",
+    "pos": null,
     "conj_type": "sahen",
     "level": [
       1
     ],
     "gloss_cn": "动3 相反；违反",
     "gloss_en": "to be inconsistent with, to oppose, to contradict"
+  },
+  {
+    "word": "反射",
+    "kana": "はんしゃ",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（光、生理上的）反射",
+    "gloss_en": "reflection, reverberation"
+  },
+  {
+    "word": "反応",
+    "kana": "はんのう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "反应；反响",
+    "gloss_en": "reaction, response"
+  },
+  {
+    "word": "反撃",
+    "kana": "はんげき",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "反击，还击",
+    "gloss_en": "counterattack, counteroffensive, counterblow"
+  },
+  {
+    "word": "反発",
+    "kana": "はんぱつ",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "排斥；反感，抗拒；（行情）回升",
+    "gloss_en": "repelling, rebound, oppose"
   },
   {
     "word": "収まる",
@@ -790,6 +2461,30 @@
     ],
     "gloss_cn": "收纳，容纳；恢复",
     "gloss_en": "to settle into; to be obtained"
+  },
+  {
+    "word": "収容",
+    "kana": "しゅうよう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "收容，容纳",
+    "gloss_en": "accommodation; seating; custody"
+  },
+  {
+    "word": "収集",
+    "kana": "しゅうしゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "收集，搜集",
+    "gloss_en": "gathering up, collection"
   },
   {
     "word": "取り付ける",
@@ -891,7 +2586,7 @@
     "word": "取り組む",
     "kana": "とりくむ",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
@@ -927,7 +2622,7 @@
     "word": "取り除く",
     "kana": "とりのぞく",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
@@ -936,10 +2631,22 @@
     "gloss_en": "to remove, to take away, to set apart"
   },
   {
+    "word": "取引",
+    "kana": "とりひき",
+    "pitch": 2,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "交易，贸易",
+    "gloss_en": "transactions, dealings, business"
+  },
+  {
     "word": "受かる",
     "kana": "うかる",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
@@ -963,7 +2670,7 @@
     "word": "受け入れる",
     "kana": "うけいれる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -996,6 +2703,18 @@
     "gloss_en": "to inherit, to succeed"
   },
   {
+    "word": "口述",
+    "kana": "こうじゅつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "口述",
+    "gloss_en": "verbal statement"
+  },
+  {
     "word": "叶う",
     "kana": "かなう",
     "pitch": 2,
@@ -1020,6 +2739,126 @@
     "gloss_en": "to join together, to face, to unite"
   },
   {
+    "word": "合唱",
+    "kana": "がっしょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "合唱",
+    "gloss_en": "chorus, singing in a chorus"
+  },
+  {
+    "word": "合意",
+    "kana": "ごうい",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "同意，达成协议",
+    "gloss_en": "agreement, consent, mutual understanding"
+  },
+  {
+    "word": "合致",
+    "kana": "がっち",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "一致，吻合",
+    "gloss_en": "agreement, concurrence, conforming to"
+  },
+  {
+    "word": "同封",
+    "kana": "どうふう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "附在信内，和信一起",
+    "gloss_en": "enclosure (e.g., in a letter)"
+  },
+  {
+    "word": "同居",
+    "kana": "どうきょ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "共同居住",
+    "gloss_en": "living together"
+  },
+  {
+    "word": "同情",
+    "kana": "どうじょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "同情",
+    "gloss_en": "sympathy, compassion, sympathize"
+  },
+  {
+    "word": "同意",
+    "kana": "どうい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "同意，赞成",
+    "gloss_en": "agreement, consent; same meaning"
+  },
+  {
+    "word": "同感",
+    "kana": "どうかん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "同感；同意，赞同",
+    "gloss_en": "agreement, same opinion, same feeling"
+  },
+  {
+    "word": "同盟",
+    "kana": "どうめい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "同盟，结盟",
+    "gloss_en": "alliance, union, league"
+  },
+  {
+    "word": "同調",
+    "kana": "どうちょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "赞同，步调一致",
+    "gloss_en": "sympathy, agree with, alignment"
+  },
+  {
     "word": "名付ける",
     "kana": "なづける",
     "pitch": 3,
@@ -1030,6 +2869,42 @@
     ],
     "gloss_cn": "命名，起名",
     "gloss_en": "to name"
+  },
+  {
+    "word": "吟味",
+    "kana": "ぎんみ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "斟酌，考虑，考量",
+    "gloss_en": "examination, careful investigation"
+  },
+  {
+    "word": "否決",
+    "kana": "ひけつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "否决",
+    "gloss_en": "rejection, negation, voting down"
+  },
+  {
+    "word": "吹奏",
+    "kana": "すいそう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "吹奏",
+    "gloss_en": "playing wind instruments"
   },
   {
     "word": "告げる",
@@ -1044,6 +2919,18 @@
     "gloss_en": "to inform"
   },
   {
+    "word": "告白",
+    "kana": "こくはく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "表白；坦白",
+    "gloss_en": "confession, acknowledgment"
+  },
+  {
     "word": "呼び止める",
     "kana": "よびとめる",
     "pitch": 4,
@@ -1056,10 +2943,22 @@
     "gloss_en": "to flag down"
   },
   {
+    "word": "命中",
+    "kana": "めいちゅう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "命中（目标）",
+    "gloss_en": "a hit"
+  },
+  {
     "word": "和らげる",
     "kana": "やわらげる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -1083,7 +2982,7 @@
     "word": "問い合わせる",
     "kana": "といあわせる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -1095,7 +2994,7 @@
     "word": "問う",
     "kana": "とう",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1,
@@ -1145,12 +3044,48 @@
     "kana": "かみきる",
     "pitch": 3,
     "pos": "他动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "咬断，咬破",
     "gloss_en": "to bite off, to gnaw through"
+  },
+  {
+    "word": "回収",
+    "kana": "かいしゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "回收，收回",
+    "gloss_en": "collection, recovery"
+  },
+  {
+    "word": "回覧",
+    "kana": "かいらん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "传阅，传看",
+    "gloss_en": "circulation"
+  },
+  {
+    "word": "回送",
+    "kana": "かいそう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "转寄（信件）；调回，开回（空车等）；运送",
+    "gloss_en": "forwarding"
   },
   {
     "word": "図る",
@@ -1178,6 +3113,54 @@
     "gloss_en": "to harden, to freeze, to fortify"
   },
   {
+    "word": "固定",
+    "kana": "こてい",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "固定",
+    "gloss_en": "fixation, fixing (e.g., salary, capital)"
+  },
+  {
+    "word": "圧倒",
+    "kana": "あっとう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "压倒；胜过",
+    "gloss_en": "overwhelm, overpower"
+  },
+  {
+    "word": "圧迫",
+    "kana": "あっぱく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "压迫，压制",
+    "gloss_en": "pressure, coercion, oppression"
+  },
+  {
+    "word": "均衡",
+    "kana": "きんこう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "均衡，平衡",
+    "gloss_en": "equilibrium, balance"
+  },
+  {
     "word": "垂れる",
     "kana": "たれる",
     "pitch": 2,
@@ -1193,7 +3176,7 @@
     "word": "埋まる",
     "kana": "うまる",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1,
@@ -1215,6 +3198,30 @@
     "gloss_en": "to embed, implant"
   },
   {
+    "word": "埋蔵",
+    "kana": "まいぞう",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "埋藏，蕴藏（资源）",
+    "gloss_en": "buried property, treasure trove"
+  },
+  {
+    "word": "執着",
+    "kana": "しゅうじゃく/しゅうちゃく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "执着，不肯舍弃，贪恋",
+    "gloss_en": "attachment, adhesion, tenacity"
+  },
+  {
     "word": "報じる",
     "kana": "ほうじる",
     "pitch": 0,
@@ -1225,6 +3232,67 @@
     ],
     "gloss_cn": "报答；报告，通知",
     "gloss_en": "to inform, to report"
+  },
+  {
+    "word": "報道",
+    "kana": "ほうどう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "报道",
+    "gloss_en": "coverage, report"
+  },
+  {
+    "word": "増強",
+    "kana": "ぞうきょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "增强，加强",
+    "gloss_en": "reinforce, increase"
+  },
+  {
+    "word": "増進",
+    "kana": "ぞうしん",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "增进，增加",
+    "gloss_en": "promoting, increase, advance"
+  },
+  {
+    "word": "墜落",
+    "kana": "ついらく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "坠落，掉下",
+    "gloss_en": "falling, crashing"
+  },
+  {
+    "word": "声明",
+    "kana": "せいめい",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "声明",
+    "gloss_en": "declaration, statement, proclamation"
   },
   {
     "word": "売り出す",
@@ -1239,6 +3307,66 @@
     "gloss_en": "to put on sale, to market"
   },
   {
+    "word": "変動",
+    "kana": "へんどう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "变动，变化",
+    "gloss_en": "change, fluctuation"
+  },
+  {
+    "word": "変遷",
+    "kana": "へんせん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "变迁",
+    "gloss_en": "change, transition, vicissitudes"
+  },
+  {
+    "word": "失格",
+    "kana": "しっかく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "失去资格",
+    "gloss_en": "disqualification, elimination, incapacity (legal)"
+  },
+  {
+    "word": "失脚",
+    "kana": "しっきゃく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "下台；垮台",
+    "gloss_en": "losing one's standing, being overthrown, falling"
+  },
+  {
+    "word": "失調",
+    "kana": "しっちょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "失调，不平衡",
+    "gloss_en": "lack of harmony, imbalance"
+  },
+  {
     "word": "奉る",
     "kana": "たてまつる",
     "pitch": 4,
@@ -1251,6 +3379,90 @@
     "gloss_en": "to offer, to do respectfully"
   },
   {
+    "word": "奉仕",
+    "kana": "ほうし",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（义务）服务，效劳；廉价销售商品",
+    "gloss_en": "attendance, service"
+  },
+  {
+    "word": "奨励",
+    "kana": "しょうれい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "奖励，鼓励",
+    "gloss_en": "encouragement, promotion"
+  },
+  {
+    "word": "奮闘",
+    "kana": "ふんとう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "奋斗；奋战",
+    "gloss_en": "hard struggle, strenuous effort"
+  },
+  {
+    "word": "妊娠",
+    "kana": "にんしん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "怀孕",
+    "gloss_en": "conception, pregnancy"
+  },
+  {
+    "word": "妥協",
+    "kana": "だきょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "妥协，和解",
+    "gloss_en": "compromise, giving in"
+  },
+  {
+    "word": "妥結",
+    "kana": "だけつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "谈妥，达成协议",
+    "gloss_en": "agreement"
+  },
+  {
+    "word": "妨害",
+    "kana": "ぼうがい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "妨碍，干扰",
+    "gloss_en": "disturbance, obstruction, interference"
+  },
+  {
     "word": "妬む",
     "kana": "ねたむ",
     "pitch": 2,
@@ -1261,6 +3473,54 @@
     ],
     "gloss_cn": "嫉妒，眼红；嫉恨",
     "gloss_en": "to be jealous, to be envious"
+  },
+  {
+    "word": "始末",
+    "kana": "しまつ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "事情的原委；情形，情况；处理，应付；节约",
+    "gloss_en": "disposal; cleaning up afterwards"
+  },
+  {
+    "word": "委託",
+    "kana": "いたく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "委托，托付",
+    "gloss_en": "consign (goods (for sale) to a firm), entrust"
+  },
+  {
+    "word": "嫉妬",
+    "kana": "しっと",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "嫉妒",
+    "gloss_en": "jealousy"
+  },
+  {
+    "word": "宙返り",
+    "kana": "ちゅうがえり",
+    "pitch": 3,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "翻跟头",
+    "gloss_en": "somersault, looping-the-loop"
   },
   {
     "word": "定まる",
@@ -1287,6 +3547,18 @@
     "gloss_en": "to decide, to determine"
   },
   {
+    "word": "定義",
+    "kana": "ていぎ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "定义，下定义",
+    "gloss_en": "definition"
+  },
+  {
     "word": "宛てる",
     "kana": "あてる",
     "pitch": 0,
@@ -1298,6 +3570,18 @@
     ],
     "gloss_cn": "寄给，发给",
     "gloss_en": "to address, to put"
+  },
+  {
+    "word": "実践",
+    "kana": "じっせん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "实践",
+    "gloss_en": "practice, put into practice"
   },
   {
     "word": "害する",
@@ -1312,6 +3596,18 @@
     "gloss_en": "to harm, to offend"
   },
   {
+    "word": "家出",
+    "kana": "いえで",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "离家出走",
+    "gloss_en": "running away from home"
+  },
+  {
     "word": "寄り掛かる",
     "kana": "よりかかる",
     "pitch": 4,
@@ -1324,6 +3620,54 @@
     "gloss_en": "to lean against, to recline on, to lean on, to rely on"
   },
   {
+    "word": "寄与",
+    "kana": "きよ",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "贡献，有助于",
+    "gloss_en": "contribution, service"
+  },
+  {
+    "word": "寄贈",
+    "kana": "きぞう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "赠送，捐赠",
+    "gloss_en": "donation, presentation"
+  },
+  {
+    "word": "密接",
+    "kana": "みっせつ",
+    "pitch": 0,
+    "pos": "名·ナ形·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "密切；紧挨",
+    "gloss_en": "connected, close, intimate"
+  },
+  {
+    "word": "密集",
+    "kana": "みっしゅう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "密集，稠密",
+    "gloss_en": "crowd, close formation, dense"
+  },
+  {
     "word": "富む",
     "kana": "とむ",
     "pitch": 1,
@@ -1334,6 +3678,138 @@
     ],
     "gloss_cn": "（金钱）富有；丰富",
     "gloss_en": "to be rich, to become rich"
+  },
+  {
+    "word": "察する",
+    "kana": "さっする",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "推测，揣测；体谅",
+    "gloss_en": "to guess, to sense, to judge"
+  },
+  {
+    "word": "審議",
+    "kana": "しんぎ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "审议",
+    "gloss_en": "deliberation"
+  },
+  {
+    "word": "対処",
+    "kana": "たいしょ",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "对待，处理，应对",
+    "gloss_en": "deal with, cope"
+  },
+  {
+    "word": "対抗",
+    "kana": "たいこう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "对抗，抗衡",
+    "gloss_en": "opposition, antagonism"
+  },
+  {
+    "word": "対比",
+    "kana": "たいひ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "对比，对照",
+    "gloss_en": "contrast, comparison"
+  },
+  {
+    "word": "対決",
+    "kana": "たいけつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "对证，对质；对决，交锋",
+    "gloss_en": "confrontation, showdown"
+  },
+  {
+    "word": "対話",
+    "kana": "たいわ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "对话",
+    "gloss_en": "conversation, dialogue"
+  },
+  {
+    "word": "対談",
+    "kana": "たいだん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "对谈，会谈",
+    "gloss_en": "talk, dialogue"
+  },
+  {
+    "word": "対面",
+    "kana": "たいめん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "会面，见面",
+    "gloss_en": "interview, meeting"
+  },
+  {
+    "word": "封鎖",
+    "kana": "ふうさ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "封锁；冻结",
+    "gloss_en": "blockade, freezing (funds)"
+  },
+  {
+    "word": "専修",
+    "kana": "せんしゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "专修，专攻",
+    "gloss_en": "specialization"
   },
   {
     "word": "尊ぶ",
@@ -1360,6 +3836,30 @@
     "gloss_en": "to be guided, to be shown"
   },
   {
+    "word": "導入",
+    "kana": "どうにゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "引入，导入，引进（外资）",
+    "gloss_en": "introduction, bringing in, leading in"
+  },
+  {
+    "word": "小売",
+    "kana": "こうり",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "零售",
+    "gloss_en": "retail"
+  },
+  {
     "word": "尽きる",
     "kana": "つきる",
     "pitch": 2,
@@ -1384,6 +3884,66 @@
     "gloss_en": "to exhaust, to run out; to devote, to serve"
   },
   {
+    "word": "屈折",
+    "kana": "くっせつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "弯曲，曲折；歪曲，不正常",
+    "gloss_en": "bending, indentation, refraction"
+  },
+  {
+    "word": "展望",
+    "kana": "てんぼう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "眺望，展望",
+    "gloss_en": "view, outlook, prospect"
+  },
+  {
+    "word": "展示",
+    "kana": "てんじ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "展示，展览",
+    "gloss_en": "exhibition, display"
+  },
+  {
+    "word": "崩壊",
+    "kana": "ほうかい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "崩溃，垮台",
+    "gloss_en": "collapse, decay (physics), crumbling"
+  },
+  {
+    "word": "工作",
+    "kana": "こうさく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "制作；修理；活动，工作",
+    "gloss_en": "handicraft, maneuvering"
+  },
+  {
     "word": "差し出す",
     "kana": "さしだす",
     "pitch": 3,
@@ -1394,6 +3954,19 @@
     ],
     "gloss_cn": "提交；寄出；伸出",
     "gloss_en": "to present, to submit, to hold out"
+  },
+  {
+    "word": "差し引き",
+    "kana": "さしひき",
+    "pitch": 2,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      2
+    ],
+    "gloss_cn": "扣除，减去；相抵",
+    "gloss_en": "deduction, balance"
   },
   {
     "word": "差し掛かる",
@@ -1420,6 +3993,18 @@
     "gloss_en": "to interfere, to hinder"
   },
   {
+    "word": "布告",
+    "kana": "ふこく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "公告，宣布",
+    "gloss_en": "edict, ordinance, proclamation"
+  },
+  {
     "word": "帯びる",
     "kana": "おびる",
     "pitch": 2,
@@ -1432,10 +4017,34 @@
     "gloss_en": "to bear, to carry, to be entrusted"
   },
   {
+    "word": "帰京",
+    "kana": "ききょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "回（东）京，回首都",
+    "gloss_en": "returning to Tokyo"
+  },
+  {
+    "word": "干渉",
+    "kana": "かんしょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "干涉",
+    "gloss_en": "interference, intervention"
+  },
+  {
     "word": "広まる",
     "kana": "ひろまる",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1,
@@ -1455,6 +4064,90 @@
     ],
     "gloss_cn": "保护，庇护，包庇",
     "gloss_en": "to protect someone, to&nbsp;&nbsp;cover up for someone"
+  },
+  {
+    "word": "度忘れ",
+    "kana": "どわすれ",
+    "pitch": 2,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "突然忘记，一时想不起来",
+    "gloss_en": "lapse of memory, forget for a moment"
+  },
+  {
+    "word": "廃棄",
+    "kana": "はいき",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "废弃，废除（合同）",
+    "gloss_en": "disposal, abandon, discarding"
+  },
+  {
+    "word": "廃止",
+    "kana": "はいし",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "废止，废除，作废",
+    "gloss_en": "abolition, repeal"
+  },
+  {
+    "word": "弁償",
+    "kana": "べんしょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "赔偿",
+    "gloss_en": "compensation, reparation, reimbursement"
+  },
+  {
+    "word": "弁解",
+    "kana": "べんかい",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "辩解，分辩",
+    "gloss_en": "explanation, justification, excuse"
+  },
+  {
+    "word": "弁論",
+    "kana": "べんろん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "辩论，争辩",
+    "gloss_en": "discussion, debate, argument"
+  },
+  {
+    "word": "弁護",
+    "kana": "べんご",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "辩护，辩解",
+    "gloss_en": "defense, pleading, advocacy"
   },
   {
     "word": "引きずる",
@@ -1520,7 +4213,7 @@
     "word": "弱まる",
     "kana": "よわまる",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1,
@@ -1533,7 +4226,7 @@
     "word": "弱める",
     "kana": "よわめる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1,
@@ -1558,7 +4251,7 @@
     "word": "強まる",
     "kana": "つよまる",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1,
@@ -1571,7 +4264,7 @@
     "word": "強める",
     "kana": "つよめる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1,
@@ -1579,6 +4272,30 @@
     ],
     "gloss_cn": "动2 加强，增强",
     "gloss_en": "to strengthen, to emphasize"
+  },
+  {
+    "word": "強制",
+    "kana": "きょうせい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "强制，强迫",
+    "gloss_en": "obligation, compulsion, enforcement"
+  },
+  {
+    "word": "強行",
+    "kana": "きょうこう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "强行，硬干",
+    "gloss_en": "forcing, enforcement"
   },
   {
     "word": "弾む",
@@ -1593,6 +4310,42 @@
     "gloss_en": "to bounce, to be encouraged, to splurge on"
   },
   {
+    "word": "当選",
+    "kana": "とうせん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "当选，中选",
+    "gloss_en": "being elected, winning the prize"
+  },
+  {
+    "word": "形成",
+    "kana": "けいせい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "形成",
+    "gloss_en": "formation"
+  },
+  {
+    "word": "往診",
+    "kana": "おうしん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "出诊",
+    "gloss_en": "doctor's visit, house call"
+  },
+  {
     "word": "待ち望む",
     "kana": "まちのぞむ",
     "pitch": 4,
@@ -1603,6 +4356,90 @@
     ],
     "gloss_cn": "盼望，殷切希望",
     "gloss_en": "to look anxiously for, to wait eagerly for"
+  },
+  {
+    "word": "待望",
+    "kana": "たいぼう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "期望，期待",
+    "gloss_en": "long-expected, waiting"
+  },
+  {
+    "word": "待遇",
+    "kana": "たいぐう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "待遇，报酬；接待，对待",
+    "gloss_en": "treatment, reception"
+  },
+  {
+    "word": "徐行",
+    "kana": "じょこう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "慢行",
+    "gloss_en": "going slowly"
+  },
+  {
+    "word": "従事",
+    "kana": "じゅうじ",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "从事",
+    "gloss_en": "engaging, pursuing, following"
+  },
+  {
+    "word": "復活",
+    "kana": "ふっかつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "复活，复苏",
+    "gloss_en": "revival (e.g., musical), restoration"
+  },
+  {
+    "word": "微笑",
+    "kana": "びしょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "微笑",
+    "gloss_en": "smile"
+  },
+  {
+    "word": "徴収",
+    "kana": "ちょうしゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "征收（钱）",
+    "gloss_en": "collection, levy"
   },
   {
     "word": "徹する",
@@ -1641,6 +4478,55 @@
     "gloss_en": "to plan, to intend, to aspire to"
   },
   {
+    "word": "志向",
+    "kana": "しこう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "志向，意向",
+    "gloss_en": "intention, aim"
+  },
+  {
+    "word": "志望",
+    "kana": "しぼう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "志愿，期望",
+    "gloss_en": "wish, desire, ambition"
+  },
+  {
+    "word": "忠告",
+    "kana": "ちゅうこく",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "忠告，劝告",
+    "gloss_en": "advice, warning"
+  },
+  {
+    "word": "念願",
+    "kana": "ねんがん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "愿望，心愿",
+    "gloss_en": "one's heart's desire, earnest petition"
+  },
+  {
     "word": "急かす",
     "kana": "せかす",
     "pitch": 2,
@@ -1665,11 +4551,23 @@
     "gloss_en": "to become frightened"
   },
   {
+    "word": "恋愛",
+    "kana": "れんあい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "恋爱",
+    "gloss_en": "love, romance"
+  },
+  {
     "word": "恐れ入る",
     "kana": "おそれいる",
     "pitch": 2,
     "pos": "自动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       1
     ],
@@ -1725,16 +4623,16 @@
     "gloss_en": "to bother, to harass, to molest"
   },
   {
-    "word": "悪しからず",
-    "kana": "あしからず",
-    "pitch": 3,
-    "pos": "副",
-    "conj_type": "godan",
+    "word": "悲観",
+    "kana": "ひかん",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
     "level": [
       1
     ],
-    "gloss_cn": "不要见怪，原谅",
-    "gloss_en": "don't take me wrong, but..., I'm sorry"
+    "gloss_cn": "悲观，失望",
+    "gloss_en": "pessimism, disappointment"
   },
   {
     "word": "惜しむ",
@@ -1749,6 +4647,18 @@
     "gloss_en": "to be frugal, to value, to regret"
   },
   {
+    "word": "意図",
+    "kana": "いと",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "意图，打算，企图",
+    "gloss_en": "intention, aim, design"
+  },
+  {
     "word": "意気込む",
     "kana": "いきごむ",
     "pitch": 3,
@@ -1759,6 +4669,18 @@
     ],
     "gloss_cn": "振奋，鼓起干劲儿",
     "gloss_en": "to be enthusiastic about"
+  },
+  {
+    "word": "感染",
+    "kana": "かんせん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "感染，传染；沾染",
+    "gloss_en": "infection, contagion"
   },
   {
     "word": "慕う",
@@ -1786,6 +4708,18 @@
     "gloss_en": "to accustom"
   },
   {
+    "word": "憤慨",
+    "kana": "ふんがい",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "愤慨，气愤",
+    "gloss_en": "indignation, resentment"
+  },
+  {
     "word": "懐く",
     "kana": "なつく",
     "pitch": 2,
@@ -1810,11 +4744,119 @@
     "gloss_en": "to learn by experience, to be disgusted with"
   },
   {
+    "word": "成り立つ",
+    "kana": "なりたつ",
+    "pitch": null,
+    "pos": null,
+    "conj_type": "godan",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动1 成立",
+    "gloss_en": "to consist of; to be practical (logical, feasible, viable), to be concluded, to hold true"
+  },
+  {
+    "word": "成熟",
+    "kana": "せいじゅく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "成熟",
+    "gloss_en": "maturity, ripeness"
+  },
+  {
+    "word": "戦闘",
+    "kana": "せんとう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "战斗",
+    "gloss_en": "battle, fight, combat"
+  },
+  {
+    "word": "戸締り",
+    "kana": "とじまり",
+    "pitch": 2,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "锁门，锁紧门户",
+    "gloss_en": "closing up, locking the doors"
+  },
+  {
+    "word": "所在",
+    "kana": "しょざい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "住处，所在地；（职责）所在；工作",
+    "gloss_en": "whereabouts"
+  },
+  {
+    "word": "所持",
+    "kana": "しょじ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "所持，所有；携带",
+    "gloss_en": "possession, owning"
+  },
+  {
+    "word": "所有",
+    "kana": "しょゆう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "所有，拥有",
+    "gloss_en": "one's possessions, ownership"
+  },
+  {
+    "word": "手分け",
+    "kana": "てわけ",
+    "pitch": 3,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "分头做；分工",
+    "gloss_en": "division of labor"
+  },
+  {
+    "word": "手回し",
+    "kana": "てまわし",
+    "pitch": 2,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "准备，安排；用手摇",
+    "gloss_en": "preparations, arrangements"
+  },
+  {
     "word": "打ち切る",
     "kana": "うちきる",
     "pitch": 3,
     "pos": "他动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       1
     ],
@@ -1846,6 +4888,54 @@
     "gloss_en": "to devote oneself to, to shoot into"
   },
   {
+    "word": "打開",
+    "kana": "だかい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "开辟（途径），解决（问题）",
+    "gloss_en": "solution, breakthrough"
+  },
+  {
+    "word": "把握",
+    "kana": "はあく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "理解，掌握",
+    "gloss_en": "grasp, catch, understanding"
+  },
+  {
+    "word": "抑制",
+    "kana": "よくせい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "抑制，制止",
+    "gloss_en": "control, restraint, suppression"
+  },
+  {
+    "word": "抑圧",
+    "kana": "よくあつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "压制，压迫",
+    "gloss_en": "restraint, oppression, suppression"
+  },
+  {
     "word": "投げ出す",
     "kana": "なげだす",
     "pitch": 3,
@@ -1858,16 +4948,52 @@
     "gloss_en": "to abandon, to throw out"
   },
   {
+    "word": "投入",
+    "kana": "とうにゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "投进去；投入（资本）",
+    "gloss_en": "throw, investment, making (an electrical circuit)"
+  },
+  {
+    "word": "投資",
+    "kana": "とうし",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "投资",
+    "gloss_en": "investment"
+  },
+  {
     "word": "折り返す",
     "kana": "おりかえす",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "动1 折回，返回",
     "gloss_en": "to turn up, to fold back"
+  },
+  {
+    "word": "折衷",
+    "kana": "せっちゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "折中",
+    "gloss_en": "compromise, cross, blending, eclecticism"
   },
   {
     "word": "抜かす",
@@ -1894,11 +5020,23 @@
     "gloss_en": "to slip out, to sneak away, to excel"
   },
   {
+    "word": "抱っこ",
+    "kana": "だっこ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "抱（小孩）",
+    "gloss_en": "(child's) hug"
+  },
+  {
     "word": "押し切る",
     "kana": "おしきる",
     "pitch": 3,
     "pos": "他动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       1
     ],
@@ -1909,7 +5047,7 @@
     "word": "押し寄せる",
     "kana": "おしよせる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -1942,6 +5080,91 @@
     "gloss_en": "to carry on shoulder, to bear (burden), to shoulder (gun)"
   },
   {
+    "word": "拒否",
+    "kana": "きょひ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "拒绝，否决",
+    "gloss_en": "denial, rejection, refusal"
+  },
+  {
+    "word": "拒絶",
+    "kana": "きょぜつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "拒绝",
+    "gloss_en": "refusal, rejection"
+  },
+  {
+    "word": "拘束",
+    "kana": "こうそく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "拘束，束缚，限制",
+    "gloss_en": "restriction, restraint"
+  },
+  {
+    "word": "拝借",
+    "kana": "はいしゃく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（自谦语）借",
+    "gloss_en": "(humble) (polite) borrowing"
+  },
+  {
+    "word": "拡散",
+    "kana": "かくさん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "扩散",
+    "gloss_en": "scattering, diffusion"
+  },
+  {
+    "word": "持続",
+    "kana": "じぞく",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "持续，保持，维持",
+    "gloss_en": "continuation, endurance"
+  },
+  {
+    "word": "指図",
+    "kana": "さしず",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "指示，吩咐；指使，命令",
+    "gloss_en": "instruction, mandate"
+  },
+  {
     "word": "指差す",
     "kana": "ゆびさす",
     "pitch": 3,
@@ -1952,6 +5175,31 @@
     ],
     "gloss_cn": "用手指；受人指责",
     "gloss_en": "to point at"
+  },
+  {
+    "word": "指揮",
+    "kana": "しき",
+    "pitch": 2,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "指挥",
+    "gloss_en": "command, direction"
+  },
+  {
+    "word": "指摘",
+    "kana": "してき",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "指出；指摘",
+    "gloss_en": "pointing out, identification"
   },
   {
     "word": "挑む",
@@ -1970,12 +5218,49 @@
     "kana": "ふりかえる",
     "pitch": 3,
     "pos": "自动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "回头看；回顾（往事）",
     "gloss_en": "to turn head, to turn around, to look back"
+  },
+  {
+    "word": "振動",
+    "kana": "しんどう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "振动；摆动",
+    "gloss_en": "oscillation, vibration"
+  },
+  {
+    "word": "振興",
+    "kana": "しんこう",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "振兴",
+    "gloss_en": "promotion, encouragement"
+  },
+  {
+    "word": "捕獲",
+    "kana": "ほかく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "捕获",
+    "gloss_en": "capture, seizure"
   },
   {
     "word": "捗る",
@@ -1990,10 +5275,35 @@
     "gloss_en": "to make progress, to move right ahead (with the work), to advance"
   },
   {
+    "word": "捜査",
+    "kana": "そうさ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "搜查，查找",
+    "gloss_en": "search (esp. in criminal investigations, investigation)"
+  },
+  {
+    "word": "捜索",
+    "kana": "そうさく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "搜索，搜寻",
+    "gloss_en": "search (esp. for someone or something missing, investigation)"
+  },
+  {
     "word": "捧げる",
     "kana": "ささげる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -2063,16 +5373,136 @@
     "gloss_en": "to grant, to award, to teach"
   },
   {
+    "word": "排除",
+    "kana": "はいじょ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "排除，消除",
+    "gloss_en": "exclusion, removal, rejection"
+  },
+  {
+    "word": "採択",
+    "kana": "さいたく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "采纳，通过；选择，选定",
+    "gloss_en": "adoption, selection, choice"
+  },
+  {
+    "word": "採掘",
+    "kana": "さいくつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "开采，采矿",
+    "gloss_en": "mining"
+  },
+  {
+    "word": "採決",
+    "kana": "さいけつ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "表决",
+    "gloss_en": "vote, roll call"
+  },
+  {
+    "word": "採用",
+    "kana": "さいよう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "采用，采纳；录用",
+    "gloss_en": "use, adopt"
+  },
+  {
+    "word": "接触",
+    "kana": "せっしょく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "接触；来往，交往",
+    "gloss_en": "touch, contact"
+  },
+  {
     "word": "控える",
     "kana": "ひかえる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
     ],
     "gloss_cn": "动1 抑制，控制，节制",
     "gloss_en": "to hold back; to make notes"
+  },
+  {
+    "word": "控除",
+    "kana": "こうじょ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "扣除",
+    "gloss_en": "subsidy, deduction"
+  },
+  {
+    "word": "推測",
+    "kana": "すいそく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "推测，猜测",
+    "gloss_en": "guess, conjecture"
+  },
+  {
+    "word": "推理",
+    "kana": "すいり",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "推理，推断",
+    "gloss_en": "reasoning, inference, mystery or detective genre"
+  },
+  {
+    "word": "措置",
+    "kana": "そち",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "措施，处理",
+    "gloss_en": "measure, step"
   },
   {
     "word": "掲げる",
@@ -2097,6 +5527,54 @@
     ],
     "gloss_cn": "搅拌；乱翻，乱弄；搅乱",
     "gloss_en": "to stir up, to churn, to disturb"
+  },
+  {
+    "word": "描写",
+    "kana": "びょうしゃ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "描写，描绘",
+    "gloss_en": "depiction, description, portrayal"
+  },
+  {
+    "word": "提携",
+    "kana": "ていけい",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "合作，协作",
+    "gloss_en": "cooperation, tie-up, joint business"
+  },
+  {
+    "word": "提示",
+    "kana": "ていじ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "出示",
+    "gloss_en": "presentation, exhibit, suggest, citation"
+  },
+  {
+    "word": "換算",
+    "kana": "かんさん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "换算，折合",
+    "gloss_en": "conversion, change, exchange"
   },
   {
     "word": "揺さぶる",
@@ -2135,6 +5613,19 @@
     "gloss_en": "to engage, to involve"
   },
   {
+    "word": "携帯",
+    "kana": "けいたい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "携带，便携",
+    "gloss_en": "carrying something; mobile telephone"
+  },
+  {
     "word": "摘む",
     "kana": "つむ",
     "pitch": 0,
@@ -2158,6 +5649,19 @@
     ],
     "gloss_cn": "驾驶，操作；暗中控制，操纵；掌握",
     "gloss_en": "to manipulate, to operate, to pull strings"
+  },
+  {
+    "word": "操縦",
+    "kana": "そうじゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "驾驶（飞机）；操纵，控制（他人）",
+    "gloss_en": "management, control, manipulation"
   },
   {
     "word": "擦る",
@@ -2188,13 +5692,85 @@
     "word": "改まる",
     "kana": "あらたまる",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "动1 郑重其事，庄重",
     "gloss_en": "to be renewed; to be formal"
+  },
+  {
+    "word": "改修",
+    "kana": "かいしゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "修缮，整修，修复",
+    "gloss_en": "repair, improvement"
+  },
+  {
+    "word": "改定",
+    "kana": "かいてい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "修改，重新规定",
+    "gloss_en": "reform"
+  },
+  {
+    "word": "改悪",
+    "kana": "かいあく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "越改越坏，改坏",
+    "gloss_en": "deterioration, changing for the worse"
+  },
+  {
+    "word": "改良",
+    "kana": "かいりょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "改良",
+    "gloss_en": "improvement, reform"
+  },
+  {
+    "word": "改訂",
+    "kana": "かいてい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "修订",
+    "gloss_en": "revision"
+  },
+  {
+    "word": "改革",
+    "kana": "かいかく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "改革，革新",
+    "gloss_en": "reform, reformation, innovation"
   },
   {
     "word": "放り出す",
@@ -2212,7 +5788,7 @@
     "word": "放り込む",
     "kana": "ほうりこむ",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
@@ -2221,10 +5797,70 @@
     "gloss_en": "to throw into"
   },
   {
+    "word": "放射",
+    "kana": "ほうしゃ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "放射，辐射",
+    "gloss_en": "radiation, emission"
+  },
+  {
+    "word": "放置",
+    "kana": "ほうち",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "置之不理，搁置",
+    "gloss_en": "leave as is, leave alone, neglect"
+  },
+  {
+    "word": "救援",
+    "kana": "きゅうえん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "救援，支援",
+    "gloss_en": "relief, rescue, reinforcement"
+  },
+  {
+    "word": "救済",
+    "kana": "きゅうさい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "救济",
+    "gloss_en": "relief, aid, rescue"
+  },
+  {
+    "word": "敗北",
+    "kana": "はいぼく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "败北，打败仗",
+    "gloss_en": "defeat (as a verb it means 'to be defeated')"
+  },
+  {
     "word": "整える",
     "kana": "ととのえる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -2233,16 +5869,77 @@
     "gloss_en": "to put in order, to arrange, to adjust; to get ready, to prepare; to raise money"
   },
   {
+    "word": "斡旋",
+    "kana": "あっせん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "斡旋；帮助；介绍",
+    "gloss_en": "kind offices, mediation"
+  },
+  {
+    "word": "断つ",
+    "kana": "たつ",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "切，断；断绝，截断",
+    "gloss_en": "to sever, to cut off"
+  },
+  {
+    "word": "断言",
+    "kana": "だんげん",
+    "pitch": 3,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "断言，断定",
+    "gloss_en": "assertion, declaration, affirmation"
+  },
+  {
     "word": "施す",
     "kana": "ほどこす",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "动1 施加，施",
     "gloss_en": "to give, to conduct, to perform"
+  },
+  {
+    "word": "施行",
+    "kana": "しこう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "实施，实行",
+    "gloss_en": "enforcement, operation"
+  },
+  {
+    "word": "日焼け",
+    "kana": "ひやけ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（皮肤）晒黑；（土地）晒干",
+    "gloss_en": "sunburn"
   },
   {
     "word": "早める",
@@ -2282,6 +5979,78 @@
     "gloss_en": "to shine, to look attractive, to look pretty"
   },
   {
+    "word": "映写",
+    "kana": "えいしゃ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "放映",
+    "gloss_en": "projection"
+  },
+  {
+    "word": "是正",
+    "kana": "ぜせい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "订正，更正；改正；纠正",
+    "gloss_en": "correction, revision"
+  },
+  {
+    "word": "暗殺",
+    "kana": "あんさつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "暗杀，行刺",
+    "gloss_en": "assassination"
+  },
+  {
+    "word": "暗示",
+    "kana": "あんじ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "提示，暗示",
+    "gloss_en": "hint, suggestion"
+  },
+  {
+    "word": "暗算",
+    "kana": "あんざん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "心算，在头脑中计算",
+    "gloss_en": "mental arithmetic"
+  },
+  {
+    "word": "暴露",
+    "kana": "ばくろ",
+    "pitch": 1,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "暴露，揭露，泄露",
+    "gloss_en": "disclosure, exposure, revelation"
+  },
+  {
     "word": "書き取る",
     "kana": "かきとる",
     "pitch": 3,
@@ -2306,6 +6075,18 @@
     "gloss_en": "to own, to be endowed with"
   },
   {
+    "word": "朗読",
+    "kana": "ろうどく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "朗读，朗诵",
+    "gloss_en": "reading aloud, recitation"
+  },
+  {
     "word": "朽ちる",
     "kana": "くちる",
     "pitch": 2,
@@ -2321,7 +6102,7 @@
     "word": "束ねる",
     "kana": "たばねる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -2330,10 +6111,34 @@
     "gloss_en": "to tie up in a bundle, to control"
   },
   {
+    "word": "束縛",
+    "kana": "そくばく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "束缚，限制",
+    "gloss_en": "restraint, restriction, confinement"
+  },
+  {
+    "word": "来場",
+    "kana": "らいじょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "到场，出席",
+    "gloss_en": "attendance"
+  },
+  {
     "word": "果たす",
     "kana": "はたす",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
@@ -2393,13 +6198,49 @@
     "word": "栄える",
     "kana": "さかえる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
     ],
     "gloss_cn": "动2 昌盛繁荣，繁荣兴盛，兴旺",
     "gloss_en": "to flourish, to prosper, to thrive"
+  },
+  {
+    "word": "根回し",
+    "kana": "ねまわし",
+    "pitch": 2,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "事先疏通，做事前工作",
+    "gloss_en": "making necessary arrangements"
+  },
+  {
+    "word": "栽培",
+    "kana": "さいばい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "栽培，种植",
+    "gloss_en": "cultivation"
+  },
+  {
+    "word": "棄権",
+    "kana": "きけん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "弃权",
+    "gloss_en": "abstain from voting, renunciation of a right"
   },
   {
     "word": "植わる",
@@ -2414,6 +6255,30 @@
     "gloss_en": "to be planted"
   },
   {
+    "word": "楽観",
+    "kana": "らっかん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "乐观",
+    "gloss_en": "optimism"
+  },
+  {
+    "word": "概説",
+    "kana": "がいせつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "概说，概要",
+    "gloss_en": "general statement, outline"
+  },
+  {
     "word": "構える",
     "kana": "かまえる",
     "pitch": 3,
@@ -2424,6 +6289,42 @@
     ],
     "gloss_cn": "修建；自立门户；摆出姿势；准备好；假托",
     "gloss_en": "to set up"
+  },
+  {
+    "word": "構想",
+    "kana": "こうそう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "设想（方案、计划）；构思（作品）",
+    "gloss_en": "plan, plot, idea, conception"
+  },
+  {
+    "word": "模倣",
+    "kana": "もほう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "模仿，效仿",
+    "gloss_en": "imitation, copying"
+  },
+  {
+    "word": "樹立",
+    "kana": "じゅりつ",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "树立，建立",
+    "gloss_en": "establish, create"
   },
   {
     "word": "欠く",
@@ -2437,6 +6338,18 @@
     ],
     "gloss_cn": "缺乏，缺少；弄坏；缺欠，怠慢",
     "gloss_en": "to lack, to crack"
+  },
+  {
+    "word": "欠乏",
+    "kana": "けつぼう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "缺少，不足",
+    "gloss_en": "shortage"
   },
   {
     "word": "欺く",
@@ -2475,6 +6388,91 @@
     "gloss_en": "to warp, to be distorted"
   },
   {
+    "word": "気兼ね",
+    "kana": "きがね",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "顾虑，拘谨，客气",
+    "gloss_en": "hesitance, diffidence, feeling constraint"
+  },
+  {
+    "word": "氾濫",
+    "kana": "はんらん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "泛滥",
+    "gloss_en": "overflowing, flood"
+  },
+  {
+    "word": "決意",
+    "kana": "けつい",
+    "pitch": 1,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "决意，决心",
+    "gloss_en": "decision, determination"
+  },
+  {
+    "word": "決断",
+    "kana": "けつだん",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "决断，当机立断",
+    "gloss_en": "decision, determination"
+  },
+  {
+    "word": "決算",
+    "kana": "けっさん",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "结算，清账",
+    "gloss_en": "balance sheet, settlement of accounts"
+  },
+  {
+    "word": "決行",
+    "kana": "けっこう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "照常进行，断然执行",
+    "gloss_en": "doing (with resolve), carrying out (e.g., a plan)"
+  },
+  {
+    "word": "決議",
+    "kana": "けつぎ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "决议，决定",
+    "gloss_en": "resolution, vote, decision"
+  },
+  {
     "word": "沈める",
     "kana": "しずめる",
     "pitch": 0,
@@ -2487,10 +6485,58 @@
     "gloss_en": "to sink, to submerge"
   },
   {
+    "word": "沈殿",
+    "kana": "ちんでん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "沉淀",
+    "gloss_en": "precipitation, deposition, settlement"
+  },
+  {
+    "word": "没収",
+    "kana": "ぼっしゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "没收，查抄",
+    "gloss_en": "forfeited"
+  },
+  {
+    "word": "没落",
+    "kana": "ぼつらく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "没落，衰败",
+    "gloss_en": "ruin, fall, collapse"
+  },
+  {
+    "word": "沸騰",
+    "kana": "ふっとう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "沸腾；情绪高涨，欢呼雀跃",
+    "gloss_en": "boiling, seething"
+  },
+  {
     "word": "沿う",
     "kana": "そう",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1,
@@ -2512,6 +6558,54 @@
     "gloss_en": "to joke, to play on words; stylish"
   },
   {
+    "word": "派遣",
+    "kana": "はけん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "派遣，派出",
+    "gloss_en": "dispatch, send"
+  },
+  {
+    "word": "流通",
+    "kana": "りゅうつう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（气体、货币等）流通",
+    "gloss_en": "circulation of money or goods, distribution"
+  },
+  {
+    "word": "浪費",
+    "kana": "ろうひ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "浪费；糟蹋",
+    "gloss_en": "waste, extravagance"
+  },
+  {
+    "word": "浮気",
+    "kana": "うわき",
+    "pitch": 0,
+    "pos": "名·自动3·ナ形",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "见异思迁；出轨",
+    "gloss_en": "affair, to cheat"
+  },
+  {
     "word": "浸す",
     "kana": "ひたす",
     "pitch": 0,
@@ -2524,10 +6618,22 @@
     "gloss_en": "to soak, to dip, to drench"
   },
   {
+    "word": "消去",
+    "kana": "しょうきょ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "删除，消除",
+    "gloss_en": "elimination, erasing"
+  },
+  {
     "word": "深める",
     "kana": "ふかめる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1,
@@ -2535,6 +6641,30 @@
     ],
     "gloss_cn": "动2 加深，深化",
     "gloss_en": "to deepen, to heighten, to intensify"
+  },
+  {
+    "word": "混同",
+    "kana": "こんどう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "混为一谈，混淆",
+    "gloss_en": "confusion, mixing, merger"
+  },
+  {
+    "word": "混血",
+    "kana": "こんけつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "混血",
+    "gloss_en": "mixed race, mixed parentage"
   },
   {
     "word": "添える",
@@ -2565,7 +6695,7 @@
     "kana": "しける",
     "pitch": 2,
     "pos": "自动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       1
     ],
@@ -2612,13 +6742,25 @@
     "word": "滅ぼす",
     "kana": "ほろぼす",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "动1 毁灭，使灭亡",
     "gloss_en": "to destroy, to overthrow, to ruin"
+  },
+  {
+    "word": "滅亡",
+    "kana": "めつぼう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "灭亡",
+    "gloss_en": "downfall, collapse, destruction"
   },
   {
     "word": "滞る",
@@ -2631,6 +6773,18 @@
     ],
     "gloss_cn": "堵塞；拖延，延误；拖欠",
     "gloss_en": "to stagnate, to be delayed"
+  },
+  {
+    "word": "滞納",
+    "kana": "たいのう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "滞纳，拖欠，逾期未缴",
+    "gloss_en": "non-payment, default"
   },
   {
     "word": "滲む",
@@ -2705,6 +6859,42 @@
     "gloss_en": "to perform, to play (a part), to act"
   },
   {
+    "word": "演出",
+    "kana": "えんしゅつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "导演；组织安排",
+    "gloss_en": "production (erg. play, direction)"
+  },
+  {
+    "word": "潜入",
+    "kana": "せんにゅう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "潜入",
+    "gloss_en": "infiltration, sneaking in"
+  },
+  {
+    "word": "潜水",
+    "kana": "せんすい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "潜水",
+    "gloss_en": "diving"
+  },
+  {
     "word": "潤う",
     "kana": "うるおう",
     "pitch": 3,
@@ -2715,6 +6905,18 @@
     ],
     "gloss_cn": "湿润，弄湿",
     "gloss_en": "to be moist; to profit by"
+  },
+  {
+    "word": "激励",
+    "kana": "げきれい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "激励，鼓励",
+    "gloss_en": "encouragement"
   },
   {
     "word": "濯ぐ",
@@ -2732,7 +6934,7 @@
     "word": "炒める",
     "kana": "いためる",
     "pitch": 3,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1,
@@ -2742,11 +6944,23 @@
     "gloss_en": "to stir-fry"
   },
   {
+    "word": "無駄遣い",
+    "kana": "むだづかい",
+    "pitch": 3,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "浪费，乱花钱",
+    "gloss_en": "waste money on, squander money on"
+  },
+  {
     "word": "焦る",
     "kana": "あせる",
     "pitch": null,
-    "pos": "一段動詞",
-    "conj_type": "ichidan",
+    "pos": null,
+    "conj_type": "godan",
     "level": [
       1
     ],
@@ -2778,6 +6992,54 @@
     "gloss_en": "to reflect, to throw back light"
   },
   {
+    "word": "照合",
+    "kana": "しょうごう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "对照，核对",
+    "gloss_en": "check, verification"
+  },
+  {
+    "word": "爆破",
+    "kana": "ばくは",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "爆破，炸毁",
+    "gloss_en": "blast, explosion, blow up"
+  },
+  {
+    "word": "特許",
+    "kana": "とっきょ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "特别许可，专利",
+    "gloss_en": "special permission, patent"
+  },
+  {
+    "word": "特集",
+    "kana": "とくしゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "专刊，专辑",
+    "gloss_en": "feature (e.g., newspaper, special edition, report)"
+  },
+  {
     "word": "犯す",
     "kana": "おかす",
     "pitch": 2,
@@ -2788,6 +7050,42 @@
     ],
     "gloss_cn": "违反（法律）；冒犯",
     "gloss_en": "to perpetrate, to violate"
+  },
+  {
+    "word": "独創",
+    "kana": "どくそう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "独创",
+    "gloss_en": "originality"
+  },
+  {
+    "word": "独占",
+    "kana": "どくせん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "独占，垄断",
+    "gloss_en": "monopoly"
+  },
+  {
+    "word": "独裁",
+    "kana": "どくさい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "独裁，专断",
+    "gloss_en": "dictatorship, despotism"
   },
   {
     "word": "率いる",
@@ -2817,13 +7115,50 @@
     "word": "生かす",
     "kana": "いかす",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "动1 发挥，有效利用",
     "gloss_en": "to keep something alive; to make use of"
+  },
+  {
+    "word": "生やす",
+    "kana": "はやす",
+    "pitch": null,
+    "pos": "形容动词",
+    "conj_type": "godan",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "留，使……生长",
+    "gloss_en": "to grow, to cultivate, to wear beard"
+  },
+  {
+    "word": "生育",
+    "kana": "せいいく",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "生长；生育；繁殖",
+    "gloss_en": "growth, development, breeding"
+  },
+  {
+    "word": "産出",
+    "kana": "さんしゅつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "出产，生产",
+    "gloss_en": "yield, produce"
   },
   {
     "word": "申し入れる",
@@ -2850,6 +7185,44 @@
     "gloss_en": "to report to, to tell, to suggest"
   },
   {
+    "word": "申告",
+    "kana": "しんこく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "申报，报告，呈报",
+    "gloss_en": "report, statement"
+  },
+  {
+    "word": "略奪",
+    "kana": "りゃくだつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "掠夺，抢夺",
+    "gloss_en": "pillage, looting, robbery"
+  },
+  {
+    "word": "異動",
+    "kana": "いどう",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "调动，变动",
+    "gloss_en": "a change, transfer"
+  },
+  {
     "word": "病む",
     "kana": "やむ",
     "pitch": 1,
@@ -2860,6 +7233,126 @@
     ],
     "gloss_cn": "生病；烦恼，忧心",
     "gloss_en": "to fall ill, to be ill"
+  },
+  {
+    "word": "痛感",
+    "kana": "つうかん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "痛感，深切地感觉到",
+    "gloss_en": "feeling keenly, fully realizing"
+  },
+  {
+    "word": "発作",
+    "kana": "ほっさ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（疾病）发作",
+    "gloss_en": "fit, attack"
+  },
+  {
+    "word": "発掘",
+    "kana": "はっくつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "发掘，挖掘",
+    "gloss_en": "excavation, exhumation; discovery (e.g., new talent)"
+  },
+  {
+    "word": "発生",
+    "kana": "はっせい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "发生，出现",
+    "gloss_en": "outbreak, spring forth, occurrence"
+  },
+  {
+    "word": "発病",
+    "kana": "はつびょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "发病，得病",
+    "gloss_en": "attack, to become sick"
+  },
+  {
+    "word": "発育",
+    "kana": "はついく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "发育，成长",
+    "gloss_en": "(physical) growth, development"
+  },
+  {
+    "word": "発言",
+    "kana": "はつげん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "发言",
+    "gloss_en": "utterance, speech, proposal"
+  },
+  {
+    "word": "発足",
+    "kana": "ほっそく/はっそく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "出发，动身；（组织等）开始活动",
+    "gloss_en": "starting, inauguration"
+  },
+  {
+    "word": "登校",
+    "kana": "とうこう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "上学",
+    "gloss_en": "attendance (at school)"
+  },
+  {
+    "word": "白状",
+    "kana": "はくじょう",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "坦白，招供",
+    "gloss_en": "confession"
   },
   {
     "word": "盛り上がる",
@@ -2886,6 +7379,42 @@
     "gloss_en": "to wake up"
   },
   {
+    "word": "直感",
+    "kana": "ちょっかん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "直觉，直接的感觉",
+    "gloss_en": "intuition, instinct"
+  },
+  {
+    "word": "直面",
+    "kana": "ちょくめん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "直面，面对",
+    "gloss_en": "confrontation"
+  },
+  {
+    "word": "相応",
+    "kana": "そうおう",
+    "pitch": 0,
+    "pos": "名·ナ形·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "相称，适宜，适合",
+    "gloss_en": "suitability, fitness"
+  },
+  {
     "word": "省みる",
     "kana": "かえりみる",
     "pitch": 4,
@@ -2896,6 +7425,78 @@
     ],
     "gloss_cn": "反省，反躬自问",
     "gloss_en": "to reflect"
+  },
+  {
+    "word": "看護",
+    "kana": "かんご",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "护理，看护",
+    "gloss_en": "nursing"
+  },
+  {
+    "word": "着工",
+    "kana": "ちゃっこう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "动工，开工",
+    "gloss_en": "start of (construction) work"
+  },
+  {
+    "word": "着手",
+    "kana": "ちゃくしゅ",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "着手，开始",
+    "gloss_en": "embarkation, launch"
+  },
+  {
+    "word": "着目",
+    "kana": "ちゃくもく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "着眼，注目",
+    "gloss_en": "attention"
+  },
+  {
+    "word": "着色",
+    "kana": "ちゃくしょく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "着色，上颜色",
+    "gloss_en": "coloring, coloring"
+  },
+  {
+    "word": "着陸",
+    "kana": "ちゃくりく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "着陆",
+    "gloss_en": "landing, touch down"
   },
   {
     "word": "着飾る",
@@ -2910,16 +7511,124 @@
     "gloss_en": "to dress up"
   },
   {
+    "word": "瞬き",
+    "kana": "まばたき",
+    "pitch": 2,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "眨眼",
+    "gloss_en": "wink, twinkling (of stars), flicker (of light)"
+  },
+  {
     "word": "研ぐ",
     "kana": "とぐ",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "动1 磨快；磨光亮；淘",
     "gloss_en": "to sharpen, to grind, to polish"
+  },
+  {
+    "word": "破壊",
+    "kana": "はかい",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "破坏",
+    "gloss_en": "destruction"
+  },
+  {
+    "word": "破損",
+    "kana": "はそん",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "破损，损坏",
+    "gloss_en": "damage"
+  },
+  {
+    "word": "破棄",
+    "kana": "はき",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "废弃，撕毁（条约）；取消，撤销（判决）",
+    "gloss_en": "revocation, annulment, breaking (e.g., treaty)"
+  },
+  {
+    "word": "破裂",
+    "kana": "はれつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "破裂；（谈判）破裂",
+    "gloss_en": "explosion, rupture, break off"
+  },
+  {
+    "word": "確保",
+    "kana": "かくほ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "确保",
+    "gloss_en": "guarantee, insure, secure"
+  },
+  {
+    "word": "確定",
+    "kana": "かくてい",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "确定，决定",
+    "gloss_en": "fixed, decision"
+  },
+  {
+    "word": "確立",
+    "kana": "かくりつ",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "确立，确定",
+    "gloss_en": "establishment"
+  },
+  {
+    "word": "祝賀",
+    "kana": "しゅくが",
+    "pitch": 2,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "祝贺，庆贺",
+    "gloss_en": "celebration, congratulations"
   },
   {
     "word": "禁じる",
@@ -2946,6 +7655,42 @@
     "gloss_en": "to take the name of, to call oneself"
   },
   {
+    "word": "移住",
+    "kana": "いじゅう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "移居（国外）",
+    "gloss_en": "migration, immigration"
+  },
+  {
+    "word": "移民",
+    "kana": "いみん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "移民",
+    "gloss_en": "emigrant, immigrant"
+  },
+  {
+    "word": "究極",
+    "kana": "きゅうきょく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "最终，终极",
+    "gloss_en": "ultimate, final, eventual"
+  },
+  {
     "word": "突っ張る",
     "kana": "つっぱる",
     "pitch": 3,
@@ -2958,10 +7703,46 @@
     "gloss_en": "to support, to become stiff; to thrust (ones opponent), to stick to (ones opinion), to insist on"
   },
   {
+    "word": "突破",
+    "kana": "とっぱ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "突破，冲破；超过",
+    "gloss_en": "breaking through, breakthrough, penetration"
+  },
+  {
+    "word": "窒息",
+    "kana": "ちっそく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "窒息",
+    "gloss_en": "suffocation"
+  },
+  {
+    "word": "窮乏",
+    "kana": "きゅうぼう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "贫穷，贫困",
+    "gloss_en": "poverty"
+  },
+  {
     "word": "立ち寄る",
     "kana": "たちよる",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
@@ -2985,7 +7766,7 @@
     "word": "築く",
     "kana": "きずく",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1,
@@ -3019,6 +7800,31 @@
     "gloss_en": "to be sticky, to be adhesive, to persist, to stick to"
   },
   {
+    "word": "精算",
+    "kana": "せいさん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "细算；补票",
+    "gloss_en": "exact calculation, adjustment"
+  },
+  {
+    "word": "納入",
+    "kana": "のうにゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "缴纳，交纳",
+    "gloss_en": "payment, supply"
+  },
+  {
     "word": "紛れる",
     "kana": "まぎれる",
     "pitch": 3,
@@ -3031,10 +7837,46 @@
     "gloss_en": "to be diverted, to slip into"
   },
   {
+    "word": "紛失",
+    "kana": "ふんしつ",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "遗失，丢失",
+    "gloss_en": "losing something"
+  },
+  {
+    "word": "細工",
+    "kana": "さいく",
+    "pitch": 3,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "工艺品；耍花招",
+    "gloss_en": "work, craftsmanship, trick"
+  },
+  {
+    "word": "終始",
+    "kana": "しゅうし",
+    "pitch": 1,
+    "pos": "副·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "自始至终；从头到尾",
+    "gloss_en": "from beginning to end; consistent(ly)"
+  },
+  {
     "word": "組み合わせる",
     "kana": "くみあわせる",
     "pitch": 5,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -3053,6 +7895,30 @@
     ],
     "gloss_cn": "编入；入伙",
     "gloss_en": "to insert, to include, to cut in (printing)"
+  },
+  {
+    "word": "経歴",
+    "kana": "けいれき",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "经历；履历；来历",
+    "gloss_en": "personal history, career"
+  },
+  {
+    "word": "経過",
+    "kana": "けいか",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（事情的）经过，过程；时间流逝，过去",
+    "gloss_en": "passage, progress"
   },
   {
     "word": "結び付く",
@@ -3079,6 +7945,42 @@
     "gloss_en": "to combine, to join, to tie on, to attach with a knot"
   },
   {
+    "word": "結成",
+    "kana": "けっせい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "结成，组成",
+    "gloss_en": "formation"
+  },
+  {
+    "word": "結晶",
+    "kana": "けっしょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（雪）结晶；成果，结晶",
+    "gloss_en": "crystal, crystallization"
+  },
+  {
+    "word": "結束",
+    "kana": "けっそく",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "捆扎；团结",
+    "gloss_en": "union, unity"
+  },
+  {
     "word": "絡む",
     "kana": "からむ",
     "pitch": 2,
@@ -3089,6 +7991,66 @@
     ],
     "gloss_cn": "缠住；胡搅蛮缠，无理取闹；密切相关",
     "gloss_en": "to entangle, to entwine"
+  },
+  {
+    "word": "給仕",
+    "kana": "きゅうじ",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "服务人员；伺候（吃饭）",
+    "gloss_en": "waiter"
+  },
+  {
+    "word": "給食",
+    "kana": "きゅうしょく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "提供伙食",
+    "gloss_en": "school lunch, providing a meal"
+  },
+  {
+    "word": "統制",
+    "kana": "とうせい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "统制；统一管理",
+    "gloss_en": "regulation, control"
+  },
+  {
+    "word": "統合",
+    "kana": "とうごう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "合并，统一",
+    "gloss_en": "integration, unification, synthesis"
+  },
+  {
+    "word": "統率",
+    "kana": "とうそつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "统率",
+    "gloss_en": "command, generalship, leadership"
   },
   {
     "word": "絶える",
@@ -3141,6 +8103,18 @@
     "gloss_en": "to come apart at the seams, to smile broadly"
   },
   {
+    "word": "総合",
+    "kana": "そうごう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "综合（考虑、开发等）",
+    "gloss_en": "synthesis, generalization"
+  },
+  {
     "word": "緩む",
     "kana": "ゆるむ",
     "pitch": 2,
@@ -3157,7 +8131,7 @@
     "kana": "ねる",
     "pitch": 1,
     "pos": "他动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       1
     ],
@@ -3175,6 +8149,42 @@
     ],
     "gloss_cn": "收缩，缩小；畏缩，恐惧",
     "gloss_en": "to be shortened, to be contracted, to shrink"
+  },
+  {
+    "word": "繁栄",
+    "kana": "はんえい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "繁荣，昌盛",
+    "gloss_en": "prospering, prosperity, flourishing"
+  },
+  {
+    "word": "繁殖",
+    "kana": "はんしょく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "繁殖，滋生",
+    "gloss_en": "breed, multiply, propagation"
+  },
+  {
+    "word": "繁盛",
+    "kana": "はんじょう",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "繁荣，昌盛",
+    "gloss_en": "prosperity, flourishing, thriving"
   },
   {
     "word": "織る",
@@ -3206,7 +8216,7 @@
     "kana": "ののしる",
     "pitch": 3,
     "pos": "自他动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       1
     ],
@@ -3224,6 +8234,18 @@
     ],
     "gloss_cn": "聚，聚集",
     "gloss_en": "to swarm, to gather"
+  },
+  {
+    "word": "群集",
+    "kana": "ぐんしゅう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "人群；聚集，群集",
+    "gloss_en": "(social) group, crowd, mob"
   },
   {
     "word": "老いる",
@@ -3250,10 +8272,22 @@
     "gloss_en": "to age"
   },
   {
+    "word": "老衰",
+    "kana": "ろうすい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "衰老",
+    "gloss_en": "senility, senile decay"
+  },
+  {
     "word": "耐える",
     "kana": "たえる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -3262,11 +8296,23 @@
     "gloss_en": "to endure, to put up with"
   },
   {
+    "word": "耕作",
+    "kana": "こうさく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "耕作，耕种",
+    "gloss_en": "cultivation, farming"
+  },
+  {
     "word": "耽る",
     "kana": "ふける",
     "pitch": 2,
     "pos": "自动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       1
     ],
@@ -3284,6 +8330,30 @@
     ],
     "gloss_cn": "耸立，矗立",
     "gloss_en": "to rise, to tower, to soar"
+  },
+  {
+    "word": "聴講",
+    "kana": "ちょうこう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "听课；旁听",
+    "gloss_en": "lecture attendance, auditing"
+  },
+  {
+    "word": "育成",
+    "kana": "いくせい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "培育，培养",
+    "gloss_en": "rearing, training, cultivation"
   },
   {
     "word": "背く",
@@ -3310,6 +8380,30 @@
     "gloss_en": "to threaten, to menace"
   },
   {
+    "word": "脅迫",
+    "kana": "きょうはく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "威胁，恐吓，胁迫",
+    "gloss_en": "threat, coercion"
+  },
+  {
+    "word": "脚色",
+    "kana": "きゃくしょく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "改编（小说或电影）；夸大其词",
+    "gloss_en": "dramatization (e.g., film"
+  },
+  {
     "word": "脱する",
     "kana": "だっする",
     "pitch": 0,
@@ -3320,6 +8414,42 @@
     ],
     "gloss_cn": "逃脱；脱离；去除，去掉",
     "gloss_en": "to escape from, to get out"
+  },
+  {
+    "word": "脱出",
+    "kana": "だっしゅつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "逃脱，逃亡",
+    "gloss_en": "escape"
+  },
+  {
+    "word": "脱退",
+    "kana": "だったい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "脱离，退出",
+    "gloss_en": "secession, withdrawal"
+  },
+  {
+    "word": "腐敗",
+    "kana": "ふはい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "腐坏，腐烂；腐败，堕落",
+    "gloss_en": "decay, depravity"
   },
   {
     "word": "腫れる",
@@ -3349,7 +8479,7 @@
     "word": "臨む",
     "kana": "のぞむ",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1,
@@ -3357,6 +8487,42 @@
     ],
     "gloss_cn": "动1 面临，面对",
     "gloss_en": "to look out on, to face, to attend (function)"
+  },
+  {
+    "word": "自立",
+    "kana": "じりつ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "自立，独立",
+    "gloss_en": "independence, self-reliance"
+  },
+  {
+    "word": "自覚",
+    "kana": "じかく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "自知，认识到；觉醒，自觉",
+    "gloss_en": "self-conscious"
+  },
+  {
+    "word": "自転",
+    "kana": "じてん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "自转",
+    "gloss_en": "rotation, spin"
   },
   {
     "word": "興じる",
@@ -3371,6 +8537,31 @@
     "gloss_en": "to amuse oneself, to make merry"
   },
   {
+    "word": "興奮",
+    "kana": "こうふん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "兴奋，激动",
+    "gloss_en": "excitement, stimulation"
+  },
+  {
+    "word": "舗装",
+    "kana": "ほそう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "铺路",
+    "gloss_en": "pavement, road surface"
+  },
+  {
     "word": "荒らす",
     "kana": "あらす",
     "pitch": 0,
@@ -3383,16 +8574,53 @@
     "gloss_en": "to damage; to invade"
   },
   {
+    "word": "荒廃",
+    "kana": "こうはい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "荒废，荒芜；颓废，散漫",
+    "gloss_en": "ruin"
+  },
+  {
+    "word": "荷造り",
+    "kana": "にづくり",
+    "pitch": 2,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "打包，包装",
+    "gloss_en": "packing, baling, crating"
+  },
+  {
     "word": "落ち込む",
     "kana": "おちこむ",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "动1 掉进，掉入",
     "gloss_en": "to get depressed"
+  },
+  {
+    "word": "落下",
+    "kana": "らっか",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "下降，落下",
+    "gloss_en": "fall, drop, come down"
   },
   {
     "word": "葬る",
@@ -3407,10 +8635,46 @@
     "gloss_en": "to bury, to entomb"
   },
   {
+    "word": "蓄積",
+    "kana": "ちくせき",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "积蓄，积累，积攒",
+    "gloss_en": "accumulation, accumulate, store"
+  },
+  {
+    "word": "融資",
+    "kana": "ゆうし",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "融资，贷款",
+    "gloss_en": "financing, loan"
+  },
+  {
+    "word": "融通",
+    "kana": "ゆうずう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "筹款，借贷；随机应变",
+    "gloss_en": "adaptability, versatility, finance"
+  },
+  {
     "word": "衰える",
     "kana": "おとろえる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -3445,6 +8709,91 @@
     "gloss_en": "to split, to tear, to burst"
   },
   {
+    "word": "装備",
+    "kana": "そうび",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "装备，配备",
+    "gloss_en": "equipment"
+  },
+  {
+    "word": "装飾",
+    "kana": "そうしょく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "装饰，点缀",
+    "gloss_en": "ornament"
+  },
+  {
+    "word": "補償",
+    "kana": "ほしょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "补偿，赔偿",
+    "gloss_en": "compensation, reparation"
+  },
+  {
+    "word": "補助",
+    "kana": "ほじょ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "补助，辅助",
+    "gloss_en": "assistance, support, auxiliary"
+  },
+  {
+    "word": "補強",
+    "kana": "ほきょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "加强，强化",
+    "gloss_en": "reinforcement"
+  },
+  {
+    "word": "複合",
+    "kana": "ふくごう",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "复合，合成",
+    "gloss_en": "composite, complex"
+  },
+  {
+    "word": "褒美",
+    "kana": "ほうび",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "奖赏，奖励",
+    "gloss_en": "reward, prize"
+  },
+  {
     "word": "襲う",
     "kana": "おそう",
     "pitch": 0,
@@ -3455,6 +8804,18 @@
     ],
     "gloss_cn": "袭击，侵袭；继承",
     "gloss_en": "to attack"
+  },
+  {
+    "word": "襲撃",
+    "kana": "しゅうげき",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "袭击",
+    "gloss_en": "attack, charge, raid"
   },
   {
     "word": "要する",
@@ -3469,6 +8830,18 @@
     "gloss_en": "to demand, to require, to take"
   },
   {
+    "word": "要請",
+    "kana": "ようせい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "请求，恳求，要求",
+    "gloss_en": "claim, demand, request, application"
+  },
+  {
     "word": "覆す",
     "kana": "くつがえす",
     "pitch": 3,
@@ -3479,6 +8852,18 @@
     ],
     "gloss_cn": "打翻；推翻(政权、学说)",
     "gloss_en": "to overturn, to upset, to overthrow"
+  },
+  {
+    "word": "覆面",
+    "kana": "ふくめん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "蒙面；匿名",
+    "gloss_en": "mask, veil, disguise"
   },
   {
     "word": "見せびらかす",
@@ -3503,6 +8888,18 @@
     ],
     "gloss_cn": "看作，认为；当作",
     "gloss_en": "to consider as, to regard"
+  },
+  {
+    "word": "見合い",
+    "kana": "みあい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "相亲",
+    "gloss_en": "formal marriage interview"
   },
   {
     "word": "見合わせる",
@@ -3602,10 +8999,106 @@
     "gloss_en": "to be intimate with, to befriend"
   },
   {
+    "word": "解剖",
+    "kana": "かいぼう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "解剖；剖析，分析",
+    "gloss_en": "dissection, autopsy"
+  },
+  {
+    "word": "解除",
+    "kana": "かいじょ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "废除；解除",
+    "gloss_en": "cancellation, release, cancel"
+  },
+  {
+    "word": "言い訳",
+    "kana": "いいわけ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "解释，分辩，辩解",
+    "gloss_en": "excuse, explanation"
+  },
+  {
+    "word": "訂正",
+    "kana": "ていせい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "订正，修订",
+    "gloss_en": "correction, revision"
+  },
+  {
+    "word": "討議",
+    "kana": "とうぎ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "讨论，共同研讨",
+    "gloss_en": "debate, discussion"
+  },
+  {
+    "word": "記名",
+    "kana": "きめい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "记名，签名",
+    "gloss_en": "signature, register"
+  },
+  {
+    "word": "記載",
+    "kana": "きさい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "记载；刊登",
+    "gloss_en": "mention, entry"
+  },
+  {
+    "word": "記述",
+    "kana": "きじゅつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "记述",
+    "gloss_en": "describing, descriptor"
+  },
+  {
     "word": "訪れる",
     "kana": "おとずれる",
     "pitch": 4,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -3617,7 +9110,7 @@
     "word": "設ける",
     "kana": "もうける",
     "pitch": 0,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -3626,10 +9119,46 @@
     "gloss_en": "to create, to establish"
   },
   {
+    "word": "設立",
+    "kana": "せつりつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "设立，创立",
+    "gloss_en": "establishment, foundation, institution"
+  },
+  {
+    "word": "訴訟",
+    "kana": "そしょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "诉讼",
+    "gloss_en": "litigation, lawsuit"
+  },
+  {
+    "word": "診療",
+    "kana": "しんりょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "诊疗，诊治",
+    "gloss_en": "medical examination and treatment"
+  },
+  {
     "word": "試みる",
     "kana": "こころみる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       1
@@ -3642,12 +9171,24 @@
     "kana": "なじる",
     "pitch": 2,
     "pos": "他动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "责问，责备，责难",
     "gloss_en": "to rebuke, to scold, to tell off"
+  },
+  {
+    "word": "該当",
+    "kana": "がいとう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "符合，适合",
+    "gloss_en": "corresponding, answering to, coming under"
   },
   {
     "word": "誇る",
@@ -3660,6 +9201,42 @@
     ],
     "gloss_cn": "夸耀；自豪，骄傲",
     "gloss_en": "to boast of, to be proud of"
+  },
+  {
+    "word": "誇張",
+    "kana": "こちょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "夸张，夸大",
+    "gloss_en": "exaggeration"
+  },
+  {
+    "word": "認識",
+    "kana": "にんしき",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "认识，了解，理解",
+    "gloss_en": "recognition, cognizance"
+  },
+  {
+    "word": "誘惑",
+    "kana": "ゆうわく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "诱惑",
+    "gloss_en": "temptation, allurement, lure"
   },
   {
     "word": "誤る",
@@ -3699,6 +9276,42 @@
     "gloss_en": "to read out loud (and clearly), to call a roll"
   },
   {
+    "word": "調停",
+    "kana": "ちょうてい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "调停，调解",
+    "gloss_en": "arbitration, conciliation, mediation"
+  },
+  {
+    "word": "調印",
+    "kana": "ちょういん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "签订，签署",
+    "gloss_en": "signature, sign, sealing"
+  },
+  {
+    "word": "調和",
+    "kana": "ちょうわ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "协调，调合；和谐",
+    "gloss_en": "harmony"
+  },
+  {
     "word": "諮る",
     "kana": "はかる",
     "pitch": 2,
@@ -3710,6 +9323,54 @@
     ],
     "gloss_cn": "磋商，咨询",
     "gloss_en": "to consult with, to confer"
+  },
+  {
+    "word": "謝絶",
+    "kana": "しゃぜつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "谢绝，拒绝",
+    "gloss_en": "refusal"
+  },
+  {
+    "word": "警戒",
+    "kana": "けいかい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "警戒，防范；警惕，提防",
+    "gloss_en": "warning, admonition, vigilance"
+  },
+  {
+    "word": "議決",
+    "kana": "ぎけつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "决议，表决",
+    "gloss_en": "resolution, decision, vote"
+  },
+  {
+    "word": "譲歩",
+    "kana": "じょうほ",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "让步",
+    "gloss_en": "concession, conciliation, compromise"
   },
   {
     "word": "負かす",
@@ -3724,16 +9385,40 @@
     "gloss_en": "to defeat"
   },
   {
+    "word": "負傷",
+    "kana": "ふしょう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "受伤，负伤",
+    "gloss_en": "injury, wound"
+  },
+  {
     "word": "貫く",
     "kana": "つらぬく",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "动1 穿过，贯彻",
     "gloss_en": "to go through"
+  },
+  {
+    "word": "貯蓄",
+    "kana": "ちょちく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "储蓄，积蓄",
+    "gloss_en": "savings"
   },
   {
     "word": "費やす",
@@ -3772,6 +9457,42 @@
     "gloss_en": "to prosper, to flourish, to be crowded with people"
   },
   {
+    "word": "賛美",
+    "kana": "さんび",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "赞美",
+    "gloss_en": "praise, adoration, glorification"
+  },
+  {
+    "word": "賠償",
+    "kana": "ばいしょう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "赔偿，补偿",
+    "gloss_en": "reparations, indemnity, compensation"
+  },
+  {
+    "word": "質疑",
+    "kana": "しつぎ",
+    "pitch": 2,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "质疑，疑问",
+    "gloss_en": "question"
+  },
+  {
     "word": "賭ける",
     "kana": "かける",
     "pitch": 2,
@@ -3783,6 +9504,18 @@
     ],
     "gloss_cn": "赌钱，赌输赢；拼（命），不惜",
     "gloss_en": "to bet, to risk, to gamble"
+  },
+  {
+    "word": "購入",
+    "kana": "こうにゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "购买，采购",
+    "gloss_en": "purchase, buy"
   },
   {
     "word": "赤らむ",
@@ -3797,6 +9530,18 @@
     "gloss_en": "to become red, to blush"
   },
   {
+    "word": "走行",
+    "kana": "そうこう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（汽车）行驶",
+    "gloss_en": "running a wheeled vehicle (e.g., car, traveling)"
+  },
+  {
     "word": "赴く",
     "kana": "おもむく",
     "pitch": 3,
@@ -3807,6 +9552,30 @@
     ],
     "gloss_cn": "前往，奔赴；趋向，倾向",
     "gloss_en": "to go, to proceed"
+  },
+  {
+    "word": "赴任",
+    "kana": "ふにん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "赴任，上任",
+    "gloss_en": "(proceeding to) new appointment"
+  },
+  {
+    "word": "起伏",
+    "kana": "きふく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "起伏；浮沉，起落",
+    "gloss_en": "undulation"
   },
   {
     "word": "踏まえる",
@@ -3857,6 +9626,103 @@
     "gloss_en": "to turn, to shift"
   },
   {
+    "word": "転勤",
+    "kana": "てんきん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "工作调动",
+    "gloss_en": "transfer (to another office of a company)"
+  },
+  {
+    "word": "転居",
+    "kana": "てんきょ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "迁居，搬家",
+    "gloss_en": "moving, changing residence"
+  },
+  {
+    "word": "転換",
+    "kana": "てんかん",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "转换；转变",
+    "gloss_en": "convert, divert"
+  },
+  {
+    "word": "転落",
+    "kana": "てんらく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "跌落，滚下；落魄，沦落",
+    "gloss_en": "fall, degradation"
+  },
+  {
+    "word": "軽蔑",
+    "kana": "けいべつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "轻蔑，蔑视，看不起",
+    "gloss_en": "scorn, disdain"
+  },
+  {
+    "word": "辛抱",
+    "kana": "しんぼう",
+    "pitch": 1,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "忍受，忍耐；耐心工作",
+    "gloss_en": "patience, endurance"
+  },
+  {
+    "word": "辞退",
+    "kana": "じたい",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "辞谢，谢绝",
+    "gloss_en": "refusal"
+  },
+  {
+    "word": "辟易",
+    "kana": "へきえき",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "退缩，畏缩；束手无策",
+    "gloss_en": "wince, shrink back, succumbing to, being frightened"
+  },
+  {
     "word": "込める",
     "kana": "こめる",
     "pitch": 2,
@@ -3893,6 +9759,42 @@
     "gloss_en": "to follow (road, to pursue (course), to follow up"
   },
   {
+    "word": "返答",
+    "kana": "へんとう",
+    "pitch": 3,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "回答，回复",
+    "gloss_en": "reply"
+  },
+  {
+    "word": "返還",
+    "kana": "へんかん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "返还，归还",
+    "gloss_en": "return, restoration"
+  },
+  {
+    "word": "迫害",
+    "kana": "はくがい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "迫害，虐待",
+    "gloss_en": "persecution"
+  },
+  {
     "word": "追い出す",
     "kana": "おいだす",
     "pitch": 3,
@@ -3915,6 +9817,66 @@
     ],
     "gloss_cn": "赶进，撵进去；逼入，使陷入",
     "gloss_en": "to herd, to corner, to drive"
+  },
+  {
+    "word": "追及",
+    "kana": "ついきゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "追究，追问；追赶",
+    "gloss_en": "investigation, inquiry"
+  },
+  {
+    "word": "追放",
+    "kana": "ついほう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "驱逐；驱除；开除",
+    "gloss_en": "exile, banishment"
+  },
+  {
+    "word": "追跡",
+    "kana": "ついせき",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "追踪，追捕",
+    "gloss_en": "pursuit"
+  },
+  {
+    "word": "退化",
+    "kana": "たいか",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "退化；倒退",
+    "gloss_en": "degeneration, retrogression"
+  },
+  {
+    "word": "退治",
+    "kana": "たいじ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "扑灭，消灭；打退",
+    "gloss_en": "extermination"
   },
   {
     "word": "逃げ出す",
@@ -3953,6 +9915,30 @@
     "gloss_en": "to escape"
   },
   {
+    "word": "逃亡",
+    "kana": "とうぼう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "逃亡，逃跑",
+    "gloss_en": "escape"
+  },
+  {
+    "word": "逆転",
+    "kana": "ぎゃくてん",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "逆转，反转；倒退，倒过来",
+    "gloss_en": "(sudden) change, reversal, turn-around"
+  },
+  {
     "word": "途絶える",
     "kana": "とだえる",
     "pitch": 3,
@@ -3989,6 +9975,43 @@
     "gloss_en": "to link, to join, to put together"
   },
   {
+    "word": "連帯",
+    "kana": "れんたい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "联合，合作；（法律上）连带，共同负责",
+    "gloss_en": "solidarity"
+  },
+  {
+    "word": "進呈",
+    "kana": "しんてい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "赠送，奉送",
+    "gloss_en": "presentation"
+  },
+  {
+    "word": "進行",
+    "kana": "しんこう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1,
+      3
+    ],
+    "gloss_cn": "前进；进展，进行；（病情）恶化",
+    "gloss_en": "advance"
+  },
+  {
     "word": "遂げる",
     "kana": "とげる",
     "pitch": 2,
@@ -4011,6 +10034,90 @@
     ],
     "gloss_cn": "延缓，推迟",
     "gloss_en": "to retard, to delay"
+  },
+  {
+    "word": "遊牧",
+    "kana": "ゆうぼく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "游牧",
+    "gloss_en": "nomadism"
+  },
+  {
+    "word": "運営",
+    "kana": "うんえい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "运营，经营，管理",
+    "gloss_en": "management, administration, operation"
+  },
+  {
+    "word": "運搬",
+    "kana": "うんぱん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "搬运，运输",
+    "gloss_en": "transport, carriage"
+  },
+  {
+    "word": "運用",
+    "kana": "うんよう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "运用，活用",
+    "gloss_en": "making use of, application, practical use"
+  },
+  {
+    "word": "運送",
+    "kana": "うんそう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "运送，运输",
+    "gloss_en": "shipping, freight"
+  },
+  {
+    "word": "過労",
+    "kana": "かろう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "过劳，疲劳过度",
+    "gloss_en": "overwork, strain"
+  },
+  {
+    "word": "達成",
+    "kana": "たっせい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "达到，成就，完成",
+    "gloss_en": "achievement"
   },
   {
     "word": "違える",
@@ -4037,28 +10144,112 @@
     "gloss_en": "to go far off"
   },
   {
-    "word": "遠回り",
-    "kana": "とおまわりする",
-    "pitch": null,
-    "pos": "五段動詞",
-    "conj_type": "godan",
+    "word": "適応",
+    "kana": "てきおう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
     "level": [
       1
     ],
-    "gloss_cn": "动3 绕道，绕远",
-    "gloss_en": "detour, roundabout way"
+    "gloss_cn": "适应，适合",
+    "gloss_en": "adaptation, accommodation, conformity"
+  },
+  {
+    "word": "遭難",
+    "kana": "そうなん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "遇难，遇险",
+    "gloss_en": "disaster, shipwreck, accident"
   },
   {
     "word": "遮る",
     "kana": "さえぎる",
     "pitch": null,
-    "pos": "一段動詞",
-    "conj_type": "ichidan",
+    "pos": null,
+    "conj_type": "godan",
     "level": [
       1
     ],
     "gloss_cn": "动1 阻挡，遮挡，遮住，挡住",
     "gloss_en": "to interrupt, to intercept, to obstruct"
+  },
+  {
+    "word": "避難",
+    "kana": "ひなん",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "避难，逃难",
+    "gloss_en": "taking refuge, finding shelter"
+  },
+  {
+    "word": "還元",
+    "kana": "かんげん",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "还原，恢复原状",
+    "gloss_en": "resolution, reduction, return"
+  },
+  {
+    "word": "配分",
+    "kana": "はいぶん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "分配",
+    "gloss_en": "distribution, allotment"
+  },
+  {
+    "word": "配列",
+    "kana": "はいれつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "排列",
+    "gloss_en": "arrangement, array (programming)"
+  },
+  {
+    "word": "配慮",
+    "kana": "はいりょ",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "关怀，照顾，照料",
+    "gloss_en": "consideration, concern, forethought"
+  },
+  {
+    "word": "配給",
+    "kana": "はいきゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "配给，定量供应（物资）",
+    "gloss_en": "distribution (e.g., films, rice"
   },
   {
     "word": "重んじる",
@@ -4071,6 +10262,30 @@
     ],
     "gloss_cn": "重视；尊重，器重",
     "gloss_en": "to respect, to honor, to esteem, to prize"
+  },
+  {
+    "word": "重宝",
+    "kana": "ちょうほう",
+    "pitch": 1,
+    "pos": "ナ形·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "便利的，实用的；珍视，爱惜",
+    "gloss_en": "convenient, useful"
+  },
+  {
+    "word": "重複",
+    "kana": "じゅうふく/ちょうふく",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "重复",
+    "gloss_en": "duplication, repetition, overlapping"
   },
   {
     "word": "鈍る",
@@ -4097,6 +10312,90 @@
     "gloss_en": "to forge, to train, to discipline"
   },
   {
+    "word": "閉口",
+    "kana": "へいこう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "闭口不言；受不了，为难",
+    "gloss_en": "shut mouth"
+  },
+  {
+    "word": "閉鎖",
+    "kana": "へいさ",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "关闭，封锁",
+    "gloss_en": "closing, closure, shutdown"
+  },
+  {
+    "word": "開拓",
+    "kana": "かいたく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "开垦（土地）；开辟（新领域）",
+    "gloss_en": "cultivation, pioneer"
+  },
+  {
+    "word": "開発",
+    "kana": "かいはつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "开发",
+    "gloss_en": "development, exploitation"
+  },
+  {
+    "word": "関与",
+    "kana": "かんよ",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "参与，干预",
+    "gloss_en": "participation, taking part in"
+  },
+  {
+    "word": "閲覧",
+    "kana": "えつらん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "阅览",
+    "gloss_en": "inspection, reference, browse"
+  },
+  {
+    "word": "防衛",
+    "kana": "ぼうえい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "防卫，捍卫，保卫",
+    "gloss_en": "defense, protection, self-defense"
+  },
+  {
     "word": "阻む",
     "kana": "はばむ",
     "pitch": 2,
@@ -4107,6 +10406,54 @@
     ],
     "gloss_cn": "阻止，阻碍，阻挡",
     "gloss_en": "to keep someone from doing, to stop, to oppose"
+  },
+  {
+    "word": "阻止",
+    "kana": "そし",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "阻止",
+    "gloss_en": "obstruction, check, hindrance"
+  },
+  {
+    "word": "限定",
+    "kana": "げんてい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "限定，限制",
+    "gloss_en": "limit, restriction"
+  },
+  {
+    "word": "除外",
+    "kana": "じょがい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "除外，免除，不在此限",
+    "gloss_en": "exception, exclusion"
+  },
+  {
+    "word": "陳列",
+    "kana": "ちんれつ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "陈列，展览",
+    "gloss_en": "exhibition, display, show"
   },
   {
     "word": "隔たる",
@@ -4133,6 +10480,42 @@
     "gloss_en": "to hinder, to interfere with, to affect"
   },
   {
+    "word": "隠居",
+    "kana": "いんきょ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "隐居；退休",
+    "gloss_en": "retirement; retired person"
+  },
+  {
+    "word": "集計",
+    "kana": "しゅうけい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "总计，合计",
+    "gloss_en": "totalization, aggregate"
+  },
+  {
+    "word": "雑談",
+    "kana": "ざつだん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "闲谈，闲聊",
+    "gloss_en": "chatting, idle talk"
+  },
+  {
     "word": "震わせる",
     "kana": "ふるわせる",
     "pitch": 0,
@@ -4157,16 +10540,64 @@
     "gloss_en": "to grow hazy, to be misty"
   },
   {
+    "word": "非難",
+    "kana": "ひなん",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "非难，谴责",
+    "gloss_en": "blame, attack, criticism"
+  },
+  {
     "word": "面する",
     "kana": "めんする",
     "pitch": null,
-    "pos": "サ変動詞",
+    "pos": null,
     "conj_type": "sahen",
     "level": [
       1
     ],
     "gloss_cn": "动3 面向，面对",
     "gloss_en": "to face on, to look out on to"
+  },
+  {
+    "word": "面会",
+    "kana": "めんかい",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "见面，会面",
+    "gloss_en": "interview"
+  },
+  {
+    "word": "革新",
+    "kana": "かくしん",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "革新",
+    "gloss_en": "reform, innovation"
+  },
+  {
+    "word": "預金",
+    "kana": "よきん",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "存款",
+    "gloss_en": "deposit, bank account"
   },
   {
     "word": "題する",
@@ -4179,6 +10610,30 @@
     ],
     "gloss_cn": "题名，标题；题字，题词",
     "gloss_en": "to title"
+  },
+  {
+    "word": "類似",
+    "kana": "るいじ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "类似",
+    "gloss_en": "analogous"
+  },
+  {
+    "word": "類推",
+    "kana": "るいすい",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "类推，类比",
+    "gloss_en": "analogy"
   },
   {
     "word": "顧みる",
@@ -4217,6 +10672,18 @@
     "gloss_en": "to gulp down, to swallow deeply, to understand"
   },
   {
+    "word": "飽和",
+    "kana": "ほうわ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "饱和，极限",
+    "gloss_en": "saturation"
+  },
+  {
     "word": "養う",
     "kana": "やしなう",
     "pitch": 3,
@@ -4227,6 +10694,18 @@
     ],
     "gloss_cn": "养育；培养；疗养",
     "gloss_en": "to rear, to maintain, to cultivate"
+  },
+  {
+    "word": "養護",
+    "kana": "ようご",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "护养，保健",
+    "gloss_en": "protection, nursing, protective care"
   },
   {
     "word": "馴らす",
@@ -4255,10 +10734,34 @@
     "gloss_en": "to run"
   },
   {
+    "word": "駆け足",
+    "kana": "かけあし",
+    "pitch": 2,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "快跑；走马观花地，急急忙忙地",
+    "gloss_en": "running fast, double time"
+  },
+  {
+    "word": "騒動",
+    "kana": "そうどう",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "骚动；暴乱",
+    "gloss_en": "strife, riot, rebellion"
+  },
+  {
     "word": "高まる",
     "kana": "たかまる",
     "pitch": null,
-    "pos": "五段動詞",
+    "pos": null,
     "conj_type": "godan",
     "level": [
       1,
@@ -4266,5 +10769,17 @@
     ],
     "gloss_cn": "动1 高涨，提高",
     "gloss_en": "to rise; to grow; to mount (v.i.)"
+  },
+  {
+    "word": "麻痺",
+    "kana": "まひ",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      1
+    ],
+    "gloss_cn": "（身体）麻痹，麻木；（交通）瘫痪",
+    "gloss_en": "paralysis, palsy, numbness"
   }
 ]

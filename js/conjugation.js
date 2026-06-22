@@ -40,6 +40,9 @@ function ichidanForms(kana, stem) {
 function godanForms(kana, stem, ending) {
   const m = GODAN_MAP[ending]
   if (!m) return null
+  // 行く（行って/行った 促音便，不是 行いて/行いた）
+  const te = (kana === 'いく' || kana === 'ゆく') ? stem + 'って' : stem + m.te
+  const ta = (kana === 'いく' || kana === 'ゆく') ? stem + 'った' : stem + m.ta
   return {
     mizen: stem + m.a,
     renyo: stem + m.i,
@@ -52,8 +55,8 @@ function godanForms(kana, stem, ending) {
     ukemi: stem + m.a + 'れる',
     shieki: stem + m.a + 'せる',
     shiekiUkemi: stem + m.a + 'せられる',
-    te: stem + m.te,
-    ta: stem + m.ta,
+    te,
+    ta,
     nai: stem + m.a + 'ない',
   }
 }
@@ -80,20 +83,20 @@ function sahenForms(kana) {
 
 function kahenForms() {
   return {
-    mizen: '来',
-    renyo: '来',
-    shushi: '来る',
-    rentai: '来る',
-    katei: '来れ',
-    meirei: '来い',
-    ishi: '来よう',
-    kanou: '来られる',
-    ukemi: '来られる',
-    shieki: '来させる',
-    shiekiUkemi: '来させられる',
-    te: '来て',
-    ta: '来た',
-    nai: '来ない',
+    mizen: 'こ',
+    renyo: 'き',
+    shushi: 'くる',
+    rentai: 'くる',
+    katei: 'くれ',
+    meirei: 'こい',
+    ishi: 'こよう',
+    kanou: 'こられる',
+    ukemi: 'こられる',
+    shieki: 'こさせる',
+    shiekiUkemi: 'こさせられる',
+    te: 'きて',
+    ta: 'きた',
+    nai: 'こない',
   }
 }
 

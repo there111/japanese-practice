@@ -1,9 +1,34 @@
 [
   {
+    "word": "なる",
+    "kana": "なる",
+    "pitch": null,
+    "pos": "名词",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "结（果实）",
+    "gloss_en": "to become"
+  },
+  {
+    "word": "マッチ",
+    "kana": "match",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      5
+    ],
+    "gloss_cn": "火柴；相称",
+    "gloss_en": "match"
+  },
+  {
     "word": "上げる",
     "kana": "あげる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       3,
@@ -128,7 +153,7 @@
     "kana": "はいる",
     "pitch": 1,
     "pos": "自动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       5
     ],
@@ -200,7 +225,7 @@
     "kana": "きる",
     "pitch": 1,
     "pos": "他动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       5
     ],
@@ -208,10 +233,23 @@
     "gloss_en": "to cut; to hang up (a phone)"
   },
   {
+    "word": "勉強",
+    "kana": "べんきょう",
+    "pitch": 0,
+    "pos": "名·自他动3",
+    "conj_type": "sahen",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "学习",
+    "gloss_en": "study"
+  },
+  {
     "word": "勤める",
     "kana": "つとめる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       5
@@ -338,7 +376,7 @@
     "kana": "かえる",
     "pitch": 1,
     "pos": "自动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       3,
       5
@@ -386,6 +424,19 @@
     "gloss_en": "to play (a string instrument or piano)"
   },
   {
+    "word": "待つ",
+    "kana": "まつ",
+    "pitch": 1,
+    "pos": "他动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "等，等待",
+    "gloss_en": "to wait"
+  },
+  {
     "word": "忘れる",
     "kana": "わすれる",
     "pitch": 0,
@@ -408,6 +459,32 @@
     ],
     "gloss_cn": "压，按；推",
     "gloss_en": "to push, to press, to stamp (e.g., a passport)"
+  },
+  {
+    "word": "掃除",
+    "kana": "そうじ",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "扫除，清扫",
+    "gloss_en": "cleaning, sweeping"
+  },
+  {
+    "word": "授業",
+    "kana": "じゅぎょう",
+    "pitch": 1,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      2,
+      5
+    ],
+    "gloss_cn": "授课，上课",
+    "gloss_en": "a class (of school)"
   },
   {
     "word": "掛ける",
@@ -446,6 +523,43 @@
     ],
     "gloss_cn": "教，教导；告诉",
     "gloss_en": "to teach, to inform, to instruct"
+  },
+  {
+    "word": "散歩",
+    "kana": "さんぽ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "散步",
+    "gloss_en": "walk, stroll"
+  },
+  {
+    "word": "料理",
+    "kana": "りょうり",
+    "pitch": 1,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      5
+    ],
+    "gloss_cn": "菜肴；做菜",
+    "gloss_en": "cooking; cuisine"
+  },
+  {
+    "word": "旅行",
+    "kana": "りょこう",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      5
+    ],
+    "gloss_cn": "旅行",
+    "gloss_en": "travel, trip"
   },
   {
     "word": "晴れる",
@@ -567,6 +681,19 @@
     ],
     "gloss_cn": "洗，清洗",
     "gloss_en": "to wash"
+  },
+  {
+    "word": "洗濯",
+    "kana": "せんたく",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "洗，洗衣服",
+    "gloss_en": "washing, laundry"
   },
   {
     "word": "浴びる",
@@ -697,7 +824,7 @@
     "kana": "しる",
     "pitch": 0,
     "pos": "他动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       5
     ],
@@ -717,6 +844,19 @@
     "gloss_en": "to brush (teeth); to polish"
   },
   {
+    "word": "立つ",
+    "kana": "たつ",
+    "pitch": 1,
+    "pos": "自动1",
+    "conj_type": "godan",
+    "level": [
+      3,
+      5
+    ],
+    "gloss_cn": "站立；出发，离开",
+    "gloss_en": "to stand up"
+  },
+  {
     "word": "答える",
     "kana": "こたえる",
     "pitch": 3,
@@ -729,10 +869,22 @@
     "gloss_en": "to answer, to reply"
   },
   {
+    "word": "結婚",
+    "kana": "けっこん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      5
+    ],
+    "gloss_cn": "结婚",
+    "gloss_en": "marriage (get married)"
+  },
+  {
     "word": "締める",
     "kana": "しめる",
     "pitch": null,
-    "pos": "一段動詞",
+    "pos": null,
     "conj_type": "ichidan",
     "level": [
       3,
@@ -740,6 +892,18 @@
     ],
     "gloss_cn": "动2 系，束，系紧；结算",
     "gloss_en": "to tie, to fasten, to tighten"
+  },
+  {
+    "word": "練習",
+    "kana": "れんしゅう",
+    "pitch": 0,
+    "pos": "名·他动3",
+    "conj_type": "sahen",
+    "level": [
+      5
+    ],
+    "gloss_cn": "练习，训练",
+    "gloss_en": "(to) practice"
   },
   {
     "word": "置く",
@@ -795,7 +959,7 @@
     "kana": "いる",
     "pitch": 0,
     "pos": "自动1",
-    "conj_type": "ichidan",
+    "conj_type": "godan",
     "level": [
       5
     ],
@@ -903,6 +1067,18 @@
     "gloss_en": "to post; to paste; to attach"
   },
   {
+    "word": "質問",
+    "kana": "しつもん",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      5
+    ],
+    "gloss_cn": "问题；提问，询问",
+    "gloss_en": "question, inquiry"
+  },
+  {
     "word": "起きる",
     "kana": "おきる",
     "pitch": 2,
@@ -990,6 +1166,18 @@
     ],
     "gloss_cn": "下（雨、雪等）",
     "gloss_en": "to precipitate, to fall (e.g., rain, snow, etc.)"
+  },
+  {
+    "word": "電話",
+    "kana": "でんわ",
+    "pitch": 0,
+    "pos": "名·自动3",
+    "conj_type": "sahen",
+    "level": [
+      5
+    ],
+    "gloss_cn": "电话；打电话",
+    "gloss_en": "a telephone"
   },
   {
     "word": "頼む",
